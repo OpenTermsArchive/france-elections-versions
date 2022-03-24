@@ -4,9 +4,9 @@ Politique en matière de manipulation de la plateforme et de spam
 ### Vue d'ensemble
 
 **  
-Septembre 2020**
+Mars 2022**
 
-**Il est interdit d'utiliser les services de Twitter d'une manière qui vise à amplifier ou à supprimer artificiellement des informations, ou d'adopter un comportement qui manipule ou perturbe l'expérience des utilisateurs.**
+**Il est interdit d'utiliser les services de Twitter d'une manière qui vise à amplifier artificiellement ou à supprimer des informations, ou d'adopter un comportement qui manipule ou perturbe l'expérience des utilisateurs.**
 
 Nous voulons que les utilisateurs de Twitter puissent nouer des liens, trouver des informations fiables et s'exprimer librement et en toute sécurité. Pour que cela soit possible, nous n'autorisons pas le spam ni tout autre type de manipulation de la plateforme. Nous définissons la manipulation de la plateforme comme l'utilisation de Twitter pour des actions effectuées en masse, ou de manière agressive ou trompeuse, qui induisent les utilisateurs en erreur et/ou perturbent leur expérience.  
 
@@ -24,17 +24,11 @@ La manipulation de la plateforme peut prendre de nombreuses formes. Nos règles 
 En vertu de cette politique, nous interdisons tout un éventail de comportements dans les domaines suivants :  
  
 
-### Comptes et identité  
+### Comptes multiples et coordination
 
-**  
-Vous ne pouvez pas induire les autres utilisateurs de Twitter en erreur en vous servant de faux comptes.** Cela inclut l'utilisation d'informations de compte trompeuses pour adopter un comportement spammeur, inapproprié ou perturbateur. Parmi les facteurs que nous prenons en compte, citons notamment :
+**Vous ne pouvez pas créer un très grand nombre de comptes Twitter ni recourir à l'automatisation pour créer des comptes Twitter.**
 
-*   l'utilisation de photos de profil issues de banques de photos ou volées, en particulier celles représentant d'autres personnes ;
-*   l'utilisation de biographies volées ou copiées ;
-*   l'utilisation de données de profil intentionnellement trompeuses, notamment la localisation.  
-     
-
-**Vous ne pouvez pas amplifier ni perturber artificiellement les conversations en utilisant plusieurs comptes ou en vous coordonnant avec d'autres personnes pour enfreindre les Règles de Twitter.** Ceci inclut :  
+**Vous ne pouvez pas amplifier artificiellement ni perturber les conversations en utilisant plusieurs comptes ou en vous coordonnant avec d'autres personnes pour enfreindre les Règles de Twitter.** Ceci inclut :  
 
 *   les comptes redondants, c'est‑à‑dire l'utilisation de plusieurs comptes dont l'usage se recoupe, avec des personnages identiques ou similaires, ou du contenu en grande partie similaire ;
 *   les comptes qui interagissent mutuellement, c'est‑à‑dire l'utilisation de plusieurs comptes qui interagissent afin de gonfler ou de manipuler l'importance de comptes ou de Tweets spécifiques ;
@@ -42,7 +36,7 @@ Vous ne pouvez pas induire les autres utilisateurs de Twitter en erreur en vous 
     *   en publiant des Tweets ou hashtags identiques, ou en grande partie similaires, depuis plusieurs comptes que vous utilisez ; 
     *   en interagissant (Retweets, J'aime, mentions, votes sur des questions Twitter) de manière répétée avec les mêmes Tweets ou comptes depuis plusieurs comptes que vous utilisez ;
     *   en vous coordonnant avec autres personnes pour vous livrer à une amplification ou à des engagements artificiels, ou en les payant pour qu'elles le fassent, même si ces personnes n'utilisent qu'un seul compte ; et
-    *   en vous coordonnant avec d'autres personnes pour vous livrer à ou promouvoir des infractions aux Règles de Twitter, y compris des infractions à notre [politique relative aux comportements inappropriés](https://help.twitter.com/fr/rules-and-policies/abusive-behavior.html).  
+    *   en vous coordonnant avec d'autres personnes pour enfreindre les Règles de Twitter ou encourager des infractions, y compris à notre [politique relative aux comportements inappropriés](https://help.twitter.com/fr/rules-and-policies/abusive-behavior.html).  
          
 
 ### Engagement et indicateurs  
@@ -100,7 +94,6 @@ Vous ne pouvez pas utiliser les fonctionnalités du produit Twitter à mauvais e
   
 Il n'existe pas d'infraction à cette politique dans les cas suivants :
 
-*   utilisation de Twitter sous un pseudonyme ou avec un [compte parodique, de commentaires ou de fan](https://help.twitter.com/fr/rules-and-policies/parody-account-policy.html) ;
 *   publication occasionnelle de liens sans commentaire ;
 *   coordination avec d'autres pour exprimer des idées, des points de vue, un soutien ou une opposition à une cause, à condition qu'un tel comportement n'entraîne pas d'infractions aux Règles de Twitter ;
 *   utilisation de plusieurs comptes avec des identités, des objectifs ou des cas d'utilisation distincts. Ces comptes peuvent interagir les uns avec les autres, à condition qu'ils n'enfreignent pas d'autres règles. Voici quelques exemples :
@@ -122,26 +115,30 @@ Dans l'application**
 
 Suivez ces instructions pour signaler ce contenu dans l'application :
 
-1.  Sélectionnez **Signaler un Tweet** à partir de l’icône  .
+1.  Sélectionnez **Signaler le Tweet** depuis l'icône  .
 2.  Sélectionnez **Il est suspect ou publie du spam**. 
 3.  Sélectionnez l'option qui indique le mieux en quoi le Tweet est suspect ou de quelle manière il diffuse du spam.
 4.  Envoyez votre signalement.  
      
 
-**Ordinateur**  
+**Sur ordinateur**  
 
 Suivez ces instructions pour signaler ce contenu sur ordinateur :
 
-1.  Sélectionnez **Signaler un Tweet** à partir de l’icône  .
+1.  Sélectionnez **Signaler le Tweet** depuis l'icône  .
 2.  Sélectionnez **Il est suspect ou publie du spam**.
 3.  Sélectionnez l'option qui indique le mieux en quoi le Tweet est suspect ou de quelle manière il diffuse du spam.
 4.  Envoyez votre signalement.  
     
 
+Formulaire de signalement
+
+Vous pouvez également demander l'examen de ce contenu via notre [formulaire de signalement de spam](https://help.twitter.com/forms/spam) en sélectionnant l'option Je veux signaler du spam sur Twitter.
+
 ### Que se passe‑t‑il si vous enfreignez cette politique ?
 
   
-Les conséquences d'une infraction à cette politique varient en fonction de sa gravité et des éventuelles précédentes infractions commises. Notre action tient également compte du type de spam que nous avons identifié. Les mesures que nous prenons peuvent inclure les suivantes :  
+Les conséquences d'une infraction à cette politique varient en fonction de sa gravité et des éventuelles précédentes infractions commises. Notre action tient également compte du type de spam que nous avons identifié. Les sanctions que nous prenons peuvent inclure les suivantes :  
  
 
 **Défis antispam**  
@@ -158,8 +155,6 @@ Nous mettons sur liste noire les URL dont nous jugeons qu'elles ne sont pas sû
 
 *   Si la manipulation de la plateforme ou le spam est un incident isolé ou une première infraction, nous pouvons prendre un certain nombre de mesures, allant de la suppression d'un ou de plusieurs Tweets au verrouillage temporaire de comptes. Toute nouvelle manipulation de la plateforme entraînera une suspension définitive.
 *   En cas d'infraction liée à l'utilisation de plusieurs comptes, nous pourrons vous demander de choisir un compte à conserver. Les comptes restants seront définitivement suspendus.
-*   Si nous pensons que vous enfreignez peut‑être notre politique en matière de faux comptes, nous pouvons vous demander de fournir une pièce d'identité officielle (un permis de conduire ou un passeport, par exemple) afin de rétablir votre compte.  
-     
 
 **Suspension définitive**
 
