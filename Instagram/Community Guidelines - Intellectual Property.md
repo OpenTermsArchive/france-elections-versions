@@ -8,13 +8,13 @@ Pages d’aide
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yb/r/WYY0R7RoiE4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/ys/r/swBwzqixxdW.png)
 
 ](https://help.instagram.com/search/?helpref=hc_global_nav)
 
 [
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/2YrekAUY7pD.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yu/r/XBIajAr0O66.png)
 
 ](https://help.instagram.com/1417489251945243/?helpref=hc_global_nav)
 
@@ -33,15 +33,15 @@ Dans la plupart des pays, les droits d’auteur constituent un droit reconnu par
 
 Les droits d’auteur couvrent un grand nombre de types d’œuvres, notamment :
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Les contenus visuels ou audiovisuels : les vidéos, les films, les émissions et les séries télévisées, les jeux vidéo, les tableaux, les photos
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Les contenus audio : les chansons, les compositions musicales, les enregistrements sonores et les enregistrements parlés
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Les contenus écrits : les livres, les pièces de théâtre, les manuscrits, les articles et les partitions musicales
 
@@ -55,15 +55,15 @@ En général, la personne qui crée une œuvre originale en détient les droits 
 
 Vous pouvez parfois être amené(e) à penser que vous détenez les droits d’auteur d’une œuvre créative, sans que cela soit toutefois le cas. Par exemple :
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Si vous apparaissez sur une photo ou sur une vidéo, cela ne signifie pas nécessairement que vous en détenez les droits d’auteur. (En savoir plus sur la marche à suivre si vous pensez qu’une photo ou une vidéo sur Instagram ne respecte pas votre vie privée.)
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Si vous prenez en photo une sculpture, cela ne signifie pas que vous avez le droit d’empêcher d’autres personnes de prendre en photo cette même sculpture.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Si vous créez des œuvres dans le cadre de vos responsabilités professionnelles ordinaires, il se peut que vous ne soyez pas le titulaire des droits d’auteur de ces œuvres. Dans ce genre de cas, il arrive que la loi considère votre employeur comme étant le créateur de ces œuvres au regard de la législation sur les droits d’auteur.
 
@@ -93,57 +93,57 @@ En vertu des Conditions d’utilisation et des Règles de la communauté d’Ins
 
 Vous pouvez enfreindre les droits d’auteur d’un tiers lorsque vous publiez son contenu sur Instagram, même si vous :
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Avez acheté ou téléchargé le contenu (par exemple, une chanson sur iTunes)
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Avez enregistré le contenu avec votre propre appareil d’enregistrement (par exemple, une chanson en arrière-plan pendant une fête, un concert, une rencontre sportive, un mariage, etc.)
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Créditez le titulaire des droits d’auteur
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Vous ajoutez un avertissement indiquant que vous n’avez aucune intention d’enfreindre les droits d’auteur
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Vous n’aviez aucune intention d’utiliser le contenu à des fins lucratives
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Vous avez modifié l’œuvre ou y avez ajouté une touche personnelle
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Vous avez trouvé le contenu sur Internet
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Avez vu d’autres personnes publier le même contenu
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Pensez qu’il s’agit d’un usage raisonnable
 
 Avant de publier du contenu sur Instagram, il est judicieux de vous poser les questions suivantes :
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Ai-je créé l’intégralité du contenu moi-même ?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Suis-je autorisé(e) à utiliser l’intégralité des contenus de ma publication ?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Mon usage du contenu fait-il l’objet d’une exception à la violation de droits d’auteur ?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Le contenu est-il protégé par des droits d’auteur (par exemple, s’agit-il d’une citation courte, d’un concept, d’une idée ou d’une œuvre appartenant au domaine public) ?
 
@@ -195,39 +195,39 @@ Il peut arriver d’enfreindre involontairement les droits d’auteur d’un tie
 
 Sachez que si vous utilisez le contenu d’un tiers, vous êtes susceptible de porter atteinte à ses droits d’auteur, même si vous :
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 créditez le titulaire des droits d’auteur ;
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 ajoutez un avertissement indiquant que vous n’avez aucune intention d’enfreindre les droits d’auteur ;
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 pensez qu’il s’agit d’un usage équitable ;
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Vous n’aviez aucune intention d’utiliser le contenu à des fins lucratives
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 avez acheté ou téléchargé légalement le contenu (par exemple, la copie d’un DVD ou une chanson sur Internet) ;
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Vous avez modifié l’œuvre ou y avez ajouté une touche personnelle
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Vous avez trouvé le contenu sur Internet
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Avez enregistré le contenu sur votre propre appareil d’enregistrement (par exemple, au cinéma, à un concert, à un évènement sportif, etc.)
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 avez constaté que d’autres personnes ont publié le même contenu.
 
@@ -269,25 +269,25 @@ Signaler une violation de droits d’auteur sur Instagram
 
 Si vous pensez que du contenu sur Instagram enfreint vos droits d’auteur, vous pouvez prendre une ou plusieurs des mesures suivantes :
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Vous pouvez nous le signaler en remplissant ce formulaire.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Vous pouvez nous le signaler en utilisant la Protection des droits de la marque, qui permet à un détenteur de droits d’identifier et de signaler du contenu en infraction en matière de marques déposées, de droits d’auteur et de contrefaçon.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Vous pouvez contacter notre représentant désigné, conformément aux procédures de déclaration et de déclaration contradictoire du DMCA (Digital Millennium Copyright Act des États-Unis). Si vous contactez notre représentant DMCA désigné, veuillez vous assurer d’inclure une réclamation de droits d’auteur complète dans votre signalement.
 
 Remarques :
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Seul le titulaire des droits d’auteur ou son représentant agréé peut signaler une violation de ses droits d’auteur. Si vous jugez qu’un contenu publié sur Instagram enfreint les droits d’auteur d’un tiers, vous pouvez en informer le titulaire des droits.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Dans la majorité des cas, nous fournissons le nom du titulaire des droits, votre adresse e-mail et les détails de votre signalement à la personne qui a publié le contenu que vous signalez. Si vous envoyez un signalement en tant que représentant agréé d’une entité, nous indiquons le nom de l’organisation ou du client titulaire des droits en question. Nous vous conseillons donc de fournir une adresse e-mail professionnelle ou d’entreprise générique valide.
 
@@ -309,35 +309,35 @@ Veuillez noter que si vous envoyez un signalement à notre agent désigné par u
 
 Le moyen le plus rapide et le plus simple d’envoyer une réclamation pour violation des droits d’auteur consiste à utiliser notre formulaire en ligne. Que vous choisissiez d’envoyer votre signalement par l’intermédiaire de notre formulaire en ligne ou via une autre méthode, Instagram a besoin des informations suivantes pour pouvoir le traiter :
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Vos coordonnées complètes (nom complet, adresse postale et numéro de téléphone).\*
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Une description du contenu sur notre site que vous considérez comme une violation de vos droits d’auteur.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Des informations suffisantes pour nous permettre de localiser ce contenu sur notre site. La manière la plus simple de procéder est de nous fournir les adresses web (URL) menant directement au contenu présumé en infraction. Découvrez comment trouver une URL.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Une déclaration indiquant que :
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Vous estimez en toute bonne foi que l’utilisation faite du contenu protégé décrit ci-dessus, de la façon dont vous l’indiquez, n’est pas autorisée par le titulaire des droits d’auteur, son agent ou la loi.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Les informations fournies dans votre déclaration sont exactes.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Vous déclarez sur l’honneur que vous êtes le titulaire des droits d’auteur exclusifs pour l’œuvre en question ou que vous êtes autorisé(e) à agir au nom de ce dernier.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Votre signature manuscrite ou électronique.
 
@@ -345,23 +345,23 @@ Votre signature manuscrite ou électronique.
 
 Lorsque nous recevons une réclamation pour infraction aux droits d’auteur par le biais de notre formulaire en ligne et supprimons le contenu concerné, nous fournissons généralement à l’utilisateur signalé les informations suivantes :
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Le numéro du signalement
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Le nom du titulaire des droits
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 L’adresse e-mail fournie par la partie à l’origine du signalement
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Les détails du signalement
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Des instructions sur la façon d’envoyer une réclamation
 
@@ -373,23 +373,23 @@ Dans certains cas, nous répondrons à votre signalement pour vous demander de n
 
 Veuillez noter que nous fournissons régulièrement à la personne qui a publié le contenu les informations suivantes au sujet de votre signalement :
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Le numéro du signalement
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Le nom du titulaire des droits
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 L’adresse e-mail fournie par la partie à l’origine du signalement
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Les détails du signalement
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mDTpWxQkHlU.png)
 
 Des instructions sur la façon d’envoyer une réclamation
 
@@ -413,13 +413,13 @@ Pouvez-vous nous en dire plus ?
 
 N’oubliez pas que ce formulaire est uniquement destiné à recueillir votre avis et que vous ne recevrez pas de réponse. Veuillez ne pas inclure d’informations personnelles sur vous ou quelqu’un d’autre. Découvrez comment effectuer un signalement à Instagram.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/vv65l2ivilT.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/ejXlG8lzMr9.png)
 
 Merci
 
 Vos commentaires nous aident à améliorer cette réponse pour tous.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/afC97ryAiej.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/sBPgNSHYwFE.png)
 
 Oui
 
@@ -437,7 +437,7 @@ Autre
 
 Envoyer
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/Ei28SVQXqHE.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yC/r/QH7H49_YFDF.png)
 
 Articles connexes
 
@@ -448,7 +448,7 @@ Articles connexes
 
 Quels sont mes droits en tant que titulaire de droits d’auteur ?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/ke7oJx8KhqQ.png)
 
 
 
@@ -460,7 +460,7 @@ Quels sont mes droits en tant que titulaire de droits d’auteur ?
 
 Comment contacter l’agent désigné DMCA (Digital Millennium Copyright Act) d’Instagram ?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/ke7oJx8KhqQ.png)
 
 
 
@@ -472,7 +472,7 @@ Comment contacter l’agent désigné DMCA (Digital Millennium Copyright Act) d�
 
 Quelles informations dois-je inclure dans un signalement de violation des droits d’auteur sur Instagram ?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/ke7oJx8KhqQ.png)
 
 
 
@@ -484,7 +484,7 @@ Quelles informations dois-je inclure dans un signalement de violation des droits
 
 Qu’est-ce que les droits d’auteur et que protègent-ils ?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/ke7oJx8KhqQ.png)
 
 
 
@@ -496,7 +496,7 @@ Qu’est-ce que les droits d’auteur et que protègent-ils ?
 
 Comment dénoncer une possible infraction aux droits d’auteur sur Instagram ?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/ke7oJx8KhqQ.png)
 
 
 
