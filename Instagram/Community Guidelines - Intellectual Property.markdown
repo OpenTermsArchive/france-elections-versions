@@ -53,17 +53,20 @@ Droits d’auteur et publication de contenu sur Instagram
 
 En vertu des [Conditions d’utilisation](https://help.instagram.com/478745558852511) et des [Règles de la communauté](https://help.instagram.com/477434105621119/) d’Instagram, vous pouvez uniquement publier du contenu sur Instagram s’il n’enfreint pas les droits de propriété intellectuelle d’un tiers. Pour vous assurer que le contenu que vous publiez sur Instagram n’enfreint pas la législation relative aux droits d’auteur, le meilleur moyen reste de publier uniquement du contenu dont vous êtes vous-même l’auteur.
 
-Vous pouvez enfreindre les droits d’auteur d’un tiers lorsque vous publiez son contenu sur Instagram, même si vous :
+Il est également interdit de publier sur Instagram du contenu qui facilite l’infraction des droits d’auteur par le biais d’appareils ou services non autorisés.
+
+Vous risquez d’enfreindre les droits d’auteur d’un tiers lorsque vous publiez son contenu sur Instagram, ou de faciliter cette infraction, même si vous :
 
 *   Avez acheté ou téléchargé le contenu (par exemple, une chanson sur iTunes)
 *   Avez enregistré le contenu avec votre propre appareil d’enregistrement (par exemple, une chanson en arrière-plan pendant une fête, un concert, une rencontre sportive, un mariage, etc.)
 *   Créditez le titulaire des droits d’auteur
 *   Vous ajoutez un avertissement indiquant que vous n’avez aucune intention d’enfreindre les droits d’auteur
-*   Vous n’aviez aucune intention d’utiliser le contenu à des fins lucratives
-*   Vous avez modifié l’œuvre ou y avez ajouté une touche personnelle
-*   Vous avez trouvé le contenu sur Internet
+*   N’aviez aucune intention d’utiliser le contenu à des fins lucratives
+*   Avez modifié l’œuvre ou y avez ajouté une touche personnelle
+*   Avez trouvé le contenu sur Internet
 *   Avez vu d’autres personnes publier le même contenu
 *   Pensez qu’il s’agit d’un [usage raisonnable](https://help.instagram.com/116455299019699?helpref=search&sr=1&query=fair+use&search_session_id=8aa28133c81800559a4366cb5bb4c6a3)
+*   Utilisez un appareil ou service de streaming non autorisé (exemples : une application ou un service « débridés » ou « chargés »)
 
 Avant de publier du contenu sur Instagram, il est judicieux de vous poser les questions suivantes :
 
@@ -74,7 +77,7 @@ Avant de publier du contenu sur Instagram, il est judicieux de vous poser les qu
 
 Il est généralement judicieux d’obtenir une autorisation écrite de l’auteur de l’œuvre avant de publier du contenu sur Instagram. Dans certains cas, vous pouvez utiliser le contenu d’un tiers sur Instagram si vous en avez reçu l’autorisation de sa part, en achetant une licence, par exemple. Dans certains cas, vous pouvez utiliser le contenu d’un tiers s’il entre dans le domaine public, s’il s’agit d’un usage équitable ou s’il fait l’objet d’une autre exception aux droits d’auteur.
 
-En savoir plus sur les [droits d’auteur et le contenu protégé par les lois régissant les droits d’auteur.](https://help.instagram.com/126382350847838)
+En savoir plus sur les [droits d’auteur et le contenu protégé par les lois régissant les droits d’auteur](https://help.instagram.com/126382350847838).
 
 Les législations du monde entier reconnaissent que l’application stricte des lois relatives aux droits d’auteur serait injuste dans certains cas de figure, ou pourrait étouffer la créativité ou empêcher la création d’œuvres originales, ce qui risquerait de porter atteinte au public. Ces lois permettent à des personnes d’utiliser, dans certaines circonstances, les œuvres protégées d’un tiers. Il peut s’agir, par exemple, de l’utilisation d’une œuvre à des fins de critique, de commentaire, de parodie, de satire, d’information, d’enseignement, de formation et de recherche.
 
