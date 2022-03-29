@@ -1,4 +1,4 @@
-_Le groupe Facebook s’appelle désormais Meta. Nous avons mis à jour nos Conditions d’utilisation, notre Politique d’utilisation des données et notre Politique d’utilisation des cookies pour refléter ce changement de nom le 4 janvier 2022. Bien que notre entreprise ait changé de nom, nous continuons à proposer les mêmes produits, dont l’application Facebook de Meta. Notre Politique d’utilisation des données et nos Conditions de service restent en vigueur, et ce changement de nom n’affecte en rien la façon dont nous utilisons ou partageons les données. [_En savoir plus sur Meta_](https://about.facebook.com/meta) et notre vision du métavers._
+_L’entreprise Facebook Ireland Limited a changé de nom et est devenue Meta Platforms Ireland Limited. Nous avons mis à jour nos Conditions de service, notre Politique d’utilisation des données et notre Politique d’utilisation des cookies pour refléter ce changement de nom le 4 janvier 2022. Bien que notre entreprise ait changé de nom, nous continuons à proposer les mêmes produits, dont l’application Facebook de Meta. Notre Politique d’utilisation des données et nos Conditions de service restent en vigueur, et ce changement de nom n’affecte en rien la façon dont nous utilisons ou partageons les données. [_En savoir plus sur Meta_](https://about.facebook.com/meta) et notre vision du métavers._
 
   
   
@@ -6,7 +6,9 @@ _Le groupe Facebook s’appelle désormais Meta. Nous avons mis à jour nos Cond
 
 **Conditions de service**
 
-Meta conçoit des technologies et des services qui permettent à chacun et à chacune d’entrer en contact, de former des communautés et de développer les activités de leur entreprise. Les présentes Conditions générales régissent votre utilisation de Facebook, de Messenger et d’autres produits, fonctionnalités, applications, services, technologies et logiciels que nous proposons (les [Produits Meta](https://www.facebook.com/help/1561485474074139?ref=tos) ou les [Produits](https://www.facebook.com/help/1561485474074139?ref=tos)), sauf lorsque nous indiquons expressément que des conditions distinctes (et non les présentes) s’appliquent. Ces Produits vous sont fournis par Meta Platforms, Inc.
+Pour les services de messagerie, d’appel vocal et d’appel vidéo inclus dans les Produits Meta, veuillez cliquer [ici](https://www.facebook.com/legal/terms/eecc/contract_summary) pour obtenir un résumé du contrat et [ici](https://www.facebook.com/legal/terms/eecc/flyout) pour obtenir d’autres informations requises par le Code des communications électroniques européen.
+
+Meta conçoit des technologies et des services qui permettent à chacun et à chacune d’entrer en contact, de former des communautés et de développer les activités de leur entreprise. Les présentes Conditions générales régissent votre utilisation de Facebook, de Messenger et d’autres produits, fonctionnalités, applications, services, technologies et logiciels que nous proposons (les [Produits Meta](https://www.facebook.com/help/1561485474074139?ref=tos) ou les [Produits](https://www.facebook.com/help/1561485474074139?ref=tos)), sauf lorsque nous indiquons expressément que des conditions distinctes (et non les présentes) s’appliquent. Ces Produits vous sont fournis par Meta Platforms Ireland Limited.
 
 Nous ne vous facturons pas l’utilisation de Facebook ou des autres produits et services couverts par les présentes Conditions. À la place, les entreprises et les organisations nous payent pour vous montrer des publicités pour leurs produits et services. En utilisant nos Produits, vous acceptez que nous vous montrions des publicités que nous croyons pertinentes pour vous en fonction de vos intérêts. Nous utilisons vos données personnelles afin de définir les publicités à vous montrer.
 
@@ -26,7 +28,7 @@ Notre mission est de donner à tout le monde la possibilité de créer une commu
     
 *   **Nous vous aidons à découvrir du contenu, des produits et des services susceptibles de vous intéresser :** nous vous montrons des publicités, des offres et d’autres contenus sponsorisés afin de vous aider à découvrir du contenu, des produits et des services qui sont proposés par les nombreuses entreprises et organisations qui utilisent Facebook et d’autres Produits Meta. La Section 2 ci-dessous offre des explications plus détaillées.
     
-*   **Lutter contre les comportements préjudiciables ainsi que protéger et soutenir notre communauté :** Les personnes ne formeront une communauté sur Meta Products que si elles s’y sentent en sécurité. Nous employons des équipes dédiées à travers le monde et développons des systèmes techniques avancés afin de détecter les mauvaises utilisations de nos Produits, les comportements préjudiciables envers les autres et les situations dans lesquelles nous pourrions être en mesure de soutenir ou de protéger notre communauté. Si un tel contenu ou un tel comportement est porté à notre connaissance, nous prendrons les mesures appropriées, par exemple en proposant notre aide, en supprimant le contenu, en supprimant ou en limitant l’accès à certaines fonctionnalités, en désactivant un compte ou en contactant la police. Nous partageons des données avec d’autres [Entités Meta](https://www.facebook.com/help/111814505650678?ref=tos) lorsque nous détectons une utilisation abusive ou un comportement préjudiciable de la part de quelqu’un qui utilise l’un de nos Produits.
+*   **Lutter contre les comportements préjudiciables ainsi que protéger et soutenir notre communauté :** Les personnes ne formeront une communauté sur Meta Products que si elles s’y sentent en sécurité. Nous employons des équipes dédiées à travers le monde et développons des systèmes techniques avancés afin de détecter les mauvaises utilisations de nos Produits, les comportements préjudiciables envers les autres et les situations dans lesquelles nous pourrions être en mesure de soutenir ou de protéger notre communauté. Si un tel contenu ou un tel comportement est porté à notre connaissance, nous prendrons les mesures appropriées, par exemple en proposant notre aide, en supprimant le contenu, en bloquant l’accès à certaines fonctionnalités, en désactivant un compte ou en contactant les autorités légales. Nous partageons des données avec d’autres [Entités Meta](https://www.facebook.com/help/111814505650678?ref=tos) lorsque nous détectons une utilisation abusive ou un comportement préjudiciable de la part de quelqu’un qui utilise l’un de nos Produits.
     
 *   **Nous utilisons et développons des technologies avancées pour fournir des services sécurisés et fonctionnels pour tous :** nous utilisons et développons des technologies avancées, telles que l’intelligence artificielle, les systèmes d’apprentissage automatique et la réalité augmentée, de sorte que les personnes puissent utiliser nos Produits en toute sécurité, indépendamment de toute aptitude physique ou de tout emplacement géographique. Par exemple, de telles technologies aident les gens malvoyants à comprendre quelles sont les personnes ou les choses présentes dans les photos ou les vidéos partagées sur Facebook ou sur Instagram. Nous créons également une technologie sophistiquée de réseau et de communication pour aider davantage d’utilisateurs à se connecter à Internet dans les régions présentant un accès limité. Enfin, nous développons des systèmes automatisés pour améliorer notre capacité à détecter et à supprimer les activités abusives et dangereuses qui pourraient porter atteinte à notre communauté et à l’intégrité de nos Produits.
     
@@ -40,13 +42,15 @@ Notre mission est de donner à tout le monde la possibilité de créer une commu
 
 **2\. Comment nos services sont financés**
 
-Au lieu de payer pour l’utilisation de Facebook et des autres produits et services que nous offrons, en utilisant les Produits Meta couverts par les présentes Conditions, vous acceptez que nous vous montrions des publicités payées par des entreprises et organisations pour que nous les promouvions sur les [Produits des entités Meta](https://www.facebook.com/help/195227921252400?ref=tos) et en dehors. Nous utilisons vos données personnelles, telles que les informations concernant votre activité et vos intérêts, afin de vous montrer des publicités plus pertinentes pour vous.
+Au lieu de payer pour l’utilisation de Facebook et des autres produits et services que nous offrons, en utilisant les Produits Meta couverts par les présentes Conditions, vous acceptez que nous vous montrions des publicités payées par des entreprises et organisations pour que nous les promouvions sur les Produits des entités Meta et en dehors. Nous utilisons vos données personnelles, telles que les informations concernant votre activité et vos intérêts, afin de vous montrer des publicités plus pertinentes pour vous.
 
 La protection de la vie privée est au cœur de la conception de notre système publicitaire. Cela signifie que nous pouvons vous montrer des publicités pertinentes et utiles sans informer les annonceurs sur votre identité. Nous ne vendons pas vos données personnelles. Nous autorisons les annonceurs à nous donner des informations, telles que leur objectif commercial et le type d’audience à qui ils souhaitent montrer leurs publicités (par exemple, les personnes âgées de 18 à 35 ans qui aiment le vélo). Puis, nous montrons leur publicité aux personnes susceptibles d’être intéressées.
 
 De plus, nous envoyons aux annonceurs des rapports sur les performances de leurs publicités pour les aider à comprendre comment les gens interagissent avec leur contenu sur les Produits Meta et en dehors. Par exemple, nous communiquerons aux annonceurs des informations générales concernant la démographie et les centres d’intérêt (par exemple, une publicité a été vue par une femme entre 25 et 34 ans qui vit à Madrid et qui aime l’ingénierie informatique) pour les aider à mieux comprendre leur audience. Nous ne partageons aucune information qui vous identifie directement (des informations comme votre nom ou adresse e-mail qui, en elles-mêmes, peuvent servir à vous contacter ou à vous identifier) sans avoir obtenu votre autorisation spécifique. En savoir plus sur la manière dont fonctionnent les publicités Meta [ici](https://www.facebook.com/about/ads).
 
-Nous collectons et utilisons vos données personnelles afin de vous fournir les services décrits ci-dessus. Pour en savoir plus sur la façon dont nous collectons et utilisons vos données, consultez notre [Politique d’utilisation des données](https://www.facebook.com/about/privacy/update). Vous pouvez contrôler les types de publicités et d’annonceurs que vous voyez ainsi que les types d’informations que nous utilisons pour définir les publicités que nous vous montrons. [En savoir plus](https://www.facebook.com/about/ads).  
+Nous collectons et utilisons vos données personnelles afin de vous fournir les services décrits ci-dessus. Pour en savoir plus sur la façon dont nous collectons et utilisons vos données, consultez notre [Politique d’utilisation des données](https://www.facebook.com/about/privacy/update). Vous pouvez contrôler les types de publicités et d’annonceurs que vous voyez ainsi que les types d’informations que nous utilisons pour définir les publicités que nous vous montrons. [En savoir plus](https://www.facebook.com/about/ads).
+
+  
   
 
 **3\. Vos engagements envers Facebook et notre communauté**
@@ -63,7 +67,7 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
     
     Nous essayons de rendre Facebook largement accessible à tous, mais vous ne pouvez pas utiliser Facebook si :
     
-    *   vous êtes âgé(e) de moins de 13 ans (ou l’âge minimum légal dans votre pays pour utiliser nos Produits) ;
+    *   vous avez moins de 13 ans ;
     *   vous êtes un délinquant sexuel condamné ;
     *   nous avons précédemment désactivé votre compte pour non-respect de nos Conditions générales ou de nos Règlements ;
     *   vous n’êtes pas autorisé(e) à recevoir nos produits, nos services ou nos logiciels en vertu des lois applicables.
@@ -75,7 +79,7 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
     
     *   Vous ne pouvez pas utiliser nos Produits pour faire ou partager quoi que ce soit :
         
-        *   qui enfreint les présentes Conditions, nos [Standards de la communauté](https://www.facebook.com/communitystandards) et les autres conditions générales et règlements applicables à votre utilisation de nos Produits ;
+        *   qui enfreint les présentes Conditions, nos [Standards de la communauté](https://www.facebook.com/communitystandards) et les [autres conditions générales et règlements](#other-terms-policies) applicables à votre utilisation de nos Produits ;
             
         *   qui est illégal, trompeur, discriminant ou frauduleux ;
             
@@ -85,13 +89,13 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
         
     *   Vous ne devez pas collecter des données sur nos Produits ni accéder à de telles données par des moyens automatisés (sans notre autorisation préalable), ni tenter d’accéder à des données auxquelles vous n’êtes pas autorisé(e) à accéder.
     
-    Nous pouvons supprimer ou limiter l’accès au contenu qui enfreint les présentes dispositions.
+    Nous pouvons supprimer ou bloquer le contenu qui enfreint ces dispositions.
     
-    Si nous supprimons du contenu que vous avez partagé, car il enfreint nos Standards de la communauté, nous vous en informerons et vous expliquerons les options à votre disposition pour demander un réexamen. Vous ne pourrez pas faire cette demande si vous enfreignez gravement ou à maintes reprises les présentes Conditions ou si cela engage notre responsabilité juridique ou celle d’un tiers, porte atteinte à notre communauté d’utilisateurs, ou compromet ou altère l’intégrité ou le fonctionnement de nos services, systèmes ou Produits, ou en cas de restrictions techniques ou lorsqu’il nous est interdit de le faire pour des raisons légales.
+    Si nous supprimons du contenu que vous avez partagé, car il viole nos Standards de la communauté, nous vous en informerons et vous expliquerons les options à votre disposition pour demander un réexamen, à moins que vous n’enfreigniez gravement ou à maintes reprises les présentes Conditions ou si cela engage notre responsabilité juridique ou celle d’un tiers, porte atteinte à notre communauté d’utilisateurs, ou compromette ou altère l’intégrité ou le fonctionnement de nos services, systèmes ou Produits, ou en cas de restrictions techniques ou lorsqu'il nous est interdit de le faire pour des raisons légales.
     
-    Pour nous aider à soutenir notre communauté, nous vous encourageons à [signaler](https://www.facebook.com/help/181495968648557?ref=tos) tout contenu ou comportement qui, selon vous, enfreint vos droits (y compris vos [droits de propriété intellectuelle](https://www.facebook.com/help/intellectual_property?ref=tos)) ou nos conditions et règlements.
+    Pour nous aider à soutenir notre communauté, nous vous encourageons à [signaler tout contenu](https://www.facebook.com/help/181495968648557?ref=tos) ou comportement qui, selon vous, enfreint vos droits (y compris vos [droits de propriété intellectuelle](https://www.facebook.com/help/intellectual_property?ref=tos)) ou nos conditions et règlements.
     
-    Nous pouvons également supprimer ou limiter l’accès à votre contenu, à vos services ou à vos informations si nous estimons que cela s’avère raisonnablement nécessaire pour éviter ou atténuer des effets juridiques ou réglementaires négatifs sur Meta.
+    Nous pouvons également supprimer ou limiter l’accès à votre contenu, vos services ou vos informations si nous estimons que cela s’avère raisonnablement nécessaire pour éviter ou atténuer les effets juridiques ou réglementaires négatifs sur Facebook.
     
       
     
@@ -151,35 +155,35 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
       
     Nous voulons faire de Facebook un lieu à la fois chaleureux et sécurisé, où chacun peut s’exprimer et partager ses opinions et ses idées.
     
-    S’il s’avère que vous avez manifestement, gravement ou à maintes reprises enfreint nos Conditions ou nos Règlements, et notamment nos Standards de la communauté, nous pourrons suspendre ou désactiver définitivement l’accès à votre compte. Nous pourrons également suspendre ou désactiver votre compte si vous enfreignez à plusieurs reprises des droits de propriété intellectuelle tiers ou si la loi nous y oblige.
+    S’il s’avère que vous avez manifestement, gravement ou à maintes reprises enfreint nos Conditions ou nos Règlements, et notamment nos [Standards de la communauté](https://www.facebook.com/communitystandards), nous pourrons suspendre ou désactiver définitivement l’accès à votre compte. Nous pourrons également suspendre ou désactiver votre compte si vous enfreignez à plusieurs reprises des droits de propriété intellectuelle tiers ou si la loi nous y oblige.
     
-    Si nous procédons ainsi, nous vous en informerons et vous expliquerons les options à votre disposition pour demander un examen, à moins que cela ne puisse engager notre responsabilité juridique ou celle d’un tiers, porter atteinte à notre communauté d’utilisateurs, ou compromettre ou altérer l’intégrité ou le fonctionnement de nos sources, systèmes ou Produits, ou en cas de restrictions techniques ou lorsqu'il nous est interdit de le faire pour des raisons légales.
+    Si nous procédons ainsi, nous vous en informerons et vous expliquerons les options à votre disposition pour demander un examen, à moins que cela ne puisse engager notre responsabilité juridique ou celle d’un tiers, porter atteinte à notre communauté d’utilisateurs, ou compromettre ou altérer l’intégrité ou le fonctionnement de nos services, systèmes ou Produits, ou en cas de restrictions techniques ou lorsqu'il nous est interdit de le faire pour des raisons légales.
     
     [Apprenez-en plus](https://www.facebook.com/help/103873106370583?ref=tos) sur les dispositions que vous pouvez prendre si votre compte a été désactivé et sur la façon de nous contacter si vous estimez que nous avons désactivé votre compte par erreur.
     
-    Si vous supprimez ou si nous désactivons votre compte, les présentes Conditions prendront fin et ne constitueront plus un accord entre vous et nous, mais les dispositions suivantes resteront en vigueur : 3, 4.2-4.5.
+    Si vous supprimez ou si nous désactivons votre compte, les présentes Conditions prendront fin et ne constitueront plus un accord entre vous et nous, mais les dispositions suivantes resteront en vigueur : 3.3.1, 4.2-4.5.
     
       
     
 *   Limites de responsabilité  
-    Nous mettons tout en œuvre pour fournir les meilleurs Produits possible et donner des directives claires à tous les utilisateurs. Toutefois, nos Produits sont fournis « tels quels » et nous ne pouvons garantir qu’ils seront toujours sécurisés, sans risques ou exempts d’erreur, ou encore qu’ils fonctionneront sans interruptions, retards ou imperfections. Dans la mesure permise par la loi, nous déclinons également TOUTE GARANTIE, EXPLICITE OU IMPLICITE, NOTAMMENT LES GARANTIES IMPLICITES DE QUALITÉ MARCHANDE, D’ADÉQUATION À UN USAGE PARTICULIER, DE TITRE ET D’ABSENCE DE CONTREFAÇON. Nous ne pouvons contrôler ni orienter ce que les gens font ou disent, et nous ne sommes pas responsables de leurs actions ou conduite (en ligne comme hors ligne) ni du contenu qu’ils partagent (qu’il soit offensant, inapproprié, obscène, illégal ou autrement répréhensible).
+    Aucune des dispositions des présentes Conditions ne vise à exclure ou à limiter notre responsabilité en cas de décès, de blessure physique ou de déclaration erronée dus à notre négligence, ou dans le but de porter atteinte à vos droits légaux.
     
-    Nous ne sommes pas en mesure de prévoir lorsque des problèmes peuvent survenir avec nos Produits. Par conséquent, notre responsabilité sera limitée dans toute la mesure permise par la loi en vigueur, et nous ne serons en aucun cas responsables envers vous des pertes de profits, de revenus, d’informations ou de données, ou des dommages accessoires, spéciaux, indirects, exemplaires, punitifs ou accidentels découlant des présentes conditions ou des produits Facebook, ou en rapport avec ceux-ci, même si nous avons été informés de la possibilité de tels dommages.
+    Nous ferons preuve de diligence professionnelle pour vous fournir nos Produits et services, et maintenir un environnement sûr et sans erreur. Sous réserve d’avoir agi avec diligence professionnelle, nous n’acceptons aucune responsabilité en cas de pertes non dues à notre violation des présentes Conditions ou à tout autre acte de notre part ; de pertes raisonnablement imprévisibles par vous ou nous lors de la conclusion des présentes Conditions ; et d’évènements en dehors de notre contrôle raisonnable.
     
       
     
 *   Litiges  
     Nous tentons de fournir des règles claires de manière à pouvoir limiter ou, espérons-le, éviter les litiges entre vous et nous. Toutefois, si un litige survient, il est utile de savoir à l’avance à quel endroit il peut être résolu et quelles lois seront applicables.
     
-    Si vous êtes un consommateur, les lois du pays dans lequel vous résidez s’appliqueront à toute réclamation, à toute cause d’action ou à tout litige à notre encontre qui découle des présentes Conditions ou des Produits Meta, ou en lien avec ceux-ci, et vous pourrez résoudre votre réclamation devant tout tribunal compétent de ce pays qui peut statuer sur la réclamation. Dans tous les autres cas, vous acceptez que la réclamation doive être résolue exclusivement devant un tribunal du district nord de Californie ou un tribunal d’État du comté de San Mateo. Vous acceptez également de vous soumettre à la compétence personnelle de l’un de ces tribunaux dans le cadre de telles réclamations et acceptez que le droit de l’État de Californie régit les présentes Conditions et les réclamations, sans tenir compte des dispositions en matière de conflits de lois.
+    Si vous êtes un consommateur et que vous résidez habituellement dans un État membre de l’Union européenne, les lois de cet État membre s’appliqueront à toute réclamation, à toute cause d’action ou à tout litige à notre encontre, qui découle des présentes conditions ou des Produits Meta, ou en lien avec ceux-ci (« réclamation »), et vous pouvez résoudre votre réclamation devant tout tribunal de cet État membre qui est compétent pour statuer sur la réclamation. Dans tous les autres cas, vous acceptez que la réclamation doit être résolue devant un tribunal compétent de la République d’Irlande et que la législation irlandaise régit les présentes Conditions et toute réclamation, sans égard aux dispositions en matière de conflits de lois.
     
       
     
 *   Autre  
     
-    *   Ces Conditions (anciennement connues sous le nom de « Déclaration des droits et responsabilités ») forment l’intégralité de l’accord entre vous et Meta Platforms, Inc. en ce qui concerne votre utilisation de nos Produits. Elles remplacent tout accord antérieur.
+    *   Ces Conditions (anciennement connues sous le nom de « Déclaration des droits et responsabilités ») forment l’intégralité de l’accord entre vous et Meta Platforms Ireland Limited en ce qui concerne votre utilisation de nos Produits. Elles remplacent tout accord antérieur.
         
-    *   Certains des Produits que nous proposons sont également régis par des conditions supplémentaires. Si vous utilisez l’un de ces Produits, les conditions supplémentaires seront rendues disponibles et feront partie de notre accord avec vous. Par exemple, si vous utilisez nos Produits ou y accédez à des fins commerciales ou professionnelles, comme pour acheter des publicités, pour vendre des produits, pour développer des applications, pour gérer un groupe ou une Page pour votre activité commerciale, ou encore pour utiliser nos services de mesure, vous devez accepter nos [Conditions commerciales](https://www.facebook.com/legal/commercial_terms). Si vous publiez ou partagez du contenu contenant de la musique, vous devez respecter nos [Règles applicables à la musique](https://www.facebook.com/legal/music_guidelines). Dans la mesure où les conditions supplémentaires seraient en conflit avec les présentes Conditions, les conditions supplémentaires prévaudront dans la mesure du conflit.
+    *   Certains des Produits que nous proposons sont également régis par des conditions supplémentaires. Si vous utilisez l’un de ces Produits, vous aurez l’occasion d’accepter ces conditions supplémentaires qui feront partie intégrante de notre accord avec vous. Par exemple, si vous utilisez nos Produits ou y accédez à des fins commerciales ou professionnelles, comme pour acheter des publicités, pour vendre des produits, pour développer des applications, pour gérer un groupe ou une Page pour votre activité commerciale, ou encore pour utiliser nos services de mesure, vous devez accepter nos [Conditions commerciales](https://www.facebook.com/legal/commercial_terms). Si vous publiez ou partagez du contenu contenant de la musique, vous devez respecter nos [Règles applicables à la musique](https://www.facebook.com/legal/music_guidelines). Dans la mesure où les conditions supplémentaires seraient en conflit avec les présentes Conditions, les conditions supplémentaires prévaudront dans la mesure du conflit.
         
     *   Si une partie des présentes Conditions est jugée inapplicable, la partie restante restera pleinement en vigueur. Si nous ne parvenons pas à faire appliquer l’une des présentes Conditions, cela ne pourra être considéré comme une renonciation. Tout amendement des présentes Conditions ou toute dérogation à celles-ci doivent être établis par écrit et signés par nous.
         
@@ -189,11 +193,10 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
         
     *   Les présentes Conditions ne confèrent aucun droit à des tiers bénéficiaires. La totalité de nos droits et de nos obligations en vertu des présentes Conditions est librement cessible par nous dans le cadre d’une fusion, d’une acquisition ou de la vente de nos actifs, ou par effet de la loi ou dans d’autres cas.
         
-    *   Vous devez savoir que nous pouvons être amenés à changer le nom d’utilisateur associé à votre compte dans certaines circonstances (par exemple, lorsqu’une autre personne revendique le nom d’utilisateur et que le nom d’utilisateur semble sans rapport avec le nom que vous utilisez au quotidien). Nous vous informerons à l’avance si nous devons procéder ainsi et vous expliquerons pourquoi.
+    *   Vous devez savoir que nous pouvons être amenés à changer le nom d’utilisateur associé à votre compte dans certaines circonstances (par exemple, lorsqu’une autre personne revendique le nom d’utilisateur et que le nom d’utilisateur semble sans rapport avec le nom que vous utilisez au quotidien). Nous vous informerons à l’avance si nous devons procéder ainsi et vous en expliquerons les raisons.
         
     *   Nous sommes toujours ravis de recevoir votre avis et d’autres suggestions à propos de nos produits et services. Sachez toutefois que nous pouvons les utiliser sans aucune restriction ni obligation de rémunération, et que nous ne sommes pas tenus de les garder confidentiels.
         
-    *   Nous nous réservons tous les droits qui ne vous sont pas explicitement accordés.
     
 
   
@@ -224,6 +227,7 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
     
 *   [Règles relatives au contenu en direct](https://www.facebook.com/policies/live) : ces règles s’appliquent à tout le contenu diffusé sur Facebook Live.
     
+*   Conditions générales des services de messagerie pertinentes pour les utilisateurs de l’UE, de l’EEE et du Royaume-Uni : les conditions générales applicables aux services de messagerie, d’appel vocal et d’appel vidéo inclus dans les produits Facebook sont définies [ici](https://www.facebook.com/legal/terms/eecc/contract_summary) et [ici](https://www.facebook.com/legal/terms/eecc/flyout) conformément aux directives européennes.
 
   
 Date de la dernière mise à jour : 4 janvier 2022
