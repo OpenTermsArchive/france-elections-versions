@@ -9,15 +9,15 @@ Changelog
 
 Version actuelle
 
-###### 19 nov. 2020
+###### 18 nov. 2020
 
-###### 31 janv. 2020
+###### 30 janv. 2020
 
-###### 17 déc. 2019
+###### 16 déc. 2019
 
-###### 1 déc. 2019
+###### 30 nov. 2019
 
-###### 27 avr. 2019
+###### 26 avr. 2019
 
 #### Justification de cette politique
 
