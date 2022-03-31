@@ -1,24 +1,6 @@
 Commémoration
 =============
 
-### CHANGELOG
-
-Changelog
-
-###### Aujourd’hui
-
-Version actuelle
-
-###### 19 nov. 2020
-
-###### 31 janv. 2020
-
-###### 17 déc. 2019
-
-###### 1 déc. 2019
-
-###### 27 avr. 2019
-
 #### Justification de cette politique
 
 Lors du décès d’une personne, les amis et la famille peuvent demander que nous [transformions son compte Facebook en compte de commémoration](https://www.facebook.com/help/150486848354038?ref=ccs). Une fois transformé en compte de commémoration, le mot « En souvenir de » apparaît au-dessus du nom sur le profil de la personne pour aider à faire comprendre que le compte a dorénavant un but commémoratif et le protéger des tentatives de connexion et de l’activité frauduleuse. Afin de respecter les choix posés par une personne durant son vivant, nous avons pour intention de conserver son compte après son décès. Nous avons également fait en sorte que les gens puissent désigner un [contact légataire](https://www.facebook.com/help/1568013990080948?ref=ccs) pour gérer leur compte après leur décès. Dans une optique de soutien aux personnes endeuillées, nous pouvons - dans certains cas - supprimer ou changer du contenu lorsque le contact légataire ou des membres de la famille le demandent.
