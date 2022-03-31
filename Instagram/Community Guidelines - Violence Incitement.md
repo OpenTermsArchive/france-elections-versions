@@ -1,56 +1,6 @@
 Violence et incitation
 ======================
 
-### CHANGELOG
-
-Changelog
-
-###### Aujourd’hui
-
-Version actuelle
-
-###### 25 févr. 2022
-
-###### 25 nov. 2021
-
-###### 29 oct. 2021
-
-###### 5 mai 2021
-
-###### 9 févr. 2021
-
-###### 29 janv. 2021
-
-###### 19 nov. 2020
-
-###### 4 sept. 2020
-
-###### 27 juin 2020
-
-###### 29 mai 2020
-
-###### 17 déc. 2019
-
-###### 1 déc. 2019
-
-###### 30 sept. 2019
-
-###### 31 juil. 2019
-
-###### 11 juil. 2020
-
-###### 2 juil. 2019
-
-###### 27 avr. 2019
-
-###### 29 déc. 2018
-
-###### 16 oct. 2018
-
-###### 28 juil. 2018
-
-###### 26 mai 2018
-
 #### Justification de cette politique
 
 Nous souhaitons empêcher tout risque de danger hors ligne potentiellement lié à du contenu sur Facebook. Bien qu’il soit commun pour des utilisateurs d’exprimer leur dédain ou leur désaccord sous forme de menaces ou d’appels à la violence, mais de manière non sérieuse, nous supprimons les propos qui encouragent ou permettent des violences graves. Lorsque nous pensons qu’un contenu représente un réel risque de préjudice physique ou une atteinte directe à la sécurité publique, nous supprimons le contenu, désactivons les comptes concernés et collaborons avec les autorités. Nous essayons également d’examiner le langage utilisé et le contexte pour distinguer les déclarations triviales de celles qui représentent une menace réelle pour la sécurité publique ou celle d’un individu. Pour déterminer la crédibilité d’une menace, nous examinons éventuellement d’autres informations, telles que le degré d’exposition publique d’un individu et les risques pour sa sécurité physique.
