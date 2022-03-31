@@ -1,54 +1,6 @@
 Discours haineux
 ================
 
-### CHANGELOG
-
-Changelog
-
-###### Aujourd’hui
-
-Version actuelle
-
-###### 24 nov. 2021
-
-###### 28 oct. 2021
-
-###### 23 juin 2021
-
-###### 28 janv. 2021
-
-###### 18 nov. 2020
-
-###### 12 oct. 2020
-
-###### 23 sept. 2020
-
-###### 11 août 2020
-
-###### 30 juil. 2020
-
-###### 22 juin 2020
-
-###### 26 mars 2020
-
-###### 27 févr. 2020
-
-###### 16 déc. 2019
-
-###### 30 oct. 2019
-
-###### 26 août 2019
-
-###### 30 juil. 2019
-
-###### 1 juil. 2019
-
-###### 20 mars 2019
-
-###### 31 août 2018
-
-###### 25 mai 2018
-
 #### Justification de cette politique
 
 Nous pensons que les personnes s’expriment et interagissent plus librement lorsqu’elles ne se sentent pas attaquées sur la base de ce qu’elles sont. C’est la raison pour laquelle nous interdisons tout type de discours haineux sur Facebook. Ces derniers créent un environnement intimidant et excluant et peuvent, dans certains cas, faire l’apologie de la violence hors ligne.
