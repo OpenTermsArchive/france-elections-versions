@@ -1,32 +1,6 @@
 Suicide et automutilation
 =========================
 
-### CHANGELOG
-
-Changelog
-
-###### Aujourd’hui
-
-Version actuelle
-
-###### 1 oct. 2021
-
-###### 5 mai 2020
-
-###### 18 déc. 2020
-
-###### 19 nov. 2020
-
-###### 31 juil. 2020
-
-###### 2 juil. 2019
-
-###### 27 avr. 2019
-
-###### 21 mars 2019
-
-###### 1 sept. 2018
-
 #### Justification de cette politique
 
 Nous tenons particulièrement à la sécurité des personnes qui utilisent nos apps. Nous consultons régulièrement des experts en suicide et automutilation pour soutenir nos politiques et leur mise en application et collaborer avec des organisations du monde entier pour assister les personnes en détresse.
