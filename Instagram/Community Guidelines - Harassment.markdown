@@ -1,44 +1,6 @@
 Harcèlement et intimidation
 ===========================
 
-### CHANGELOG
-
-Changelog
-
-###### Aujourd’hui
-
-Version actuelle
-
-###### 24 déc. 2021
-
-###### 14 oct. 2021
-
-###### 27 août 2021
-
-###### 5 mai 2021
-
-###### 3 avr. 2021
-
-###### 29 janv. 2021
-
-###### 19 nov. 2020
-
-###### 31 juil. 2020
-
-###### 29 mai 2020
-
-###### 28 févr. 2020
-
-###### 31 janv. 2020
-
-###### 30 sept. 2019
-
-###### 31 juil. 2019
-
-###### 2 juil. 2019
-
-###### 27 avr. 2019
-
 #### Justification de cette politique
 
 Le harcèlement et l’intimidation se produisent en divers lieux et sous différentes formes, qu’il s’agisse de la diffusion d’informations personnelles identifiables, de l’envoi de messages de menace ou de contacts malveillants indésirés. Nous ne tolérons pas ce type de comportement, car il empêche les gens de se sentir respectés et en sécurité sur Facebook.
