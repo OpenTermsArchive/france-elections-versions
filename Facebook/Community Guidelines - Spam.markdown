@@ -1,6 +1,18 @@
 Contenu indésirable
 ===================
 
+### CHANGELOG
+
+Changelog
+
+###### Aujourd’hui
+
+Version actuelle
+
+###### 17 déc. 2020
+
+###### 30 oct. 2019
+
 #### Justification de cette politique
 
 Nous travaillons ardemment à limiter la diffusion des spams, car nous ne voulons pas autoriser du contenu ayant pour but de tromper ou essayant d’induire les utilisateurs en erreur pour plus de visibilité. Ce contenu crée une expérience négative, réduit les possibilités des utilisateurs à s’impliquer automatiquement dans des communautés en ligne et peut menacer la sécurité, la stabilité et l’utilisation de nos services. Nous avons aussi l’intention d’empêcher l’abus de nos plate-forme, produits ou fonctionnalités à des fins d’augmentation de la visibilité ou de distribution en masse de contenu pour en retirer un bénéfice commercial.
