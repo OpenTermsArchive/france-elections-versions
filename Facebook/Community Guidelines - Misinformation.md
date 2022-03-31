@@ -1,14 +1,6 @@
 Misinformation
 ==============
 
-### CHANGELOG
-
-Changelog
-
-###### Aujourd’hui
-
-Version actuelle
-
 #### Justification de cette politique
 
 Les fausses informations sont différentes des autres types de discours abordés dans nos Standards de la communauté, car il est impossible de dresser une liste exhaustive de tout ce qui est interdit. Par exemple, avec la violence graphique ou les discours haineux, nos politiques précisent le discours que nous interdisons, et même les personnes qui ne sont pas d’accord avec ces politiques peuvent les respecter. En revanche, nous ne pouvons pas adopter la même posture avec les fausses informations. Le monde change constamment, et ce qui est vrai maintenant peut ne plus l’être la minute suivante. Les personnes ont également des niveaux différents d’information sur le monde qui les entoure, et peuvent croire que quelque chose est vrai alors que ce n’est pas le cas. Une politique qui interdirait simplement les « fausses informations » ne fournirait pas un avertissement utile aux personnes qui utilisent nos services et serait inapplicable, car nous n’avons pas un accès sans faille aux informations.
