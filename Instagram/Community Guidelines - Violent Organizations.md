@@ -1,36 +1,6 @@
 Individus et organismes dangereux
 =================================
 
-### CHANGELOG
-
-Changelog
-
-###### Aujourd’hui
-
-Version actuelle
-
-###### 23 déc. 2021
-
-###### 24 nov. 2021
-
-###### 15 oct. 2021
-
-###### 26 août 2021
-
-###### 23 juin 2021
-
-###### 22 oct. 2020
-
-###### 27 août 2020
-
-###### 27 févr. 2020
-
-###### 10 oct. 2019
-
-###### 27 sept. 2019
-
-###### 28 déc. 2018
-
 #### Justification de cette politique
 
 Afin d’éviter et d’empêcher tout danger réel, les organisations ou individus qui revendiquent des objectifs violents ou qui sont impliqués dans des activités violentes ne sont pas les bienvenus sur Facebook. Nous évaluons ces entités selon leur comportement en ligne et hors ligne, et plus particulièrement selon les liens qu’elles entretiennent avec la violence. Dans le cadre de cette politique, nous désignons des individus, des organisations et des réseaux de personnes. Ces désignations sont divisées en trois niveaux qui indiquent le niveau de mise en application du contenu, le niveau 1 entraînant la mise en application la plus étendue, car nous estimons que ces entités possèdent les liens les plus directs avec la violence hors ligne.
