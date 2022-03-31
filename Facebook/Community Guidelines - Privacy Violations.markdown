@@ -1,26 +1,6 @@
 Atteintes à la vie privée
 =========================
 
-### CHANGELOG
-
-Changelog
-
-###### Aujourd’hui
-
-Version actuelle
-
-###### 25 févr. 2022
-
-###### 25 nov. 2021
-
-###### 1 oct. 2021
-
-###### 19 nov. 2020
-
-###### 1 déc. 2018
-
-###### 30 juin 2018
-
 #### Justification de cette politique
 
 Chez Facebook, nous accordons énormément d’importance à la confidentialité et à la protection des informations personnelles de nos utilisateurs. Nous travaillons dur pour protéger votre identité et vos informations personnelles et nous n’autorisons pas les personnes à publier des informations personnelles ou confidentielles les concernant ou concernant des tiers.
