@@ -1,34 +1,6 @@
 Sollicitation sexuelle
 ======================
 
-### CHANGELOG
-
-Changelog
-
-###### Aujourd’hui
-
-Version actuelle
-
-###### 24 déc. 2021
-
-###### 25 nov. 2021
-
-###### 29 oct. 2021
-
-###### 26 févr. 2021
-
-###### 19 nov. 2020
-
-###### 29 mai 2020
-
-###### 27 août 2019
-
-###### 31 juil. 2019
-
-###### 29 déc. 2018
-
-###### 16 oct. 2018
-
 #### Justification de cette politique
 
 Tel qu’indiqué à la section 8 de nos Standards de la communauté ([Exploitation sexuelle des adultes](https://www.facebook.com/communitystandards/sexual_exploitation_adults)), Facebook permet de discuter et d’attirer l’attention sur la violence et l’exploitation sexuelles. Nous reconnaissons l'importance de ces discussions et les autorisons, tout comme nous permettons les discussions sur la défense des droits des travailleurs du sexe et la réglementation du travail sexuel. Nous fixons cependant des limites lorsque le contenu permet, encourage ou coordonne des rencontres sexuelles ou des services sexuels commerciaux entre adultes. Ce faisant, nous évitons de favoriser des transactions pouvant impliquer des actes sexuels dans le cadre d’un trafic, sous la contrainte et non consentis.
