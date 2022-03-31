@@ -1,20 +1,6 @@
 Comportement non authentique
 ============================
 
-### CHANGELOG
-
-Changelog
-
-###### Aujourd’hui
-
-Version actuelle
-
-###### 18 déc. 2020
-
-###### 8 nov. 2019
-
-###### 11 oct. 2019
-
 #### Justification de cette politique
 
 Dans le cadre de notre engagement pour l’authenticité, nous n’autorisons pas les personnes à mentir sur leur identité sur Facebook, à utiliser de faux comptes, à augmenter de manière artificielle la popularité de leur contenu ou à adopter des comportements visant à permettre d’autres violations en vertu de nos Standards de la communauté. La présente politique a pour objet de protéger la sécurité des utilisateurs de compte ainsi que de nos services et de créer un lieu où les personnes peuvent faire confiance aux autres et aux communautés avec lesquelles elles échangent.
