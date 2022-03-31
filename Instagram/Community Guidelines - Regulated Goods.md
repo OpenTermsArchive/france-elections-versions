@@ -1,56 +1,6 @@
 Biens et services restreints
 ============================
 
-### CHANGELOG
-
-Changelog
-
-###### Aujourd’hui
-
-Version actuelle
-
-###### 23 déc. 2021
-
-###### 24 nov. 2021
-
-###### 30 sept. 2021
-
-###### 26 août 2021
-
-###### 29 juil. 2021
-
-###### 28 janv. 2021
-
-###### 24 sept. 2020
-
-###### 30 juil. 2020
-
-###### 22 juin 2020
-
-###### 30 avr. 2020
-
-###### 30 nov. 2019
-
-###### 10 oct. 2019
-
-###### 24 sept. 2019
-
-###### 3 sept. 2019
-
-###### 30 juil. 2019
-
-###### 24 juil. 2019
-
-###### 1 juil. 2019
-
-###### 26 avr. 2019
-
-###### 20 mars 2019
-
-###### 30 nov. 2018
-
-###### 31 août 2018
-
 #### Justification de cette politique
 
 Afin d’encourager la sécurité et la conformité aux restrictions légales générales, nous interdisons toute tentative d’achat, de vente ou d’échange de substances non thérapeutiques, de médicaments et de marijuana par des particuliers, producteurs ou commerçants. Nous interdisons également l’achat, la vente, le don, l’échange et le transfert d’armes à feu, y compris de pièces d’armes à feu et de munitions, entre particuliers sur Facebook. Certains de ces articles ne sont pas réglementés partout ; toutefois, en raison de la nature sans frontières de notre communauté, nous essayons d’appliquer nos règlements de la manière la plus cohérente possible. Les armureries et les vendeurs en ligne peuvent faire la promotion d’articles disponibles à la vente en dehors de nos services tant qu'ils sont conformes aux lois et réglementations en vigueur. Nous autorisons les discussions concernant la vente d’armes à feu et de pièces d’armes à feu dans les boutiques ou par les vendeurs en ligne et prônant le changement de la réglementation sur les armes à feu. Les marchandises réglementées qui ne sont pas interdites par nos Standards de la communauté peuvent être soumises à nos [règles commerciales](https://transparency.fb.com/policies/commerce) plus strictes.
