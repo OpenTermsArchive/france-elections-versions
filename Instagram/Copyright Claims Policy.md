@@ -21,23 +21,17 @@ The fastest and easiest way to submit a claim of copyright infringement to us is
 Related Articles
 ----------------
 
-[What information do I need to include in a report under the CPA?](https://help.instagram.com/187498706047461/?helpref=related_articles)
-
 [What information do I need to include in a report under the NetzDG?](https://help.instagram.com/672397529630883/?helpref=related_articles)
 
-[How do I share from Instagram to other social networks?](https://help.instagram.com/365696916849749/?helpref=related_articles)
+[What information do I need to include in a report under the CPA?](https://help.instagram.com/187498706047461/?helpref=related_articles)
 
 [What information do I need to include in a trademark report on Instagram?](https://help.instagram.com/364771763628260/?helpref=related_articles)
 
-[What is Instagram?](https://help.instagram.com/424737657584573/?helpref=related_articles)
+[How do I report copyright infringement on Instagram?](https://help.instagram.com/277982542336146/?helpref=related_articles)
+
+[What happens when I submit a copyright report to Instagram?](https://help.instagram.com/746718085394495/?helpref=related_articles)
 
 Related Articles
-
-[
-
-What information do I need to include in a report under the CPA?
-
-](https://help.instagram.com/187498706047461/?helpref=related_articles)
 
 [
 
@@ -47,9 +41,9 @@ What information do I need to include in a report under the NetzDG?
 
 [
 
-How do I share from Instagram to other social networks?
+What information do I need to include in a report under the CPA?
 
-](https://help.instagram.com/365696916849749/?helpref=related_articles)
+](https://help.instagram.com/187498706047461/?helpref=related_articles)
 
 [
 
@@ -59,6 +53,12 @@ What information do I need to include in a trademark report on Instagram?
 
 [
 
-What is Instagram?
+How do I report copyright infringement on Instagram?
 
-](https://help.instagram.com/424737657584573/?helpref=related_articles)
+](https://help.instagram.com/277982542336146/?helpref=related_articles)
+
+[
+
+What happens when I submit a copyright report to Instagram?
+
+](https://help.instagram.com/746718085394495/?helpref=related_articles)
