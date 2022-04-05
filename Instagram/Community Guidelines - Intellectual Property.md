@@ -243,9 +243,9 @@ Related Articles
 
 [How do I know if I own the copyright in a work?](https://help.instagram.com/782489295246269/?helpref=related_articles)
 
-[What happens when I submit a copyright report to Instagram?](https://help.instagram.com/746718085394495/?helpref=related_articles)
-
 [What rights do I have as a copyright owner?](https://help.instagram.com/1992178671014348/?helpref=related_articles)
+
+[How can I make sure the content I post to Instagram doesn't violate copyright law?](https://help.instagram.com/354736791367645/?helpref=related_articles)
 
 Related Articles
 
@@ -263,12 +263,12 @@ How do I know if I own the copyright in a work?
 
 [
 
-What happens when I submit a copyright report to Instagram?
-
-](https://help.instagram.com/746718085394495/?helpref=related_articles)
-
-[
-
 What rights do I have as a copyright owner?
 
 ](https://help.instagram.com/1992178671014348/?helpref=related_articles)
+
+[
+
+How can I make sure the content I post to Instagram doesn't violate copyright law?
+
+](https://help.instagram.com/354736791367645/?helpref=related_articles)
