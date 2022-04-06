@@ -1,8 +1,6 @@
 Copyright
 =========
 
-Copy link
-
 The FAQs in this section provide some information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of other people when posting to Instagram, as well as how Instagram addresses reports of copyright infringement. If you believe someone is using your copyrighted work without your permission, you can fill out [this form](https://help.instagram.com/contact/372592039493026).
 
 Please note that laws in different countries may vary. For more information on copyright law, you can visit the website of the [U.S. Copyright Office](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.copyright.gov%2F) or the [World Intellectual Property Organization (WIPO)](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fwww.wipo.int%2Fportal%2Fen%2Findex.html). Instagram can’t provide you with legal advice, so you may want to speak with an attorney if you have more questions about copyright.
@@ -235,40 +233,3 @@ If you submitted an intellectual property report, but then reached an agreement 
 The best way to do this is to email us at ip@instagram.com and reference your original report number.
 
 Once we receive notice that you’d like to withdraw your report, we’ll restore the content if it has already been removed and send you an email confirmation. Please note, we may be unable to restore the content in certain instances, including technical limitations or if the content was removed for other reasons unrelated to your intellectual property report.
-
-Related Articles
-----------------
-
-[How do I report copyright infringement on Instagram?](https://help.instagram.com/277982542336146/?helpref=related_articles)
-
-[How do I know if I own the copyright in a work?](https://help.instagram.com/782489295246269/?helpref=related_articles)
-
-[What rights do I have as a copyright owner?](https://help.instagram.com/1992178671014348/?helpref=related_articles)
-
-[How can I make sure the content I post to Instagram doesn't violate copyright law?](https://help.instagram.com/354736791367645/?helpref=related_articles)
-
-Related Articles
-
-[
-
-How do I report copyright infringement on Instagram?
-
-](https://help.instagram.com/277982542336146/?helpref=related_articles)
-
-[
-
-How do I know if I own the copyright in a work?
-
-](https://help.instagram.com/782489295246269/?helpref=related_articles)
-
-[
-
-What rights do I have as a copyright owner?
-
-](https://help.instagram.com/1992178671014348/?helpref=related_articles)
-
-[
-
-How can I make sure the content I post to Instagram doesn't violate copyright law?
-
-](https://help.instagram.com/354736791367645/?helpref=related_articles)
