@@ -282,7 +282,7 @@ Nous vous aviserons de toute modification importante apportée à la présente p
 **XI. Comment nous contacter pour toute question ?**
 ----------------------------------------------------
 
-Vous pouvez en savoir plus sur la confidentialité [sur Facebook](https://www.facebook.com/about/basics) et [sur Instagram](https://help.instagram.com/196883487377501?ref=dp). Pour toutes questions concernant de la présente politique, vous pouvez nous contacter par les moyens décrits ci-dessous.
+Vous pouvez en savoir plus sur la confidentialité [sur Facebook](https://www.facebook.com/about/basics) et [sur Instagram](https://help.instagram.com/196883487377501?ref=dp). Pour toute question concernant cette politique, vous pouvez nous contacter par les moyens décrits ci-dessous.
 
 Le responsable de traitement des données pour vos informations est Meta Platforms Ireland Limited, que vous pouvez [contacter en ligne](https://help.instagram.com/contact/186020218683230)ou par courrier à l’adresse :  
   
