@@ -3,7 +3,7 @@ Politique en matière d'informations et de médias privés
 
 ### Vue d'ensemble 
 
-**Novembre 2021**
+**Avril 2022**
 
 **Il est interdit de publier les informations privées d'une autre personne sans son consentement exprès et son autorisation. Nous interdisons également de menacer de dévoiler des informations privées ou d'inciter d'autres personnes à le faire.**
 
@@ -18,9 +18,7 @@ Lors de l'examen des signalements en vertu de cette politique, nous prenons en c
 
 **Quel est le type d'informations partagées ?  
 **  
- 
-
-Nous prenons ceci en compte, car certains types d'informations privées comportent des risques plus élevés que d'autres en cas de partage sans autorisation. Notre objectif principal est de protéger les personnes de tout préjudice physique potentiel résultant du partage de leurs informations. Nous considérons donc que les informations telles que la localisation géographique et le numéro de téléphone présentent un risque plus élevé que les autres types d'informations. 
+Nous prenons ceci en compte, car certains types d'informations privées comportent des risques plus élevés que d'autres en cas de partage sans autorisation. Notre objectif principal est de protéger les personnes de tout préjudice physique potentiel résultant du partage de leurs informations. Nous considérons donc que les informations telles que la localisation géographique et le numéro de téléphone présentent un risque plus élevé que les autres types d'informations.   
 
 **Qui partage l'information ?**  
   
@@ -50,7 +48,8 @@ En vertu de cette politique, vous ne pouvez pas partager les types d'information
 *   les coordonnées, notamment les numéros de téléphone personnels et adresses email non publics ; 
 *   les informations de compte, notamment les détails de compte bancaire et de carte de crédit ;
 *   les autres informations privées, notamment les données biométriques ou dossiers médicaux ;
-*   les médias de particuliers sans l'autorisation des personnes représentées. 
+*   les médias de particuliers sans l'autorisation des personnes représentées ; et
+*   les médias montrant des prisonniers de guerre publiés par des comptes de médias gouvernementaux ou affiliés à un État à compter du 5 avril 2022. 
 
 Les comportements suivants sont également interdits :   
 
