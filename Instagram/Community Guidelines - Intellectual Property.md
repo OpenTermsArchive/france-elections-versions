@@ -247,8 +247,6 @@ Related Articles
 
 [How can I make sure the content I post to Instagram doesn't violate copyright law?](https://help.instagram.com/354736791367645/?helpref=related_articles)
 
-[What happens when I submit a copyright report to Instagram?](https://help.instagram.com/746718085394495/?helpref=related_articles)
-
 Related Articles
 
 [
@@ -274,9 +272,3 @@ What rights do I have as a copyright owner?
 How can I make sure the content I post to Instagram doesn't violate copyright law?
 
 ](https://help.instagram.com/354736791367645/?helpref=related_articles)
-
-[
-
-What happens when I submit a copyright report to Instagram?
-
-](https://help.instagram.com/746718085394495/?helpref=related_articles)
