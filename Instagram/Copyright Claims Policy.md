@@ -5,7 +5,7 @@ The fastest and easiest way to submit a claim of copyright infringement to us is
 
 *   Your complete contact information (full name, mailing address and phone number)\*
 *   A description of the content on our site that you claim infringes your copyright
-*   Information reasonably sufficient to permit us to locate the material on our site. The easiest way to do this is by providing web addresses (URLs) leading directly to the allegedly infringing content. Learn [how to find a URL](https://help.instagram.com/372819389498306).
+*   Information reasonably sufficient to permit us to locate the material on our site. The easiest way to do this is by providing web addresses (URLs) leading directly to the allegedly infringing content. Learn [how to find a URL](https://help.instagram.com/372819389498306?helpref=faq_content).
 *   A declaration that:
     
     *   You have a good faith belief that use of the copyrighted content described above, in the manner you have complained of, is not authorized by the copyright owner, its agent, or the law.
