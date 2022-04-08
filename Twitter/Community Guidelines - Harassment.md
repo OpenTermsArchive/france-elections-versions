@@ -1,7 +1,7 @@
 Comportement inapproprié
 ========================
 
-[Règles de Twitter](https://help.twitter.com/fr/rules-and-policies/twitter-rules.html) : il est interdit de se livrer au harcèlement ciblé d'autres personnes, ainsi que d'inciter à le faire. Toute tentative de harcèlement, d'intimidation ou de réduction d'une personne au silence est considérée comme un comportement inapproprié.  
+[Règles de Twitter](https://help.twitter.com/fr/rules-and-policies/twitter-rules) : il est interdit de se livrer au harcèlement ciblé d'autres personnes, ainsi que d'inciter à le faire. Toute tentative de harcèlement, d'intimidation ou de réduction d'une personne au silence est considérée comme un comportement inapproprié.  
  
 
 ### Logique sous‑jacente
@@ -11,7 +11,7 @@ Sur Twitter, chacun devrait se sentir en sécurité pour exprimer son point de v
 
 Pour faciliter un dialogue constructif sur la plateforme et permettre aux utilisateurs d'exprimer des opinions et croyances variées, nous interdisons les comportements de harcèlement et d'intimidation, ou dont le but est d'humilier ou de dénigrer les autres. Outre les risques qu'ils présentent en matière de sécurité des personnes, ces comportements peuvent aussi entraîner des difficultés physiques et émotionnelles pour les utilisateurs concernés.   
 
-En savoir plus sur [notre approche en matière d'élaboration de politiques et notre philosophie relative à l'application de ces dernières](https://help.twitter.com/fr/rules-and-policies/enforcement-philosophy.html)  
+En savoir plus sur [notre approche en matière d'élaboration de politiques et notre philosophie relative à l'application de ces dernières](https://help.twitter.com/fr/rules-and-policies/enforcement-philosophy)  
   
 
 ### Quand cela s'applique‑t‑il ? 
@@ -19,7 +19,7 @@ En savoir plus sur [notre approche en matière d'élaboration de politiques et n
   
 Certains Tweets peuvent sembler inappropriés hors contexte, mais ne le sont pas forcément au sein de la conversation dont ils sont tirés. Lorsque nous examinons ce type de contenu, il peut être difficile de déterminer si son but est de harceler une personne, ou s'il s'agit simplement d'un élément d'une conversation consensuelle. Pour aider nos équipes à comprendre le contexte d'une conversation, nous devrons peut‑être contacter directement la personne ciblée, afin de nous assurer que nous disposons des informations nécessaires avant de prendre des sanctions.
 
-Nous passerons en revue les signalements de comptes qui ciblent une personne ou un groupe de personnes en recourant à un ou plusieurs des comportements ci‑dessous dans leurs Tweets ou Messages Privés, et nous prendrons les sanctions qui s'imposent envers ces comptes. Pour les comptes qui font preuve d'un comportement inapproprié sur leur profil, veuillez vous reporter à notre [politique en matière de profils inappropriés](https://help.twitter.com/fr/rules-and-policies/abusive-profile.html). Les comportements qui ciblent des personnes en fonction de la race, de l'origine ethnique, de l'origine nationale, de l'orientation sexuelle, du sexe, de l'identité sexuelle, de l'appartenance religieuse, de l'âge, d'un handicap ou d'une maladie grave peuvent enfreindre notre [politique en matière de conduite haineuse](https://help.twitter.com/fr/rules-and-policies/hateful-conduct-policy.html).
+Nous passerons en revue les signalements de comptes qui ciblent une personne ou un groupe de personnes en recourant à un ou plusieurs des comportements ci‑dessous dans leurs Tweets ou Messages Privés, et nous prendrons les sanctions qui s'imposent envers ces comptes. Pour les comptes qui font preuve d'un comportement inapproprié sur leur profil, veuillez vous reporter à notre [politique en matière de profils inappropriés](https://help.twitter.com/fr/rules-and-policies/abusive-profile). Les comportements qui ciblent des personnes en fonction de la race, de l'origine ethnique, de l'origine nationale, de l'orientation sexuelle, du sexe, de l'identité sexuelle, de l'appartenance religieuse, de l'âge, d'un handicap ou d'une maladie grave peuvent enfreindre notre [politique en matière de conduite haineuse](https://help.twitter.com/fr/rules-and-policies/hateful-conduct-policy).
 
 **  
 Menaces violentes**
@@ -49,7 +49,7 @@ Nous reconnaissons que les conversations concernant certaines personnes accusée
 **Avances sexuelles non désirées  
 **
 
-Si certaines formes [de nudité consensuelle et de contenus pour adultes sont autorisées](https://help.twitter.com/fr/rules-and-policies/media-policy.html) sur Twitter, nous interdisons les avances sexuelles non désirées et tout contenu qui fait d'une personne un objet sexuel sans son consentement. Cela inclut les comportements suivants, mais sans s'y limiter :
+Si certaines formes [de nudité consensuelle et de contenus pour adultes sont autorisées](https://help.twitter.com/fr/rules-and-policies/media-policy) sur Twitter, nous interdisons les avances sexuelles non désirées et tout contenu qui fait d'une personne un objet sexuel sans son consentement. Cela inclut les comportements suivants, mais sans s'y limiter :
 
 * Envoyer à quelqu'un des contenus pour adultes non sollicités et/ou non désirés, notamment des images, des vidéos et des GIF 
 * Les discussions de nature sexuelle non souhaitées sur le corps d'une personne 
@@ -90,6 +90,6 @@ Lorsque nous déterminons la sanction liée à l'infraction à cette politique, 
     * Nous pourrons, par exemple, exiger qu'une personne supprime le contenu en infraction et lui imposer d'utiliser son compte en mode lecture seule pendant une certaine période avant de pouvoir tweeter de nouveau. Les infractions suivantes pourront entraîner des périodes plus longues de mode lecture seule, avant une éventuelle suspension définitive.
 * Suspendre les comptes dont nous avons déterminé que l'utilisation principale est de se livrer à un comportement abusif comme défini dans la présente politique, ou qui ont partagé des menaces violentes.
 
-Découvrez [notre gamme d'options pour l'application de nos politiques](https://help.twitter.com/fr/rules-and-policies/enforcement-options.html).
+Découvrez [notre gamme d'options pour l'application de nos politiques](https://help.twitter.com/fr/rules-and-policies/enforcement-options).
 
 Si une personne pense que son compte a été suspendu par erreur, elle peut [faire appel de cette décision](https://help.twitter.com/forms/general?subtopic=suspended).
