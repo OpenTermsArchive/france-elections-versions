@@ -25,7 +25,7 @@ En général, la personne qui crée une œuvre originale en détient les droits 
 
 Vous pouvez parfois être amené(e) à penser que vous détenez les droits d’auteur d’une œuvre créative, sans que cela soit toutefois le cas. Par exemple :
 
-*   Si vous apparaissez sur une photo ou sur une vidéo, cela ne signifie pas nécessairement que vous en détenez les droits d’auteur. ([En savoir plus](https://help.instagram.com/667810236572057) sur la marche à suivre si vous pensez qu’une photo ou une vidéo sur Instagram ne respecte pas votre vie privée.)
+*   Si vous apparaissez sur une photo ou sur une vidéo, cela ne signifie pas nécessairement que vous en détenez les droits d’auteur. ([En savoir plus](https://help.instagram.com/667810236572057?helpref=faq_content) sur la marche à suivre si vous pensez qu’une photo ou une vidéo sur Instagram ne respecte pas votre vie privée.)
 *   Si vous prenez en photo une sculpture, cela ne signifie pas que vous avez le droit d’empêcher d’autres personnes de prendre en photo cette même sculpture.
 *   Si vous créez des œuvres dans le cadre de vos responsabilités professionnelles ordinaires, il se peut que vous ne soyez pas le titulaire des droits d’auteur de ces œuvres. Dans ce genre de cas, il arrive que la loi considère votre employeur comme étant le créateur de ces œuvres au regard de la législation sur les droits d’auteur.
 
@@ -51,7 +51,7 @@ La législation relative aux [marques déposées](https://help.instagram.com/693
 
 Copyright and Posting Content on Instagram
 
-En vertu des [Conditions d’utilisation](https://help.instagram.com/478745558852511) et des [Règles de la communauté](https://help.instagram.com/477434105621119/) d’Instagram, vous pouvez uniquement publier du contenu sur Instagram s’il n’enfreint pas les droits de propriété intellectuelle d’un tiers. Pour vous assurer que le contenu que vous publiez sur Instagram n’enfreint pas la législation relative aux droits d’auteur, le meilleur moyen reste de publier uniquement du contenu dont vous êtes vous-même l’auteur.
+En vertu des [Conditions d’utilisation](https://help.instagram.com/478745558852511) et des [Règles de la communauté](https://help.instagram.com/477434105621119/?helpref=faq_content) d’Instagram, vous pouvez uniquement publier du contenu sur Instagram s’il n’enfreint pas les droits de propriété intellectuelle d’un tiers. Pour vous assurer que le contenu que vous publiez sur Instagram n’enfreint pas la législation relative aux droits d’auteur, le meilleur moyen reste de publier uniquement du contenu dont vous êtes vous-même l’auteur.
 
 Il est également interdit de publier sur Instagram du contenu qui facilite l’infraction des droits d’auteur par le biais d’appareils ou services non autorisés.
 
@@ -72,12 +72,12 @@ Avant de publier du contenu sur Instagram, il est judicieux de vous poser les qu
 
 *   Ai-je créé l’intégralité du contenu moi-même ?
 *   Suis-je autorisé(e) à utiliser l’intégralité des contenus de ma publication ?
-*   Mon usage du contenu fait-il l’objet d’une [exception à la violation de droits d’auteur](https://help.instagram.com/116455299019699) ?
+*   Mon usage du contenu fait-il l’objet d’une [exception à la violation de droits d’auteur](https://help.instagram.com/116455299019699?helpref=faq_content) ?
 *   Le contenu est-il protégé par des droits d’auteur (par exemple, s’agit-il d’une citation courte, d’un concept, d’une idée ou d’une œuvre appartenant au domaine public) ?
 
 Il est généralement judicieux d’obtenir une autorisation écrite de l’auteur de l’œuvre avant de publier du contenu sur Instagram. Dans certains cas, vous pouvez utiliser le contenu d’un tiers sur Instagram si vous en avez reçu l’autorisation de sa part, en achetant une licence, par exemple. Dans certains cas, vous pouvez utiliser le contenu d’un tiers s’il entre dans le domaine public, s’il s’agit d’un usage équitable ou s’il fait l’objet d’une autre exception aux droits d’auteur.
 
-En savoir plus sur les [droits d’auteur et le contenu protégé par les lois régissant les droits d’auteur](https://help.instagram.com/126382350847838).
+En savoir plus sur les [droits d’auteur et le contenu protégé par les lois régissant les droits d’auteur](https://help.instagram.com/126382350847838?helpref=faq_content).
 
 Les législations du monde entier reconnaissent que l’application stricte des lois relatives aux droits d’auteur serait injuste dans certains cas de figure, ou pourrait étouffer la créativité ou empêcher la création d’œuvres originales, ce qui risquerait de porter atteinte au public. Ces lois permettent à des personnes d’utiliser, dans certaines circonstances, les œuvres protégées d’un tiers. Il peut s’agir, par exemple, de l’utilisation d’une œuvre à des fins de critique, de commentaire, de parodie, de satire, d’information, d’enseignement, de formation et de recherche.
 
@@ -125,17 +125,17 @@ Sachez que si vous utilisez le contenu d’un tiers, vous êtes susceptible de p
 *   Avez enregistré le contenu sur votre propre appareil d’enregistrement (par exemple, au cinéma, à un concert, à un évènement sportif, etc.)
 *   avez constaté que d’autres personnes ont publié le même contenu.
 
-En savoir plus sur les [droits d’auteur et le contenu protégé par les lois régissant les droits d’auteur.](https://help.instagram.com/126382350847838)
+En savoir plus sur les [droits d’auteur et le contenu protégé par les lois régissant les droits d’auteur.](https://help.instagram.com/126382350847838?helpref=faq_content)
 
 Si nous supprimons du contenu que vous avez publié à la suite d’un signalement pour violation de la propriété intellectuelle envoyé par l’intermédiaire de notre formulaire en ligne, vous recevrez une notification de la part d’Instagram pouvant contenir le nom et l’adresse e-mail du titulaire des droits qui a envoyé le signalement et/ou d’autres détails sur le signalement en question. Si vous pensez que le contenu n’aurait pas dû être supprimé, vous pouvez contacter directement le titulaire des droits pour essayer de résoudre le problème.
 
 Réclamation au sujet de la suppression de contenu
 
-Si votre contenu a été supprimé à cause d’un signalement concernant les droits d’auteur, vous pouvez envoyer une réclamation. Vous trouverez des instructions sur la procédure à suivre dans le message que nous vous enverrons. De même, si le contenu a été supprimé en vertu des procédures de déclaration et de déclaration contradictoire du [DMCA (United States Digital Millennium Copyright Act)](https://help.instagram.com/697328657009330), vous pouvez peut-être déposer une déclaration contradictoire DMCA. Là encore, vous trouverez des instructions dans le message que nous vous enverrons.
+Si votre contenu a été supprimé à cause d’un signalement concernant les droits d’auteur, vous pouvez envoyer une réclamation. Vous trouverez des instructions sur la procédure à suivre dans le message que nous vous enverrons. De même, si le contenu a été supprimé en vertu des procédures de déclaration et de déclaration contradictoire du [DMCA (United States Digital Millennium Copyright Act)](https://help.instagram.com/697328657009330?helpref=faq_content), vous pouvez peut-être déposer une déclaration contradictoire DMCA. Là encore, vous trouverez des instructions dans le message que nous vous enverrons.
 
-Apprenez-en davantage sur [notre procédure de réclamation](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F1417735471763678%3Flocale%3Den_US) ou sur l’[utilisation de la musique dans vos vidéos sur Instagram](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F629037417957828).
+Apprenez-en davantage sur [notre procédure de réclamation](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F1417735471763678%3Flocale%3Den_US%26helpref%3Dfaq_content) ou sur l’[utilisation de la musique dans vos vidéos sur Instagram](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F629037417957828%3Fhelpref%3Dfaq_content).
 
-En utilisant Instagram, vous avez accepté nos [Conditions d’utilisation](https://help.instagram.com/581066165581870), qui interdisent aux internautes d’entreprendre toute action sur Instagram qui enfreindrait ou violerait les droits de propriété intellectuelle d’un tiers ou enfreindrait de toute autre manière la loi.
+En utilisant Instagram, vous avez accepté nos [Conditions d’utilisation](https://help.instagram.com/581066165581870?helpref=faq_content), qui interdisent aux internautes d’entreprendre toute action sur Instagram qui enfreindrait ou violerait les droits de propriété intellectuelle d’un tiers ou enfreindrait de toute autre manière la loi.
 
 Politique en matière de récidive
 
@@ -145,7 +145,7 @@ Conformément à cette politique, nous pouvons limiter votre capacité à publie
 
 Si un contenu que vous avez publié est restauré suite à une réclamation ou à l’annulation du signalement effectué par le titulaire des droits, nous tiendrons compte de cette restauration, conformément à notre politique en matière de récidive.
 
-Découvrez ce que vous pouvez faire [si vous pensez que votre compte a été désactivé par erreur](https://help.instagram.com/366993040048856).
+Découvrez ce que vous pouvez faire [si vous pensez que votre compte a été désactivé par erreur](https://help.instagram.com/366993040048856?helpref=faq_content).
 
 Instagram se conforme aux procédures de notification et d’annulation exposées à la section 512(c) du DMCA (Digital Millennium Copyright Act) des États-Unis, qui concerne les contenus signalés et supprimés pour avoir enfreint les droits d’auteur américains.
 
@@ -160,15 +160,15 @@ Reporting Copyright Infringement on Instagram
 Si vous pensez que du contenu sur Instagram enfreint vos droits d’auteur, vous pouvez prendre une ou plusieurs des mesures suivantes :
 
 *   Vous pouvez nous le signaler en remplissant ce [formulaire](https://help.instagram.com/contact/552695131608132).
-*   Vous pouvez nous le signaler en utilisant la [Protection des droits de la marque](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F828925381043253), qui permet à un détenteur de droits d’identifier et de signaler du contenu en infraction en matière de marques déposées, de droits d’auteur et de contrefaçon.
-*   Vous pouvez contacter notre [représentant désigné](https://help.instagram.com/589322221078523), conformément aux procédures de déclaration et de déclaration contradictoire du DMCA (Digital Millennium Copyright Act des États-Unis). Si vous contactez notre représentant DMCA désigné, veuillez vous assurer d’inclure une réclamation de droits d’auteur complète dans votre signalement.
+*   Vous pouvez nous le signaler en utilisant la [Protection des droits de la marque](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F828925381043253%3Fhelpref%3Dfaq_content), qui permet à un détenteur de droits d’identifier et de signaler du contenu en infraction en matière de marques déposées, de droits d’auteur et de contrefaçon.
+*   Vous pouvez contacter notre [représentant désigné](https://help.instagram.com/589322221078523?helpref=faq_content), conformément aux procédures de déclaration et de déclaration contradictoire du DMCA (Digital Millennium Copyright Act des États-Unis). Si vous contactez notre représentant DMCA désigné, veuillez vous assurer d’inclure une réclamation de droits d’auteur complète dans votre signalement.
 
 Remarques :
 
 *   Seul le titulaire des droits d’auteur ou son représentant agréé peut signaler une violation de ses droits d’auteur. Si vous jugez qu’un contenu publié sur Instagram enfreint les droits d’auteur d’un tiers, vous pouvez en informer le titulaire des droits.
 *   Dans la majorité des cas, nous fournissons le nom du titulaire des droits, votre adresse e-mail et les détails de votre signalement à la personne qui a publié le contenu que vous signalez. Si vous envoyez un signalement en tant que représentant agréé d’une entité, nous indiquons le nom de l’organisation ou du client titulaire des droits en question. Nous vous conseillons donc de fournir une adresse e-mail professionnelle ou d’entreprise générique valide.
 
-Avant d’envoyer un signalement, assurez-vous que le contenu concerné constitue effectivement une violation de vos [droits d’auteur](https://help.instagram.com/116455299019699) ou de votre [marque déposée](https://help.instagram.com/752100651636285) et n’entre pas dans le cadre d’une utilisation autorisée. En cas de doute sur l’atteinte portée à vos droits, n’hésitez pas à solliciter l’assistance juridique d’un ou une spécialiste, car il se peut qu’il s’agisse d’un usage équitable.
+Avant d’envoyer un signalement, assurez-vous que le contenu concerné constitue effectivement une violation de vos [droits d’auteur](https://help.instagram.com/116455299019699?helpref=faq_content) ou de votre [marque déposée](https://help.instagram.com/752100651636285?helpref=faq_content) et n’entre pas dans le cadre d’une utilisation autorisée. En cas de doute sur l’atteinte portée à vos droits, n’hésitez pas à solliciter l’assistance juridique d’un ou une spécialiste, car il se peut qu’il s’agisse d’un usage équitable.
 
 Sachez que l’envoi d’un signalement pour violation de droits de propriété intellectuelle est un acte sérieux susceptible d’avoir des conséquences juridiques. L’envoi intentionnel d’un signalement de violation de droits d’auteur ou de marque de commerce de nature trompeuse ou frauduleuse peut amener Facebook à prendre des mesures, notamment à fermer votre compte.
 
@@ -187,13 +187,13 @@ Menlo Park, California 94025, États-Unis
 650.543.4800 (téléphone)  
 ip@instagram.com
 
-Veuillez noter que si vous envoyez un signalement à notre agent désigné par un moyen autre que notre [formulaire en ligne](https://help.instagram.com/contact/372592039493026), vous devez inclure une [réclamation de droits d’auteur complète](https://help.instagram.com/454257084652404).
+Veuillez noter que si vous envoyez un signalement à notre agent désigné par un moyen autre que notre [formulaire en ligne](https://help.instagram.com/contact/372592039493026), vous devez inclure une [réclamation de droits d’auteur complète](https://help.instagram.com/454257084652404?helpref=faq_content).
 
 Le moyen le plus rapide et le plus simple d’envoyer une réclamation pour violation des droits d’auteur consiste à utiliser notre [formulaire en ligne](https://help.instagram.com/contact/372592039493026). Que vous choisissiez d’envoyer votre signalement par l’intermédiaire de notre formulaire en ligne ou via une autre méthode, Instagram a besoin des informations suivantes pour pouvoir le traiter :
 
 *   Vos coordonnées complètes (nom complet, adresse postale et numéro de téléphone).\*
 *   Une description du contenu sur notre site que vous considérez comme une violation de vos droits d’auteur.
-*   Des informations suffisantes pour nous permettre de localiser ce contenu sur notre site. La manière la plus simple de procéder est de nous fournir les adresses web (URL) menant directement au contenu présumé en infraction. Découvrez [comment trouver une URL](https://help.instagram.com/372819389498306).
+*   Des informations suffisantes pour nous permettre de localiser ce contenu sur notre site. La manière la plus simple de procéder est de nous fournir les adresses web (URL) menant directement au contenu présumé en infraction. Découvrez [comment trouver une URL](https://help.instagram.com/372819389498306?helpref=faq_content).
 *   Une déclaration indiquant que :
     
     *   Vous estimez en toute bonne foi que l’utilisation faite du contenu protégé décrit ci-dessus, de la façon dont vous l’indiquez, n’est pas autorisée par le titulaire des droits d’auteur, son agent ou la loi.
