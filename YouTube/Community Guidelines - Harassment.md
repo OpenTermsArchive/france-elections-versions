@@ -24,7 +24,7 @@ Ne publiez pas de contenu sur YouTube s'il correspond à l'une des descriptions 
 Autres types de contenus enfreignant ces règles
 -----------------------------------------------
 
-*   Contenu qui divulgue les informations confidentielles de quelqu'un, telles que l'adresse de son domicile, ses adresses e-mail, ses identifiants de connexion, ses numéros de téléphone, son numéro de passeport ou les informations de son compte bancaire.
+*   Contenu qui divulgue les informations personnelles d'une personne (adresse, adresses e-mail, identifiants de connexion, numéros de téléphone, numéro de passeport, dossiers médicaux ou coordonnées bancaires, par exemple)
     *   Remarque : Cette règle ne concerne pas la mise en ligne d'informations publiques largement accessibles, telles que le numéro de téléphone professionnel d'un fonctionnaire ou celui d'une entreprise.
 *   Contenu incitant à harceler ou à menacer des individus, sur YouTube ou ailleurs.
 *   Contenu qui encourage les comportements abusifs des fans tels que le "doxxing," le "dogpiling", le "brigading" ou le ciblage d'utilisateurs en dehors de la plate-forme.
