@@ -87,7 +87,7 @@ a été mal identifié ou supprimé par erreur, vous pouvez nous envoyer un [avi
 
 #### Comment demander une rétractation ?
 
-La réclamation DMCA que vous avez reçue comprend les coordonnées de la personne à l'origine du signalement. Vous voudrez peut-être les contacter et leur demander de retirer leur avis. La personne ayant fait le signalement peut envoyer des rétractations à copyright@twitter.com, et doit inclure : (1) l'identification du contenu qui a été désactivé, et (2) une déclaration indiquant que la personne ayant fait le signalement souhaite retirer son avis DMCA. Ceci est le moyen le plus rapide et le plus efficace de résoudre une réclamation relative à des droits d'auteur. Une rétractation s'effectue à la seule discrétion de la personne ayant envoyé le signalement.
+La réclamation DMCA que vous avez reçue comprend les coordonnées de la personne à l'origine du signalement. Vous pouvez la contacter et lui demander de retirer son avis en utilisant notre [formulaire de rétractation](https://help.twitter.com/en/forms/ipi/dmca-retraction). Ceci est le moyen le plus rapide et le plus efficace de résoudre une réclamation relative à des droits d'auteur. Par ailleurs, la personne ayant effectué le signalement peut également envoyer un avis de rétractation à [copyright@twitter.com](mailto:copyright@twitter.com). Cet avis doit inclure : (1) l'identification du contenu désactivé et (2) une déclaration stipulant qu'elle souhaite retirer son avis DMCA. Une rétractation s'effectue à la seule discrétion de la personne ayant envoyé le signalement, et elle seule peut émettre cette rétractation. Si l'accès à votre Tweet est partiellement restreint, la suppression de la partie restante ne saurait résoudre le problème.
 
 #### Quand dois‑je déposer un avis de contestation ?
 
@@ -101,12 +101,23 @@ Conseil : le fait de republier un contenu supprimé suite à une réclamation 
 
 Pour envoyer un avis de contestation, vous devrez nous fournir les informations suivantes :
 
-1. Une signature physique ou électronique (taper vos nom et prénom suffit) ;
-2. L'identification du contenu ayant été supprimé ou auquel l'accès a été désactivé, et de l'emplacement où le contenu apparaissait avant sa suppression ou la désactivation de l'accès (la description figurant dans l'avertissement sur les droits d'auteur suffit) ;
-3. Une déclaration sous serment stipulant que vous croyez en toute bonne foi que le contenu a été supprimé ou désactivé par erreur ou en raison d'une identification erronée du contenu à supprimer ou désactiver ; et
-4. Votre nom, votre adresse et votre numéro de téléphone, et une déclaration stipulant que vous acceptez la compétence de la cour fédérale de district de votre juridiction de résidence, ou si vous résidez en dehors des États‑Unis, de toute juridiction des lieux d'établissement de Twitter, et que vous acceptez la signification de la part de la personne ayant établi la notification en vertu du paragraphe (c)(1)(C), ou d'un agent de cette personne.
+1. Une signature physique ou électronique (la saisie de votre nom et prénom suffit) ;
+2. Votre nom et prénom, votre adresse (pays compris), votre numéro de téléphone et, à des fins de vérification, votre nom d'utilisateur Twitter et l'adresse email associée ;
+3. L'identification du contenu ayant été supprimé ou auquel l'accès a été désactivé, et de l'emplacement où le contenu apparaissait avant la suppression ou la désactivation de l'accès (la description figurant dans l'avertissement sur les droits d'auteur suffit) ;
+4. Une déclaration sous serment stipulant que vous croyez en toute bonne foi que le contenu a été supprimé ou désactivé par erreur ou en raison d'une identification erronée du contenu à supprimer ou à désactiver ; et
+5. L'une des déclarations de consentement juridictionnel suivantes :
 
-Pour envoyer un avis de contestation, veuillez fournir toutes les informations requises [ici](https://help.twitter.com/fr/forms/ipi/dmca-counternotice).
+(Si votre adresse est américaine) 
+
+« J'accepte la compétence de la cour fédérale de district de ma juridiction de résidence et j'accepte la signification de la part de la personne ayant établi l'avis en vertu de l'article 17 U.S.C. 512 (c)(1)(C), ou d'un représentant de cette personne. »
+
+OU
+
+(Si votre adresse n'est pas américaine) 
+
+« J'accepte la compétence de toute cour de justice dans laquelle Twitter peut se trouver et j'accepte la signification de la part de la personne ayant établi l'avis en vertu de l'article 17 U.S.C. 512 (c)(1)(C), ou d'un représentant de cette personne. »
+
+Pour envoyer un avis de contestation, veuillez fournir toutes les informations mentionnées ci-dessus en utilisant notre [formulaire web](https://help.twitter.com/en/forms/ipi/dmca-counternotice.html).
 
 #### Que se passe‑t‑il une fois que j'ai envoyé un avis de contestation ?
 
@@ -122,4 +133,4 @@ Réfléchissez bien avant d'envoyer une réclamation ou un avis de contestation,
 
 #### Que se passe‑t‑il si mon compte fait l'objet de plusieurs réclamations relatives à des droits d'auteur ?
 
-En cas de réception de plusieurs réclamations relatives à des droits d'auteur, Twitter peut verrouiller les comptes concernés ou prendre d'autres mesures pour mettre les contrevenants en garde. Ces avertissements peuvent varier selon les services Twitter. Lorsque les circonstances le justifient, nous pouvons suspendre les comptes des utilisateurs en vertu de notre politique relative aux personnes se rendant coupables d'infractions répétées. Toutefois, nous pouvons prendre en compte les rétractations et les avis de contestation lors de l'application de cette politique.
+Si plusieurs plaintes pour atteinte aux droits d'auteur sont déposées et concernent un même compte, ou si d'autres preuves suggèrent un modèle d'infraction répétée, Twitter se réserve le droit de suspendre ce compte conformément à notre politique relative aux infractions répétées. Les utilisateurs peuvent faire appel de la suspension en utilisant [ce formulaire](https://help.twitter.com/forms/general?subtopic=suspended). Notre politique relative aux infractions répétées prend les rétractations et les avis de contestation en considération.
