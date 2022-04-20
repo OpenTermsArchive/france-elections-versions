@@ -17,6 +17,8 @@ Comportement inapproprié/harcèlement : il est interdit de se livrer à du har
 
 Conduite haineuse : il est interdit de menacer d'autres personnes, de les harceler et d'inciter à la violence envers elles sur la base de critères de race, d'origine ethnique, de nationalité, de caste, d'orientation sexuelle, de sexe, d'identité sexuelle, d'appartenance religieuse, d'âge, de handicap ou de maladie grave. [En savoir plus](https://help.twitter.com/fr/rules-and-policies/hateful-conduct-policy) 
 
+Auteurs d'attaques violentes : nous supprimerons tous les comptes gérés par des auteurs individuels d'attaques terroristes, extrémistes violentes ou violentes de masse, et pouvons également supprimer les Tweets diffusant des manifestes ou d'autres contenus réalisés par les auteurs. [En savoir plus](https://help.twitter.com/fr/rules-and-policies/perpetrators-of-violent-attacks) 
+
 Suicide ou conduite autodestructrice : il est interdit de promouvoir ou d'encourager le suicide ou les conduites autodestructrices. [En savoir plus](https://help.twitter.com/fr/rules-and-policies/glorifying-self-harm)
 
 Médias sensibles, notamment violence explicite et contenus pour adultes : il est interdit de publier des médias excessivement sanglants et de partager des contenus violents ou pour adultes dans des vidéos en direct ou dans des images de profil ou de bannière. Les médias montrant des violences et/ou agressions sexuelles sont également interdits. [En savoir plus](https://help.twitter.com/fr/rules-and-policies/media-policy) 
