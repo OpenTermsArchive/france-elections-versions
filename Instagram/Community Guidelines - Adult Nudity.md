@@ -1,32 +1,6 @@
 Nudité et activités sexuelles chez les adultes
 ==============================================
 
-### CHANGELOG
-
-Changelog
-
-###### Aujourd’hui
-
-Version actuelle
-
-###### 23 déc. 2021
-
-###### 24 nov. 2021
-
-###### 26 août 2021
-
-###### 19 nov. 2020
-
-###### 20 mars 2019
-
-###### 15 oct. 2018
-
-###### 27 juil. 2018
-
-###### 29 juin 2018
-
-###### 25 mai 2018
-
 #### Justification de cette politique
 
 Nous limitons l’affichage de scènes de nudité et d’activités sexuelles, car certaines personnes au sein de notre communauté peuvent être sensibles à ce type de contenu. En outre, nous supprimons par défaut les images de nature sexuelle pour empêcher le partage de contenus montrant des actes non consentis ou des mineurs. Les restrictions sur l’affichage d’activité sexuelle s’appliquent également au contenu créé numériquement, sauf si le contenu est publié à des fins pédagogiques, humoristiques ou satiriques.
