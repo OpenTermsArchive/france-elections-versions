@@ -1,7 +1,7 @@
 Politique en matière de conduite haineuse
 =========================================
 
-**[Conduite haineuse :](https://help.twitter.com/fr/rules-and-policies/twitter-rules#hateful-conduct)**[](https://help.twitter.com/rules-and-policies/twitter-rules#hateful-conduct) vous ne devez pas directement attaquer ni menacer d'autres personnes, ni inciter à la violence envers elles en vous fondant sur la race, l'origine ethnique, l'origine nationale, la caste, l'orientation sexuelle, le sexe, l'identité sexuelle, l'appartenance religieuse, l'âge, le handicap ou toute maladie grave. Par ailleurs, nous n'autorisons pas les comptes dont le but principal est d'inciter à nuire aux autres sur la base de ces catégories.
+**[Conduite haineuse :](https://help.twitter.com/frrules-and-policies/twitter-rules#hateful-conduct)**[](https://help.twitter.com/rules-and-policies/twitter-rules#hateful-conduct) vous ne devez pas directement attaquer ni menacer d'autres personnes, ni inciter à la violence envers elles en vous fondant sur la race, l'origine ethnique, l'origine nationale, la caste, l'orientation sexuelle, le sexe, l'identité sexuelle, l'appartenance religieuse, l'âge, le handicap ou toute maladie grave. Par ailleurs, nous n'autorisons pas les comptes dont le but principal est d'inciter à nuire aux autres sur la base de ces catégories.
 
 **Imagerie et noms d'affichage haineux :** il est interdit d'utiliser des images ou symboles haineux dans votre image ou bannière de profil. Vous ne devez pas non plus utiliser votre nom d'utilisateur, votre nom d'affichage ou la biographie de votre profil pour vous livrer à des comportements inappropriés, tels que du harcèlement ciblé, ou pour exprimer de la haine envers une personne, un groupe ou une catégorie protégée.   
  
