@@ -11,7 +11,7 @@ Politique en matière d'informations et de médias privés
 
 **Partager les informations privées de quelqu'un :**
 
-Le fait de partager en ligne des informations privées d'une personne sans son autorisation, que l'on appelle parfois « doxxing » ou « doxing », est une atteinte à sa vie privée et une infraction aux [Règles de Twitter](https://help.twitter.com/fr/rules-and-policies/twitter-rules). Le partage d'informations privées peut poser de graves problèmes de sécurité pour les personnes concernées et peut entraîner des difficultés physiques, émotionnelles et financières.  
+Le fait de partager en ligne des informations privées d'une personne sans son autorisation, que l'on appelle parfois « doxxing » ou « doxing », est une atteinte à sa vie privée et une infraction aux [Règles de Twitter](https://help.twitter.com/frrules-and-policies/twitter-rules). Le partage d'informations privées peut poser de graves problèmes de sécurité pour les personnes concernées et peut entraîner des difficultés physiques, émotionnelles et financières.  
 
 Lors de l'examen des signalements en vertu de cette politique, nous prenons en compte un certain nombre d'éléments, notamment :  
   
@@ -146,6 +146,6 @@ Si vous pensez que votre compte a été suspendu par erreur, vous pouvez [faire
 
 ### Ressources supplémentaires 
 
-Découvrez plus d'informations sur [notre gamme d'options pour l'application de nos politiques](https://help.twitter.com/fr/rules-and-policies/enforcement-options) et [notre approche en matière d'élaboration de politiques et de leur application](https://help.twitter.com/fr/rules-and-policies/enforcement-philosophy).
+Découvrez plus d'informations sur [notre gamme d'options pour l'application de nos politiques](https://help.twitter.com/frrules-and-policies/enforcement-options) et [notre approche en matière d'élaboration de politiques et de leur application](https://help.twitter.com/frrules-and-policies/enforcement-philosophy).
 
 La diffusion d'autres types de contenus sans le consentement du propriétaire peut faire l'objet de mesures en vertu de notre politique en matière de diffusion de contenu piraté.
