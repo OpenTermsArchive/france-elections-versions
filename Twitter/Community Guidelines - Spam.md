@@ -15,7 +15,7 @@ La manipulation de la plateforme peut prendre de nombreuses formes. Nos règles 
 * le spam à visée commerciale, dont le but est généralement de générer du trafic ou d'attirer l'attention à partir d'une conversation sur Twitter au profit de comptes, de sites Web, de produits, de services ou d'initiatives ;
 * les engagements inauthentiques, qui tentent de faire passer des comptes ou contenus pour plus populaires ou actifs qu'ils ne le sont en réalité ;
 * les actions coordonnées, qui tentent d'influencer artificiellement les conversations en utilisant plusieurs comptes, de faux comptes, l'automatisation et/ou des scripts ; et
-* l'activité nuisible coordonnée qui encourage ou promeut un comportement enfreignant les [Règles de Twitter](https://help.twitter.com/frrules-and-policies/twitter-rules).  
+* l'activité nuisible coordonnée qui encourage ou promeut un comportement enfreignant les [Règles de Twitter](https://help.twitter.com/fr/rules-and-policies/twitter-rules).  
      
 
 ### Qu'est‑ce qui constitue une infraction à cette politique ?
@@ -36,7 +36,7 @@ En vertu de cette politique, nous interdisons tout un éventail de comportements
     * en publiant des Tweets ou hashtags identiques, ou en grande partie similaires, depuis plusieurs comptes que vous utilisez ; 
     * en interagissant (Retweets, J'aime, mentions, votes sur des questions Twitter) de manière répétée avec les mêmes Tweets ou comptes depuis plusieurs comptes que vous utilisez ;
     * en vous coordonnant avec autres personnes pour vous livrer à une amplification ou à des engagements artificiels, ou en les payant pour qu'elles le fassent, même si ces personnes n'utilisent qu'un seul compte ; et
-    * en vous coordonnant avec d'autres personnes pour enfreindre les Règles de Twitter ou encourager des infractions, y compris à notre [politique relative aux comportements inappropriés](https://help.twitter.com/frrules-and-policies/abusive-behavior).  
+    * en vous coordonnant avec d'autres personnes pour enfreindre les Règles de Twitter ou encourager des infractions, y compris à notre [politique relative aux comportements inappropriés](https://help.twitter.com/fr/rules-and-policies/abusive-behavior).  
          
 
 ### Engagement et indicateurs  
@@ -148,7 +148,7 @@ Lorsque nous détectons des niveaux d'activité suspects, les comptes concernés
 
 **Mise sur liste noire d'URL**
 
-Nous mettons sur liste noire les URL dont nous jugeons qu'elles ne sont pas sûres, ou émettons des avertissements à leur sujet. Découvrez plus d'informations sur les [liens jugés non sûrs](https://help.twitter.com/frsafety-and-security/phishing-spam-and-malware-links) et comment faire appel si nous avons identifié à tort votre URL comme non sûre.  
+Nous mettons sur liste noire les URL dont nous jugeons qu'elles ne sont pas sûres, ou émettons des avertissements à leur sujet. Découvrez plus d'informations sur les [liens jugés non sûrs](https://help.twitter.com/fr/safety-and-security/phishing-spam-and-malware-links) et comment faire appel si nous avons identifié à tort votre URL comme non sûre.  
  
 
 **Suppression de Tweets et verrouillages temporaires de comptes**  
@@ -164,7 +164,7 @@ En cas d'infractions graves, les comptes sont définitivement suspendus dès la 
 * utilisation de l'une des tactiques décrites sur cette page pour porter atteinte à l'intégrité d'élections ;
 * achat/vente de comptes ;
 * création de comptes pour remplacer ou imiter un compte suspendu ;
-* utilisation de comptes que Twitter est en mesure d'attribuer de manière fiable à des entités connues pour enfreindre les [Règles de Twitter](https://help.twitter.com/frrules-and-policies/twitter-rules).
+* utilisation de comptes que Twitter est en mesure d'attribuer de manière fiable à des entités connues pour enfreindre les [Règles de Twitter](https://help.twitter.com/fr/rules-and-policies/twitter-rules).
 
 Si vous pensez que votre compte a été verrouillé ou suspendu par erreur, vous pouvez [faire appel de cette décision](https://help.twitter.com/forms/general?subtopic=suspended).  
   
@@ -172,6 +172,6 @@ Si vous pensez que votre compte a été verrouillé ou suspendu par erreur, vous
 ### Ressources supplémentaires
 
   
-Découvrez plus d'informations sur nos [règles d'automatisation](https://help.twitter.com/frrules-and-policies/twitter-automation) à l'attention des développeurs, nos efforts pour préserver l'[intégrité des élections](https://about.twitter.com/fr/values/elections-integrity.html), notre [politique en matière d'escroquerie financière](https://help.twitter.com/frrules-and-policies/financial-scam), notre [politique en matière de contenus piratés](https://help.twitter.com/frrules-and-policies/hacked-materials), notre approche en matière d'[activité nuisible coordonnée](https://help.twitter.com/frrules-and-policies/coordinated-harmful-activity) et nos [consignes relatives aux promotions et concours](https://help.twitter.com/frrules-and-policies/twitter-contest-rules).
+Découvrez plus d'informations sur nos [règles d'automatisation](https://help.twitter.com/fr/rules-and-policies/twitter-automation) à l'attention des développeurs, nos efforts pour préserver l'[intégrité des élections](https://about.twitter.com/fr/values/elections-integrity.html), notre [politique en matière d'escroquerie financière](https://help.twitter.com/fr/rules-and-policies/financial-scam), notre [politique en matière de contenus piratés](https://help.twitter.com/fr/rules-and-policies/hacked-materials), notre approche en matière d'[activité nuisible coordonnée](https://help.twitter.com/fr/rules-and-policies/coordinated-harmful-activity) et nos [consignes relatives aux promotions et concours](https://help.twitter.com/fr/rules-and-policies/twitter-contest-rules).
 
-Découvrez plus d'informations sur [notre gamme d'options pour l'application de nos politiques](https://help.twitter.com/frrules-and-policies/enforcement-options) et [notre approche en matière d'élaboration de politiques et de leur application](https://help.twitter.com/frrules-and-policies/enforcement-philosophy).
+Découvrez plus d'informations sur [notre gamme d'options pour l'application de nos politiques](https://help.twitter.com/fr/rules-and-policies/enforcement-options) et [notre approche en matière d'élaboration de politiques et de leur application](https://help.twitter.com/fr/rules-and-policies/enforcement-philosophy).
