@@ -5,9 +5,9 @@ Politique en matière de droits d'auteur
 
 Twitter répond aux réclamations relatives à des droits d'auteur envoyées dans le cadre de l'application de la loi Digital Millennium Copyright Act (DMCA). La Section 512 de la loi DMCA présente les exigences légales à respecter pour signaler de manière formelle une violation de droits d'auteur. Elle donne également des instructions sur la façon dont une partie concernée peut faire appel d'une suppression en envoyant un avis de contestation conforme.
 
-Twitter répond aux signalements de violation de droit d'auteur présumée, tels que les allégations relatives à l'utilisation non autorisée d'une image protégée en tant que photo de profil ou de bannière, à l'utilisation non autorisée d'une vidéo ou d'une image protégée importée via nos services d'hébergement multimédias, ou à des Tweets contenant des liens vers des ressources présentant des violations présumées. Notez que toutes les utilisations non autorisées d'éléments protégés par des droits d'auteur ne constituent pas des infractions (reportez‑vous à notre article sur [l'usage raisonnable](https://help.twitter.com/fr/rules-and-policies/fair-use-policy) pour plus d'informations).
+Twitter répond aux signalements de violation de droit d'auteur présumée, tels que les allégations relatives à l'utilisation non autorisée d'une image protégée en tant que photo de profil ou de bannière, à l'utilisation non autorisée d'une vidéo ou d'une image protégée importée via nos services d'hébergement multimédias, ou à des Tweets contenant des liens vers des ressources présentant des violations présumées. Notez que toutes les utilisations non autorisées d'éléments protégés par des droits d'auteur ne constituent pas des infractions (reportez‑vous à notre article sur [l'usage raisonnable](https://help.twitter.com/fr/rules-and-policies/fair-use-policy.html) pour plus d'informations).
 
-Si vous vous inquiétez de l'utilisation du nom de votre marque ou entité, veuillez consulter la [Politique en matière de marques déposées de Twitter](https://help.twitter.com/fr/rules-and-policies/twitter-trademark-policy). Si vos préoccupations sont liées à un compte parodique, de flux d'actualités, de commentaires ou de fan, veuillez consulter la politique à ce sujet [ici](https://help.twitter.com/enr/ules-and-policies/parody-account-policy). Ces questions ne relèvent en général pas de problèmes de droits d'auteur.
+Si vous vous inquiétez de l'utilisation du nom de votre marque ou entité, veuillez consulter la [Politique en matière de marques déposées de Twitter](https://help.twitter.com/fr/rules-and-policies/twitter-trademark-policy.html). Si vos préoccupations sont liées à un compte parodique, de flux d'actualités, de commentaires ou de fan, veuillez consulter la politique à ce sujet [ici](https://help.twitter.com/enrules-and-policies/parody-account-policy.html). Ces questions ne relèvent en général pas de problèmes de droits d'auteur.
 
 #### Suis‑je le détenteur des droits d'auteur ? Comment le savoir ?
 
@@ -15,7 +15,7 @@ Si vous n'êtes pas certain de détenir les droits relatifs à une œuvre donné
 
 #### Avant d'envoyer une réclamation relative à des droits d'auteur
 
-Avant de nous envoyer une réclamation relative à des droits d'auteur, veuillez vérifier si l'utilisation du contenu peut être considérée comme relevant d'un [usage raisonnable](https://help.twitter.com/fr/rules-and-policies/fair-use-policy). 
+Avant de nous envoyer une réclamation relative à des droits d'auteur, veuillez vérifier si l'utilisation du contenu peut être considérée comme relevant d'un [usage raisonnable](https://help.twitter.com/fr/rules-and-policies/fair-use-policy.html). 
 
 Si vous avez réfléchi à cette question et si vous souhaitez encore déposer une réclamation relative à des droits d'auteur, vous pouvez éventuellement commencer par contacter l'utilisateur concerné pour voir si vous pouvez résoudre la question directement avec lui. Vous pouvez répondre au Tweet de l'utilisateur ou lui envoyer un Message Privé et lui demander de supprimer votre contenu protégé par des droits d'auteur. Il n'est pas nécessaire de contacter Twitter. 
 
@@ -35,7 +35,7 @@ Pour envoyer une notification relative à une violation présumée de droits d'a
 6.  Une déclaration sous serment stipulant que les informations contenues dans la réclamation sont exactes et que vous êtes autorisé à agir pour le compte du détenteur des droits d'auteur.  
      
 
-Si votre notification porte sur le contenu d'un Tweet, merci de nous fournir un [lien direct](https://help.twitter.com/fr/using-twitter/tweet-and-moment-url) vers ce Tweet. Ou veuillez préciser si la violation présumée se trouve dans la bannière, l'avatar, ou autre. UN SIMPLE LIEN VERS UNE PAGE DE PROFIL NE SUFFIT PAS À TWITTER POUR IDENTIFIER LES CONTENUS CONCERNÉS.
+Si votre notification porte sur le contenu d'un Tweet, merci de nous fournir un [lien direct](https://help.twitter.com/fr/using-twitter/tweet-and-moment-url.html) vers ce Tweet. Ou veuillez préciser si la violation présumée se trouve dans la bannière, l'avatar, ou autre. UN SIMPLE LIEN VERS UNE PAGE DE PROFIL NE SUFFIT PAS À TWITTER POUR IDENTIFIER LES CONTENUS CONCERNÉS.
 
 #### Comment effectuer une réclamation relative à des droits d'auteur ?
 
@@ -83,7 +83,7 @@ Conseil : la suppression du contenu signalé dans une réclamation relative à 
 #### Et si je veux contester le retrait ?
 
 Si vous pensez que le contenu signalé dans la réclamation relative à des droits d'auteur  
-a été mal identifié ou supprimé par erreur, vous pouvez nous envoyer un [avis de contestation](https://help.twitter.com/fr/forms/ipi/dmca-counternotice) via notre Centre d'assistance. Un avis de contestation est une demande afin que nous réactivions le contenu supprimé. Il a des conséquences juridiques. À la place, vous pouvez éventuellement demander à la personne qui a envoyé la réclamation relative à des droits d'auteur de se rétracter.
+a été mal identifié ou supprimé par erreur, vous pouvez nous envoyer un [avis de contestation](https://help.twitter.com/fr/forms/ipi/dmca-counternotice.html) via notre Centre d'assistance. Un avis de contestation est une demande afin que nous réactivions le contenu supprimé. Il a des conséquences juridiques. À la place, vous pouvez éventuellement demander à la personne qui a envoyé la réclamation relative à des droits d'auteur de se rétracter.
 
 #### Comment demander une rétractation ?
 
