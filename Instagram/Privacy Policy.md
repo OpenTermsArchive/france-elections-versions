@@ -288,7 +288,7 @@ Nous vous aviserons de toute modification importante apportée à la présente p
 
 Vous pouvez en savoir plus sur la confidentialité [sur Facebook](https://www.facebook.com/about/basics) et [sur Instagram](https://help.instagram.com/196883487377501?ref=dp). Pour toute question concernant cette politique, vous pouvez nous contacter par les moyens décrits ci-dessous.
 
-Le responsable de traitement des données pour vos informations est Meta Platforms Ireland Limited, que vous pouvez [contacter en ligne](https://help.instagram.com/contact/186020218683230)ou par courrier à l’adresse :  
+Le responsable de traitement de vos données est Meta Platforms Ireland Limited, que vous pouvez [contacter en ligne](https://help.instagram.com/contact/713679366292426)ou par courrier à l’adresse :  
   
 Meta Platforms Ireland Ltd.  
 4 Grand Canal Square  
