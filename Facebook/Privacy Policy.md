@@ -258,7 +258,7 @@ Vous pouvez en savoir plus sur la confidentialité [sur Facebook](https://www.fa
 
 Nous contacter
 
-Le responsable de traitement de vos données est Meta Platforms Ireland Limited, que vous pouvez [contacter en ligne](https://www.facebook.com/help/contact/2061665240770586)ou par courrier à l’adresse :
+Le responsable de traitement de vos données est Meta Platforms Ireland Limited, que vous pouvez [contacter en ligne](https://www.facebook.com/help/contact/1650115808681298)ou par courrier à l’adresse :
 
 Meta Platforms Ireland Ltd.  
 4 Grand Canal Square  
