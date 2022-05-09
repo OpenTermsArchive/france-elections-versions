@@ -105,11 +105,11 @@ L’usage de petites parties d’une œuvre protégée par droit d’auteur est 
 
 L’usage risque-t-il de prévaloir sur l’œuvre originale, de sorte que les gens arrêteront d’acheter ou de consulter l’œuvre protégée par droit d’auteur ? Si tel est le cas, il ne s’agit probablement pas d’un usage raisonnable.
 
-Pour en savoir plus sur l’usage raisonnable aux États-Unis, vous pouvez consulter l’[index relatif à l'usage équitable du bureau américain de protection des droits d'auteur](https://copyright.gov/fair-use/).
+Pour en savoir plus sur l’usage raisonnable aux États-Unis, vous pouvez consulter l’[index relatif à l’usage raisonnable du Bureau des droits d’auteur des États-Unis](https://copyright.gov/fair-use/).
 
 Exceptions aux droits d’auteur
 
-L’application d’exceptions et de restrictions aux droits d’auteur peut varier d’un pays à un autre. En général, dans les pays qui prévoient des exceptions et des restrictions, l’usage d’œuvres protégées ne doit pas nuire de façon déraisonnable aux intérêts des titulaires des droits. Au sein de l’Union européenne, chaque État membre doit veiller à ce que les utilisateurs puissent s’appuyer sur les exceptions suivantes lors de la mise à disposition de contenu : citation, critique, examen, caricature, parodie ou pastiche. Pour en savoir plus sur la loi relative aux droits d’auteur au sein de l’Union européenne, vous pouvez consulter le [site web de l’Office de l'Union européenne pour la propriété intellectuelle](https://euipo.europa.eu/ohimportal/en/web/observatory/faqs-on-copyright-sk).
+L’application d’exceptions et de restrictions aux droits d’auteur peut varier d’un pays à un autre. En général, dans les pays qui prévoient des exceptions et des restrictions, l’usage d’œuvres protégées ne doit pas nuire de façon déraisonnable aux intérêts des titulaires des droits. Au sein de l’Union européenne, chaque État membre doit veiller à ce que les utilisateurs puissent s’appuyer sur les exceptions suivantes lors de la mise à disposition de contenu : citation, critique, examen, caricature, parodie ou pastiche. Pour en savoir plus sur la loi relative aux droits d’auteur au sein de l’Union européenne, vous pouvez consulter le [site web de l’Office de l’Union européenne pour la propriété intellectuelle](https://euipo.europa.eu/ohimportal/en/web/observatory/faqs-on-copyright-sk).
 
 Il peut arriver d’enfreindre involontairement les droits d’auteur d’un tiers. Dans la plupart des cas, vous ne devez pas utiliser le contenu d’un tiers protégé par des droits d’auteur sans obtenir son autorisation.
 
