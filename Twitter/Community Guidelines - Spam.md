@@ -4,7 +4,7 @@ Politique en matière de manipulation de la plateforme et de spam
 ### Vue d'ensemble
 
 **  
-Mars 2022**
+Avril 2022**
 
 **Il est interdit d'utiliser les services de Twitter d'une manière qui vise à amplifier artificiellement ou à supprimer des informations, ou d'adopter un comportement qui manipule ou perturbe l'expérience des utilisateurs.**
 
@@ -61,8 +61,8 @@ Vous ne pouvez pas utiliser les fonctionnalités du produit Twitter à mauvais e
 * l'envoi de réponses, de mentions ou de Messages Privés non sollicités en bloc, de manière agressive ou en grand nombre ;
 * la publication et la suppression du même contenu de manière répétée ;
 * la publication, de manière répétée, de Tweets identiques ou quasiment identiques, ou l'envoi répété de Messages Privés identiques ;
-* la publication de Tweets ou l'envoi de Messages Privés comprenant des liens partagés sans commentaire, d'une manière répétée et représentant l'essentiel de votre activité en matière de Tweets ou Messages Privés.  
-     
+* la publication de Tweets ou l'envoi de Messages Privés comprenant des liens partagés sans commentaire, d'une manière répétée et représentant l'essentiel de votre activité en matière de Tweets ou Messages Privés ;
+* la publication de Tweets comportant une phrase ou un contenu existant de manière dupliquée, que ce soit individuellement ou de concert avec d'autres comptes. Pour en savoir plus, consultez notre [politique en matière de contenu dupliqué et copypasta](https://help.twitter.com/fr/rules-and-policies/copypasta-duplicate-content.html).
 
 **Abonnements**  
 
