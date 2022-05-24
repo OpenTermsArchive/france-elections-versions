@@ -274,7 +274,7 @@ Nous partageons des informations à l’échelle mondiale, à la fois en interne
 **X. Comment procéderons-nous pour vous aviser des modifications apportées à la présente politique ?**
 ------------------------------------------------------------------------------------------------------
 
-Nous vous aviserons de toute modification importante apportée à la présente politique et vous donnerons la possibilité de consulter la version révisée avant de continuer à utiliser nos produits.
+Nous vous informerons de toute modification importante apportée à la présente politique et vous donnerons la possibilité de consulter la version révisée avant de continuer à utiliser nos produits.
 
   
   
