@@ -12,6 +12,8 @@ La mission de LinkedIn est de connecter les professionnels du monde entier afin 
 
 La présente Politique de confidentialité s’applique dès lors que vous avez recours à nos services (décrits ci-dessous). Nous offrons à nos utilisateurs le [choix](#key-terms-intro) concernant les données que nous recueillons, utilisons et partageons, ainsi que le décrivent la présente Politique de confidentialité, notre [Politique relative aux cookies](https://www.linkedin.com/legal/cookie-policy), les Préférences et notre [Assistance clientèle](https://www.linkedin.com/help/linkedin).
 
+Termes clés
+
 #### Choix
 
 Les [Préférences](https://www.linkedin.com/psettings/privacy) sont disponibles pour les Membres de LinkedIn et des paramètres distincts sont proposés aux Visiteurs. [En savoir plus](https://www.linkedin.com/help/linkedin/answer/89876).
@@ -149,6 +151,8 @@ Sommaire
     
     Nos Services étant dynamiques, nous proposons souvent de nouvelles fonctionnalités qui peuvent nécessiter la collecte de nouvelles informations. Si nous devions collecter des données personnelles d’une nature substantiellement différente ou modifier considérablement notre collecte, notre utilisation ou nos partages de vos données, nous vous en informerions et modifierions également la présente Politique de confidentialité.
     
+    Termes clés
+    
     #### Sociétés affiliées
     
     Les sociétés affiliées sont des sociétés qui nous contrôlent, que nous contrôlons ou qui se trouvent sous notre contrôle, y compris, par exemple, LinkedIn Ireland, LinkedIn Corporation, LinkedIn Singapore et Microsoft Corporation.
@@ -263,6 +267,8 @@ Sommaire
     Nous utilisons les données à des fins de sécurité, de prévention des fraudes et d’investigation.
     
     Nous utilisons vos données (y compris vos communications) soit pour des raisons de sécurité, soit pour éviter ou investiguer des fraudes possibles ou d’autres violations de nos [Conditions d’utilisation](https://www.linkedin.com/legal/user-agreement) et/ou des tentatives de nuire à nos Membres, Visiteurs ou autres.
+    
+    Termes clés
     
     #### Actions sociales
     
@@ -413,6 +419,8 @@ Sommaire
     Vous pouvez nous contacter ou utiliser d’autres options pour faire entendre vos réclamations.
     
     Si vous avez des questions ou des plaintes concernant cette Politique, veuillez tout d’abord [contacter LinkedIn](http://www.linkedin.com/help/legacy/redirect/app/ask/path/ppq/loc/na/trk/microsites-frontend_legal_privacy-policy/) en ligne. Vous pouvez également nous adresser un [courrier postal](https://www.linkedin.com/help/linkedin/answer/79728). Si vous n’êtes toujours pas satisfait après nous avoir contactés, vous avez d’autres [options](https://www.linkedin.com/help/linkedin/answer/80432). Les Résidents des [Pays désignés](https://www.linkedin.com/help/linkedin/answer/89877) et d’[autres régions](https://privacy.linkedin.com/regionalinfo) peuvent également avoir le droit de contacter notre responsable de la protection des données [ici](https://www.linkedin.com/help/linkedin/ask/TSO-DPO). Si cette démarche ne permet pas de résoudre votre plainte, les Résidents des Pays désignés et d’autres régions peuvent bénéficier de plus d’[options](https://www.linkedin.com/help/linkedin/answer/80432) conformément à leurs législations.
+    
+    Termes clés
     
     #### Consentement
     
