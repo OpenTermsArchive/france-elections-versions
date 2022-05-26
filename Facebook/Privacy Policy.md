@@ -1,5 +1,7 @@
 [Politique complète d’utilisation des données](https://www.facebook.com/about/privacy/update/printable)
 
+Nous avons mis à jour notre politique. [Lire ici](https://fr-fr.facebook.com/privacy/policy).
+
 _L’entreprise Facebook Ireland Limited a changé de nom et est devenue Meta Platforms Ireland Limited. Nous avons mis à jour nos Conditions de service, notre Politique d’utilisation des données et notre Politique d’utilisation des cookies pour refléter ce changement de nom le 4 janvier 2022. Bien que notre entreprise ait changé de nom, nous continuons à proposer les mêmes produits, dont l’application Facebook de Meta. Notre Politique d’utilisation des données et nos Conditions de service restent en vigueur, et ce changement de nom n’affecte en rien la façon dont nous utilisons ou partageons les données. [_En savoir plus sur Meta_](https://about.facebook.com/meta) et notre vision du métavers._
 
 
