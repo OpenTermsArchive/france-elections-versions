@@ -1,7 +1,5 @@
 Politique d’utilisation des données
 
-Nous avons mis à jour notre politique. [Lire ici](https://help.instagram.com/privacy/policy).
-
 _L’entreprise Facebook Ireland Limited a changé de nom et est devenue Meta Platforms Ireland Limited. Nous avons mis à jour nos Conditions de service, notre Politique d’utilisation des données et notre Politique d’utilisation des cookies pour refléter ce changement de nom le 4 janvier 2022. Bien que notre entreprise ait changé de nom, nous continuons à proposer les mêmes produits, dont l’application Facebook de Meta. Notre Politique d’utilisation des données et nos Conditions de service restent en vigueur, et ce changement de nom n’affecte en rien la façon dont nous utilisons ou partageons les données. [_En savoir plus sur Meta_](https://about.facebook.com/meta) et notre vision du métavers._
 
 **Politique d’utilisation des données**
@@ -307,12 +305,12 @@ Ces informations vous ont-elles été utiles ?
 
 Articles connexes
 
+[Pourquoi est-ce que je vois des publicités d’un annonceur sur Facebook ?](https://help.instagram.com/794535777607370?helpref=related&source_cms_id=519522125107875)
+
 [Résumé des mises à jour apportées à la Politique de confidentialité et aux Conditions de service de Meta](https://help.instagram.com/536962387275178?helpref=related&source_cms_id=519522125107875)
 
-[Pourquoi est-ce que je vois des publicités d’un annonceur sur Facebook ?](https://help.instagram.com/794535777607370?helpref=related&source_cms_id=519522125107875)
+[À quelles catégories de mes données Facebook puis-je avoir accès ?](https://help.instagram.com/930396167085762?helpref=related&source_cms_id=519522125107875)
 
 [Qu’est-ce qu’une objection et comment puis-je en faire une sur Facebook ?](https://help.instagram.com/2069235856423257?helpref=related&source_cms_id=519522125107875)
 
 [Quelles sont les options de confidentialité des groupes Facebook ?](https://help.instagram.com/220336891328465?helpref=related&source_cms_id=519522125107875)
-
-[Pourquoi Facebook demande-t-elle leur pièce d’identité aux gestionnaires de Pages ?](https://help.instagram.com/367814907084687?helpref=related&source_cms_id=519522125107875)
