@@ -8,7 +8,7 @@ La sécurité de nos créateurs, spectateurs et partenaires est notre priorité 
 
 **Remarque** : Nous avons modifié nos règles concernant l'incitation à la haine le 5 juin 2019. Pour en savoir plus, consultez [cette page](https://youtube.googleblog.com/2019/06/our-ongoing-work-to-tackle-hate.html). Vous trouverez ci-dessous la version mise à jour de ces règles.
 
-L'incitation à la haine est interdite sur YouTube. Nous supprimons tout contenu incitant à la violence ou à la haine contre des individus ou des groupes d'individus en fonction de l'une des caractéristiques suivantes :
+L'incitation à la haine est interdite sur YouTube. Nous supprimons tout contenu incitant à la violence ou à la haine contre des individus ou des groupes d'individus en fonction des caractéristiques suivantes :
 
 * Âge
 * Caste
@@ -33,19 +33,19 @@ Ce que ce règlement implique pour vous
 
 Ne publiez pas de contenu sur YouTube si vous avez pour objectif d'effectuer l'une des actions suivantes :
 
-* Encourager la violence contre des individus ou des groupes d'individus en fonction de l'une des caractéristiques listées ci-dessus. Les menaces sont interdites sur YouTube, et nous considérons les appels implicites à la violence comme de véritables menaces. En savoir plus sur nos [Règles concernant le harcèlement et la cyberintimidation](https://support.google.com/youtube/answer/2802268)
-* Inciter à la haine contre des individus ou des groupes d'individus en fonction de l'une des caractéristiques listées ci-dessus.
+* Encourager la violence contre des individus ou des groupes d'individus en fonction des caractéristiques listées ci-dessus. Les menaces sont interdites sur YouTube, et nous considérons les appels implicites à la violence comme de véritables menaces. En savoir plus sur nos [Règles concernant le harcèlement et la cyberintimidation](https://support.google.com/youtube/answer/2802268)
+* Inciter à la haine contre des individus ou des groupes d'individus en fonction des caractéristiques listées ci-dessus.
 
 Autres types de contenus enfreignant ce règlement
 -------------------------------------------------
 
 * Déshumanisation d'individus ou de groupes d'individus en les traitant de sous-hommes, en les comparant à des animaux, des insectes, des parasites, des maladies ou toute autre entité non humaine.
-* Éloge ou glorification de la violence contre des individus ou des groupes d'individus en fonction de l'une des caractéristiques listées ci-dessus.
-* Utilisation d'insultes ou de stéréotypes raciaux, religieux ou autres qui incitent à la haine ou font l'apologie de la haine en se basant sur l'une des caractéristiques listées ci-dessus. Cela peut prendre la forme de discours, de texte ou d'images illustrant ces stéréotypes ou les traitant comme factuels.
-* Déclaration affirmant que des individus ou des groupes d'individus sont physiquement ou mentalement inférieurs, déficients ou malades, en fonction de l'une des caractéristiques listées ci-dessus. Sont comprises dans ces déclarations les affirmations de l'infériorité d'un groupe par rapport à un autre en le qualifiant de moins intelligent, moins capable ou malade.
-* Affirmation de la supériorité d'un groupe d'individus par rapport aux individus présentant une ou plusieurs des caractéristiques listées ci-dessus, dans le but de justifier des actes de violence, de discrimination, de ségrégation ou d'exclusion.
-* Théories du complot affirmant que des individus ou des groupes sont malveillants ou malhonnêtes, en fonction de l'une des caractéristiques listées ci-dessus.
-* Appel à la domination sur des individus ou des groupes d'individus, ou à leur assujettissement, en fonction de l'une des caractéristiques listées ci-dessus.
+* Éloge ou glorification de la violence contre des individus ou des groupes d'individus en fonction des caractéristiques listées ci-dessus.
+* Utilisation d'insultes ou de stéréotypes raciaux, religieux ou autres qui incitent à la haine ou font l'apologie de la haine en se basant sur les caractéristiques listées ci-dessus. Cela peut prendre la forme de discours, de texte ou d'images illustrant ces stéréotypes ou les traitant comme factuels.
+* Déclaration affirmant que des individus ou des groupes d'individus sont physiquement ou mentalement inférieurs, déficients ou malades, en fonction des caractéristiques listées ci-dessus. Sont comprises dans ces déclarations les affirmations de l'infériorité d'un groupe par rapport à un autre en le qualifiant de moins intelligent, moins capable ou malade.
+* Affirmation de la supériorité d'un groupe d'individus par rapport aux individus présentant l'une ou l'autre des caractéristiques listées ci-dessus, dans le but de justifier des actes de violence, de discrimination, de ségrégation ou d'exclusion.
+* Théories du complot affirmant que des individus ou des groupes sont malveillants ou malhonnêtes, en fonction des caractéristiques listées ci-dessus.
+* Appel à la domination sur des individus ou des groupes d'individus, ou à leur assujettissement, en fonction des caractéristiques listées ci-dessus.
 * Négation de l'existence attestée d'un événement violent.
 * Attaques contre un individu en raison de son attirance émotionnelle, romantique et/ou sexuelle envers un autre individu.
 * Contenus de propagande pour des groupes défendant la notion de suprématie raciale et incitant à la haine, y compris les contenus visant à recruter de nouveaux membres ou à demander un soutien financier.
@@ -70,9 +70,9 @@ Interdiction de monétisation et autres sanctions
 Dans de très rares cas, nous pouvons supprimer du contenu ou imposer d'autres sanctions, par exemple lorsqu'un créateur :
 
 * encourage de façon continue un comportement abusif de la part des spectateurs ;
-* cible, insulte et maltraite un groupe d'individus en fonction de l'une des caractéristiques listées ci-dessus, à plusieurs reprises et dans différentes vidéos ;
-* expose un groupe d'individus présentant l'une des caractéristiques listées ci-dessus à des risques de blessure physique en fonction du contexte social ou politique local ;
-* crée un contenu nuisible à l'écosystème YouTube, en encourageant de façon persistante l'hostilité envers un groupe d'individus présentant l'une des caractéristiques listées ci-dessus pour en retirer un gain financier personnel.
+* cible, insulte et maltraite un groupe d'individus en fonction des caractéristiques listées ci-dessus, à plusieurs reprises et dans différentes vidéos ;
+* expose un groupe d'individus présentant l'une ou l'autre des caractéristiques listées ci-dessus à des risques de blessure physique en fonction du contexte social ou politique local ;
+* crée un contenu nuisible à l'écosystème YouTube, en encourageant de façon persistante l'hostilité envers un groupe d'individus présentant l'une ou l'autre des caractéristiques listées ci-dessus pour en retirer un gain financier personnel.
 
 Exemples
 --------
