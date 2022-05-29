@@ -27,24 +27,24 @@ Ne publiez pas de contenu sur YouTube s'il correspond à l'une des descriptions 
 *   Vidéos ou images montrant des fluides corporels, tels que du sang ou des vomissures, dans le but de choquer ou d'inspirer du dégoût aux spectateurs
 *   Vidéos de cadavres présentant de très graves blessures, comme des membres sectionnés
 
-**Mauvais traitements infligés à des animaux :**
+**Contenu montrant des mauvais traitements infligés à des animaux :** 
 
 *   Contenu dans lequel des animaux sont incités ou forcés à se battre par des humains
 *   Contenu montrant une personne infligeant de manière malveillante des souffrances à un animal, lorsque ces actes ne relèvent pas de pratiques traditionnelles ou courantes telles que la chasse ou la préparation de nourriture
 *   Contenu montrant de faux sauvetages qui mettent des animaux dans des situations dangereuses
 
-**Contenu théâtralisé ou fictif :**
+**Contenu théâtralisé ou fictif :** 
 
 *   Séquences théâtralisées ou fictives montrant du contenu interdit par ces consignes, lorsque le spectateur n'a pas suffisamment de contexte pour déterminer si les images sont théâtralisées ou fictives
 
-Sachez que les contenus suivants sont interdits même s'ils ont une visée éducative, documentaire, scientifique ou artistique :
+Sachez que les contenus suivants sont interdits même s'ils ont une visée éducative, documentaire, scientifique ou artistique : 
 
 *   Agressions sexuelles violentes (image, vidéo ou audio)
 *   Vidéos d'événements meurtriers ou très violents, filmées par l'auteur des actes et dans lesquelles des armes, des victimes blessées ou des scènes de violence sont visibles ou audibles
 
-Veuillez noter que cette liste n'est pas exhaustive.
+Veuillez noter que cette liste n'est pas exhaustive. 
 
-N'oubliez pas que ce règlement s'applique également aux vidéos, aux descriptions de vidéos, aux miniatures, aux commentaires, aux diffusions en direct et à tout autre produit ou fonctionnalité de YouTube. Ces règles s'appliquent également aux [liens externes](https://support.google.com/youtube/answer/9054257) présents dans votre contenu. Il peut s'agir d'URL cliquables, de communications verbales dans une vidéo ou d'autres moyens visant à rediriger les utilisateurs vers d'autres sites.
+N'oubliez pas que ces règles s'appliquent également aux vidéos, aux descriptions de vidéos, aux miniatures, aux commentaires, aux diffusions en direct et à tout autre produit ou fonctionnalité de YouTube. Ces règles s'appliquent également aux [liens externes](https://support.google.com/youtube/answer/9054257) présents dans votre contenu. Il peut s'agir d'URL cliquables, de communications verbales dans une vidéo ou d'autres moyens visant à rediriger les utilisateurs vers d'autres sites.
 
 Contenus éducatifs
 
@@ -52,15 +52,15 @@ Dans certains cas, nous pouvons autoriser les contenus violents ou explicites in
 
 Contenus soumis à une limite d'âge
 
-Les contenus violents ou explicites accompagnés de suffisamment de contexte pour leur bonne compréhension sont susceptibles d'être soumis à une limite d'âge plutôt que supprimés. Par exemple, un contenu montrant les blessures des victimes d'un accident de la route peut être supprimé, mais le même contenu accompagné d'informations expliquant la situation et le contexte pourra être soumis à une limite d'âge. En cas d'utilisation pédagogique de contenus violents ou explicites, ce contexte doit être rendu manifeste via les images ou les éléments audio présents dans la vidéo. Pour en savoir plus sur l'importance du contexte, consultez [cet article](https://support.google.com/youtube/answer/6345162).
+Les contenus violents ou explicites accompagnés de suffisamment de contexte pour leur bonne compréhension sont susceptibles d'être soumis à une limite d'âge plutôt que supprimés. Par exemple, un contenu montrant les blessures des victimes d'un accident de la route peut être supprimé, mais le même contenu issu d'un reportage et accompagné d'informations expliquant la situation et le contexte pourra être soumis à une limite d'âge. En cas d'utilisation pédagogique de contenus violents ou explicites, ce contexte doit être rendu manifeste via les images ou les éléments audio présents dans la vidéo. Pour en savoir plus sur l'importance du contexte, consultez [cet article](https://support.google.com/youtube/answer/6345162).
 
 Nous prenons également en compte l'intérêt général pour déterminer si un contenu doit être supprimé ou soumis à une limite d'âge. Par exemple, nous pouvons appliquer une limite d'âge à des contenus explicites ou violents qui montrent des zones de guerre.
 
-Nous pouvons également appliquer une limite d'âge aux contenus fictifs contenant des scènes de violence choquantes (personnes démembrées ou décapitées, ou cadavres présentant ces mutilations, par exemple). De manière générale, la violence théâtralisée est autorisée lorsque le contenu ou les métadonnées indiquent que le contenu est fictif, ou quand le contenu en lui-même est sans équivoque (animation ou jeu vidéo, par exemple).
+Nous pouvons également appliquer une limite d'âge aux contenus fictifs contenant des scènes de violence explicites (personnes démembrées ou décapitées, ou cadavres humains présentant ces mutilations, par exemple). De manière générale, la violence théâtralisée est autorisée lorsque le contenu ou les métadonnées indiquent que le contenu est fictif, ou quand le contenu en lui-même est sans équivoque (animation ou jeu vidéo, par exemple). 
 
 Nous prenons en compte les éléments suivants pour déterminer s'il convient de soumettre le contenu à une limite d'âge ou de le supprimer. Veuillez noter que cette liste n'est pas exhaustive :
 
-*   Des scènes de violence ou des images choquantes sont-elles le point central de la vidéo (par exemple, une vidéo qui se concentre uniquement sur les passages les plus violents d'un film ou d'un jeu vidéo) ?
+*   Des scènes de violence ou des images sanglantes sont-elles le point central de la vidéo (par exemple, une vidéo qui se concentre uniquement sur les passages les plus explicitement violents d'un film ou d'un jeu vidéo) ?
 *   Est-ce que le titre, la description, les tags ou d'autres éléments indiquent une intention de choquer les spectateurs ou de leur inspirer du dégoût ?
 *   Les images et les sons évoquant la violence ont-ils été floutés, masqués ou dissimulés ?
 *   Combien de temps durent les images ou les sons violents ?
@@ -69,7 +69,7 @@ Nous prenons en compte les éléments suivants pour déterminer s'il convient de
 *   Est-ce que le contenu montre la mise à mort d'un animal dans le cadre d'une chasse, d'une pratique religieuse ou de la préparation de nourriture ?
 *   Le contenu montre-t-il une personne infligeant des souffrances à un animal dans le but de dénoncer ces actes abusifs ?
 
-Ce règlement s'applique aux vidéos, aux descriptions de vidéos, aux commentaires, aux diffusions en direct et aux autres produits ou fonctionnalités de YouTube.
+Ces règles s'appliquent aux vidéos, aux descriptions de vidéos, aux commentaires, aux diffusions en direct et aux autres produits ou fonctionnalités de YouTube.
 
 Exemples
 --------
@@ -80,24 +80,24 @@ Voici quelques exemples de contenus non autorisés sur YouTube.
 *   Véritables bagarres entre mineurs dans une cour d'école (nous pouvons autoriser ce type de contenu si les mineurs font semblant de se battre et que cela est évident pour les spectateurs)
 *   Passages à tabac ou bagarres en dehors du contexte d'événements sportifs professionnels ou supervisés par des professionnels
 
-Autres exemples
----------------
+Autres exemples 
+----------------
 
 Contenu explicite ou violent
 
-Les types de contenus suivants sont interdits sur YouTube (liste non exhaustive) :
+Les types de contenus suivants sont interdits sur YouTube. Cette liste n'est pas exhaustive : 
 
 *   Images d'actes médicaux dont le contenu est centré sur des blessures ouvertes et ne fournit ni information pédagogique, ni explication aux spectateurs
-*   Vidéos de crimes violents (tels que des vols violents) qui ne fournissent ni information pédagogique, ni explication aux spectateurs
+*   Vidéos de crimes (tels que des vols violents) qui ne fournissent ni information pédagogique, ni explication aux spectateurs
 *   Vidéos issues d'un téléphone portable, d'une caméra embarquée ou d'une caméra de surveillance montrant des personnes blessées ou tuées dans un accident de la route, accompagnées d'un titre tel que "Accident de fou" ou "Attention : ça va saigner"
 *   Vidéos de décapitations
 *   Vidéos montrant un combat inégal entre deux personnes, accompagnées d'un titre tel que "Regardez ce type se faire tabasser"
 
-Mauvais traitements infligés aux animaux
+Contenu montrant des mauvais traitements infligés aux animaux
 
-La catégorie "Mauvais traitements infligés aux animaux" fait référence aux contenus montrant des blessures physiques et des souffrances infligées de manière malveillante à un animal. Nous pouvons faire une exception pour les contenus mettant en scène des pratiques généralement acceptées (telles que la chasse, le piégeage, la lutte contre les nuisibles, la préparation de nourriture, les traitements médicaux ou l'abattage d'animaux) qui causent des souffrances à un ou plusieurs animaux.
+La catégorie "Contenu montrant des mauvais traitements infligés aux animaux" fait référence aux contenus montrant des blessures physiques et des souffrances infligées de manière malveillante à un animal. Nous pouvons faire une exception pour les contenus mettant en scène des pratiques généralement acceptées (telles que la chasse, le piégeage, la lutte contre les nuisibles, la préparation de nourriture, les traitements médicaux ou l'abattage d'animaux) qui causent des souffrances à un ou plusieurs animaux.
 
-Voici d'autres exemples de contenus non autorisés sur YouTube :
+Voici d'autres exemples de contenus non autorisés sur YouTube : 
 
 *   Combats de chiens, de coqs ou autres vidéos dans lesquelles des spectateurs humains forcent des animaux à se battre (les contenus qui mettent en scène des animaux se battant dans la nature, dans un documentaire animalier par exemple, sont autorisés)  
 *   Contenu non éducatif, non documentaire, non scientifique ou non artistique qui montre des souffrances infligées à des animaux dans le but de choquer ou de susciter le dégoût
@@ -106,7 +106,7 @@ Voici d'autres exemples de contenus non autorisés sur YouTube :
 
 Cette liste n'est pas exhaustive.
 
-Gardez en tête qu'il ne s'agit que d'exemples. Ne publiez pas votre contenu si vous pensez qu'il est susceptible d'enfreindre ces règles.
+Gardez en tête qu'il ne s'agit que d'exemples. Ne publiez pas votre contenu si vous pensez qu'il est susceptible d'enfreindre ces règles. 
 
 Que se passe-t-il si un contenu ne respecte pas ce règlement ?
 --------------------------------------------------------------
