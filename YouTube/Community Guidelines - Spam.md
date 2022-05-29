@@ -19,7 +19,7 @@ Ne publiez pas de contenu sur YouTube s'il correspond à l'une des descriptions 
 *   **Spam vidéo** : contenu répétitif, non ciblé ou publié de manière excessive et qui :
     *   laisse croire aux spectateurs qu'ils vont voir des contenus, mais les redirige en dehors de YouTube ;
     *   génère des clics, des vues ou du trafic en dehors de YouTube en promettant un gain d'argent rapide aux spectateurs ;
-    *   dirige les spectateurs vers des sites qui propagent des logiciels dangereux, tentent de collecter des informations personnelles ou engendrent un impact négatif.
+    *   redirige les spectateurs vers des sites qui propagent des logiciels dangereux, tentent de collecter des informations personnelles ou engendrent un impact négatif.
 *   **Métadonnées ou miniatures trompeuses** : utiliser le titre, les miniatures ou la description pour tromper les utilisateurs sur la nature du contenu.
 *   **Escroqueries** : contenu proposant d'offrir des récompenses en espèces, des moyens de "devenir riche rapidement" ou des systèmes pyramidaux (envoi d'argent sans produit tangible dans une structure pyramidale).
 *   **Spam incitatif** : contenu proposant à la vente des métriques d'engagement telles que des vues, des "J'aime", des commentaires ou toute autre métrique disponible sur YouTube. Cela comprend également les contenus dont l'unique objectif est d'augmenter le nombre d'abonnés, de vues ou d'autres métriques. Il peut s'agir, par exemple, de contenus dans lesquels vous proposez à un autre créateur de vous abonner à sa chaîne à condition qu'il s'abonne à la vôtre en retour, une pratique connue sous le nom de "sub4sub".
@@ -29,7 +29,7 @@ Ne publiez pas de contenu sur YouTube s'il correspond à l'une des descriptions 
 
 Ces règles s'appliquent aux vidéos, aux descriptions de vidéos, aux commentaires, aux diffusions en direct et à tout autre produit ou fonctionnalité de YouTube. N'oubliez pas que cette liste n'est pas exhaustive. Ces règles s'appliquent également aux [liens externes](https://support.google.com/youtube/answer/9054257) présents dans votre contenu. Il peut s'agir d'URL cliquables, de communications verbales dans une vidéo ou d'autres moyens visant à rediriger les utilisateurs vers d'autres sites.
 
-**Remarque** : Vous avez le droit d'encourager vos spectateurs à s'abonner, à cliquer sur le bouton "J'aime", à partager votre vidéo ou à laisser un commentaire.
+**Remarque** : Vous avez le droit d'encourager vos spectateurs à s'abonner, à cliquer sur "J'aime", à partager votre vidéo ou à laisser un commentaire.
 
 Spam vidéo
 ----------
@@ -39,9 +39,9 @@ Les types de contenus suivants sont interdits sur YouTube (cette liste n'est pas
 *   Laisser croire aux spectateurs qu'ils vont pouvoir visionner une vidéo, mais les rediriger en dehors de YouTube
 *   Publier le même contenu à plusieurs reprises sur une ou plusieurs chaînes
 *   Mettre en ligne en masse le contenu détourné d'autres créateurs
-*   Inciter les spectateurs à installer des logiciels dangereux ou les rediriger vers des sites susceptibles de porter atteinte à leur vie privée
+*   Inciter les spectateurs à installer des logiciels dangereux ou les rediriger vers des sites susceptibles de porter atteinte à leur confidentialité
 *   Publier du contenu généré automatiquement par des ordinateurs afin de le mettre en ligne sans se préoccuper de la qualité ou de l'expérience utilisateur
-*   Promettre aux spectateurs de l'argent, des produits, des logiciels ou des avantages dans des jeux vidéo en échange de l'installation d'un logiciel, du téléchargement d'une application ou de la réalisation d'autres tâches
+*   Promettre aux spectateurs de l'argent, des produits, des logiciels ou des avantages dans des jeux vidéo, sans frais, en échange de l'installation d'un logiciel, du téléchargement d'une application ou de la réalisation d'autres tâches
 *   Publier en masse du contenu affilié à partir d'un compte dédié
 
 Métadonnées ou miniatures trompeuses
