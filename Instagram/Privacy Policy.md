@@ -296,21 +296,4 @@ Vous avez également le droit de déposer une réclamation auprès de l’autori
 
   
   
-Date de la dernière mise à jour : 4 janvier 2022  
-
-Ces informations vous ont-elles été utiles ?
-
-1.  Oui
-2.  Non
-
-Articles connexes
-
-[Pourquoi est-ce que je vois des publicités d’un annonceur sur Facebook ?](https://help.instagram.com/794535777607370?helpref=related&source_cms_id=519522125107875)
-
-[Qu’est-ce qu’une objection et comment puis-je en faire une sur Facebook ?](https://help.instagram.com/2069235856423257?helpref=related&source_cms_id=519522125107875)
-
-[Résumé des mises à jour apportées à la Politique de confidentialité et aux Conditions de service de Meta](https://help.instagram.com/536962387275178?helpref=related&source_cms_id=519522125107875)
-
-[Quelles sont les options de confidentialité des groupes Facebook ?](https://help.instagram.com/220336891328465?helpref=related&source_cms_id=519522125107875)
-
-[Pourquoi Facebook demande-t-elle leur pièce d’identité aux gestionnaires de Pages ?](https://help.instagram.com/367814907084687?helpref=related&source_cms_id=519522125107875)
+Date de la dernière mise à jour : 4 janvier 2022
