@@ -1,6 +1,3 @@
-*   [Privacy, security and reporting](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
-*   [How to report things](https://help.instagram.com/2922067214679225/?helpref=breadcrumb)
-
 What information do I need to include in a copyright report to Instagram?
 =========================================================================
 
