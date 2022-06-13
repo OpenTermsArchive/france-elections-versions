@@ -35,12 +35,11 @@ Le contenu qui se moque des victimes ou des survivants d’une tentative de suic
 
 #### Pour les éléments suivants, nous limitons le contenu aux adultes de plus de 18 ans et affichons un écran de sensibilité afin d’informer les gens que le contenu peut être dérangeant :
 
-*   Les photos ou les vidéos considérées comme pertinentes représentant une personne ayant commis un suicide ou une tentative de suicide.
 *   Les photos ou les vidéos représentant une personne ayant subi une euthanasie ou un suicide assisté dans un contexte médical.
 
-#### Pour les types de contenus suivants, nous affichons un écran de sensibilité afin d’informer les gens qu’il s’agit de contenus potentiellement dérangeants pour certains :
+#### Pour les types de contenus suivants, nous affichons un avertissement de sensibilité afin d’informer les gens qu’il s’agit de contenus potentiellement dérangeants pour certains :
 
-*   Contenu montrant d’anciens cas d’automutilation, comme des coupures cicatrisées ou d’autres images non explicites d’automutilation dans un contexte de guérison.
+*   Le contenu montrant d’anciens cas d’automutilation, comme des coupures cicatrisées ou d’autres images non explicites d’automutilation dans un contexte d’automutilation, de suicide ou de guérison.
 *   Le contenu qui décrit en détail les côtes, les clavicules, l’écart entre les cuisses, les hanches, le creux de l’estomac ou une colonne vertébrale ou une omoplate saillante dans un contexte de rétablissement.
 
 #### Nous offrons des ressources aux personnes qui publient une confession verbale ou écrite exprimant toute implication dans une forme d’automutilation, notamment :
@@ -49,6 +48,7 @@ Le contenu qui se moque des victimes ou des survivants d’une tentative de suic
 *   l’euthanasie ou le suicide assisté.
 *   l’automutilation.
 *   les troubles de l’alimentation.
+*   les déclarations ou les références vagues, potentiellement suicidaires (y compris des memes ou des images de photothèque sur l’humeur triste ou la dépression) dans un contexte de suicide ou d’automutilation.
 
 #### Nous demandons du contexte et/ou des informations supplémentaires pour assurer le respect des Standards de la communauté suivants :
 
