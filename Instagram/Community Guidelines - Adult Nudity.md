@@ -10,17 +10,17 @@ Avec le temps, nous avons adapté nos règlements relatifs à la nudité. Nous c
 #### Ne publiez pas :
 
 * Images de corps d’adultes réels nus, si elles représentent :
-    * Des parties génitales visibles, hors contexte d’accouchement ou de moments post-accouchement, ou de situations liées à la santé (par exemple, opération de réassignation sexuelle, examen à des fins de dépistage du cancer ou prévention/diagnostic de maladie).
+    * Des parties génitales visibles, hors contexte d’accouchement ou de moments post-accouchement, ou en cas de situations médicales ou liées à la santé (par exemple, opération de réassignation sexuelle, examen à des fins de dépistage du cancer ou prévention/diagnostic de maladie).
     * Un anus visible et/ou un gros plan sur des fesses entièrement exposées, sauf s’il s’agit d’un montage sur une personnalité publique.
-    * Des mamelons de femme découverts, sauf lorsqu’il s’agit d’images illustrant l’allaitement, les moments pendant et après l’accouchement, des interventions dans le domaine médical (par exemple, mastectomie, sensibilisation au cancer du sein ou chirurgie de réattribution sexuelle) ou un acte de protestation.
+    * Des mamelons de femme découverts, sauf lorsqu’il s’agit d’images illustrant l’allaitement, les moments pendant et après l’accouchement, des situations médicales ou liées à la santé, des interventions dans le domaine médical (par exemple, mastectomie, sensibilisation au cancer du sein ou chirurgie de réattribution sexuelle) ou un acte de protestation.
 * Des images d’activités sexuelles, notamment :
     * Stimulation et activité sexuelle explicite
         * Des rapports sexuels ou oraux explicites montrant une bouche ou des parties génitales entrant en contact avec les parties génitales ou l’anus d’une autre personne où au moins les parties génitales de l’une des personnes sont exposées.
-        * Stimulation explicite de parties génitales ou de l’anus montrant la stimulation des parties génitales ou de l’anus ou l’insertion d’objets, y compris des sex toys dans les parties génitales ou l’anus, où les parties génitales et le contact avec ces parties du corps sont directement visibles.
-    * Stimulation et activité sexuelle implicite
-        * Des rapports sexuels implicites ou des rapports sexuels oraux montrant une bouche ou des parties génitales entrant en contact avec les parties génitales ou l’anus d’une autre personne, lorsque le contact n’est pas directement visible, sauf lorsqu’il s’agit de contenus entrant dans le cadre de la santé sexuelle, de publicités, ou d’images fictives reconnues ou des images montrant des signes de fiction.
-        * La stimulation implicite des parties génitales ou de l’anus, ou l’insertion d’objets dans ou sur les parties génitales ou l’anus, y compris des sex toys, lorsque l’activité ou le contact n’est pas directement visible, sauf lorsqu’il s’agit de contenus entrant dans le cadre de la santé sexuelle, de publicités, ou d’images fictives reconnues ou des images montrant des signes de fiction.
-    * D’autres activités qui incluent, sans s’y limiter :
+        * Des stimulations explicites de parties génitales ou de l’anus montrant la stimulation des parties génitales ou de l’anus ou l’insertion d’objets, y compris des sex toys dans les parties génitales ou l’anus, où le contact avec les parties génitales ou l’anus sont directement visibles.
+    * Des activités et stimulations sexuelles implicites, sauf en cas de situations médicales ou liées à la santé, de publicités et d’images de fiction reconnues ou accompagnées d’indicateurs de fiction :
+        * Des rapports sexuels ou oraux implicites montrant une bouche ou des parties génitales entrant en contact avec les parties génitales ou la bouche d’une autre personne, lorsque les parties génitales et/ou l’activité ou le contact ne sont pas directement visibles.
+        * Des stimulations implicites de parties génitales ou de l’anus montrant la stimulation des parties génitales ou de l’anus ou l’insertion d’objets, y compris des sex toys dans ou au-dessus des parties génitales ou l’anus, lorsque les parties génitales et/ou l’activité ou le contact ne sont pas directement visibles.
+    * Des autres activités, sauf en cas de situations médicales ou liées à la santé, de publicités et d’images de fiction reconnues ou accompagnées d’indicateurs de fiction, y compris, mais sans s’y limiter :
         * Une érection
         * La présence de substances découlant d’une activité sexuelle.
         * Des sex toys placés sur ou insérés dans la bouche.
@@ -32,17 +32,23 @@ Avec le temps, nous avons adapté nos règlements relatifs à la nudité. Nous c
         * Du cannibalisme.
         * Des excréments, de l’urine, des crachats, de la morve, des règles ou du vomi.
         * De la zoophilie.
-    * Du contenu numérique qui répond à notre définition de l’activité sexuelle, sauf lorsqu’il est publié dans un contexte éducatif ou scientifique, ou lorsqu’il répond à l’un des critères ci-dessous et qu’il est uniquement montré à des individus de 18 ans et plus.
+    * Des activités sexuelles entre adultes en format numérique, sauf lorsqu’il est publié dans un contexte éducatif ou scientifique, ou lorsqu’il répond à l’un des critères ci-dessous et qu’il est uniquement montré à des individus de 18 ans et plus.
 * De longues pistes audio d’activité sexuelle
+
+#### Pour le contenu suivant, nous affichons un avertissement afin d’informer qu’il s’agit de contenus potentiellement sensibles :
+
+Des images de parties génitales visibles d’hommes et de femmes adultes, des gros plans de fesses ou d’anus entièrement nus, lorsqu’elles sont partagées dans un contexte médical ou lié à la santé, notamment :
+
+* les accouchements et les moments qui les suivent, y compris les accouchements naturels par voie basse et les césariennes.
+* les chirurgies de confirmation de genre.
+* l’autopalpation des parties génitales en prévention ou en examen du cancer ou d’autres maladies.
 
 #### Nous montrons uniquement ce contenu aux individus de 18 ans et plus :
 
-* Art réel représentant une activité sexuelle.
-* Publication de photos ou de vidéos d’objets qui représentent une activité sexuelle dans de l’art réel.
+* Art réel représentant une activité sexuelle implicite ou explicite.
 * Des images montrant de la zoophilie dans de l’art réel pourvu qu’elles soient partagées de manière neutre ou pour condamner et où les personnes ou animaux ne sont pas réels.
-* Activité sexuelle implicite dans des publicités.
-* Activité sexuelle implicite dans des images fictives reconnues ou disposant d’indicateurs de fiction.
-* Contenu numérique qui répond à notre définition de l’activité sexuelle où :
-    * l’activité sexuelle (rapports sexuels ou autres activités sexuelles) n’est pas directement visible.
+* L’activité sexuelle implicite entre adultes dans des publicités, des images fictives reconnues ou accompagnées d’indicateurs de fiction.
+* L'activité sexuelle entre adultes au format numérique, où :
+    * l’activité sexuelle (rapports sexuels ou autres activités sexuelles) n’est pas explicite et ne fait pas partie du contenu fétichiste spécifié ci-dessus.
     * le contenu a été publié à des fins humoristiques ou satiriques.
     * uniquement les formes ou les contours des corps sont visibles.
