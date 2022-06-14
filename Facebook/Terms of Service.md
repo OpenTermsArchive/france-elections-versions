@@ -235,4 +235,4 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
 * Conditions générales des services de messagerie pertinentes pour les utilisateurs de l’UE, de l’EEE et du Royaume-Uni : les conditions générales applicables aux services de messagerie, d’appel vocal et d’appel vidéo inclus dans les produits Facebook sont définies [ici](https://www.facebook.com/legal/terms/eecc/contract_summary) et [ici](https://www.facebook.com/legal/terms/eecc/flyout) conformément aux directives européennes.
 
   
-Date de la dernière mise à jour : 4 janvier 2022
+Date de la dernière révision : 20 décembre 2020
