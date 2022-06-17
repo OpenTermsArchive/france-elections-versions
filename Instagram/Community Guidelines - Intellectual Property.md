@@ -1,11 +1,11 @@
-Droits d’auteur
-===============
+Copyright
+=========
 
-La rubrique Questions/réponses de cette section fournit certaines informations sur les droits d’auteur, notamment sur la manière de renforcer la protection de vos œuvres protégées par droit d’auteur et d’éviter la violation de droits d’auteur de tiers lorsque vous publiez du contenu sur Instagram. Elle explique également l’approche d’Instagram quant à la résolution des cas de violation de droits d’auteur. Si vous pensez que quelqu’un utilise votre œuvre protégée par droit d’auteur sans votre autorisation, vous pouvez remplir [ce formulaire](https://help.instagram.com/contact/372592039493026).
+The FAQs in this section provide some information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of other people when posting to Instagram, as well as how Instagram addresses reports of copyright infringement. If you believe someone is using your copyrighted work without your permission, you can fill out [this form](https://help.instagram.com/contact/372592039493026).
 
-Notez que les lois en vigueur peuvent varier selon le pays. Pour en savoir plus sur la législation relative aux droits d’auteur, accédez au site web du [bureau américain de protection des droits d’auteur](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.copyright.gov%2F) ou de l’[Organisation mondiale de la propriété intellectuelle (OMPI)](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fwww.wipo.int%2Fportal%2Fen%2Findex.html). Instagram ne peut pas vous fournir de conseils d’ordre juridique. Nous vous conseillons de faire appel à un avocat si vous avez d’autres questions concernant les droits d’auteur.
+Please note that laws in different countries may vary. For more information on copyright law, you can visit the website of the [U.S. Copyright Office](https://l.instagram.com/?u=https%3A%2F%2Fwww.copyright.gov%2F&e=AT2cgEBh8ZUCaI7o8YHLbDzeDdnCtqpv7HCIDY6MRt53WYKwImELdBukQPsIaq6KVILL1mPZCvvnAYfQLY58Gc-rmAv2mp2ObQ07cIGGQl7nqDr0ERpZNpY5pPx_MV0gEkktMylrIq4pwbzX3xJcRog3wjTorRs84dSi8A) or the [World Intellectual Property Organization (WIPO)](https://l.instagram.com/?u=http%3A%2F%2Fwww.wipo.int%2Fportal%2Fen%2Findex.html&e=AT2cgEBh8ZUCaI7o8YHLbDzeDdnCtqpv7HCIDY6MRt53WYKwImELdBukQPsIaq6KVILL1mPZCvvnAYfQLY58Gc-rmAv2mp2ObQ07cIGGQl7nqDr0ERpZNpY5pPx_MV0gEkktMylrIq4pwbzX3xJcRog3wjTorRs84dSi8A). Instagram can’t provide you with legal advice, so you may want to speak with an attorney if you have more questions about copyright.
 
-En savoir plus sur les droits d’auteur
+Learn More About Copyright
 
 Dans la plupart des pays, les droits d’auteur constituent un droit reconnu par la loi qui protège les œuvres originales d’un auteur. En général, si vous créez une œuvre originale, vous en obtenez les droits d’auteur au moment de sa création.
 
@@ -49,7 +49,7 @@ Les [droits d’auteur](https://help.instagram.com/745146219025379?helpref=faq_c
 
 La législation relative aux [marques déposées](https://help.instagram.com/693466877515116?helpref=faq_content) vise à protéger le consommateur, dans la mesure où elle empêche toute personne autre que le titulaire des droits d’utiliser une marque déposée (par exemple, le logo d’une marque) d’une façon qui pourrait provoquer une confusion chez les consommateurs. La législation relative aux marques déposées protège les noms de marque, les slogans, les logos, ainsi que tout autre symbole qui permet aux consommateurs d’identifier la source d’un bien ou d’un service.
 
-Droits d’auteur et publication de contenu sur Instagram
+Copyright and Posting Content on Instagram
 
 En vertu des [Conditions d’utilisation](https://help.instagram.com/478745558852511) et des [Règles de la communauté](https://help.instagram.com/477434105621119/?helpref=faq_content) d’Instagram, vous pouvez uniquement publier du contenu sur Instagram s’il n’enfreint pas les droits de propriété intellectuelle d’un tiers. Pour vous assurer que le contenu que vous publiez sur Instagram n’enfreint pas la législation relative aux droits d’auteur, le meilleur moyen reste de publier uniquement du contenu dont vous êtes vous-même l’auteur.
 
@@ -65,7 +65,7 @@ Vous risquez d’enfreindre les droits d’auteur d’un tiers lorsque vous publ
 *   Avez modifié l’œuvre ou y avez ajouté une touche personnelle
 *   Avez trouvé le contenu sur Internet
 *   Avez vu d’autres personnes publier le même contenu
-*   Pensez qu’il s’agit d’un [usage raisonnable](https://help.instagram.com/116455299019699?helpref=search&sr=1&query=fair+use&search_session_id=8aa28133c81800559a4366cb5bb4c6a3)
+*   Pensez qu’il s’agit d’un [usage raisonnable](https://help.instagram.com/116455299019699?helpref=search&sr=1&query=fair%20use&search_session_id=8aa28133c81800559a4366cb5bb4c6a3)
 *   Utilisez un appareil ou service de streaming non autorisé (exemples : une application ou un service « débridés » ou « chargés »)
 
 Avant de publier du contenu sur Instagram, il est judicieux de vous poser les questions suivantes :
@@ -105,11 +105,11 @@ L’usage de petites parties d’une œuvre protégée par droit d’auteur est 
 
 L’usage risque-t-il de prévaloir sur l’œuvre originale, de sorte que les gens arrêteront d’acheter ou de consulter l’œuvre protégée par droit d’auteur ? Si tel est le cas, il ne s’agit probablement pas d’un usage raisonnable.
 
-Pour en savoir plus sur l’usage raisonnable aux États-Unis, vous pouvez consulter l’[index relatif à l’usage raisonnable du Bureau des droits d’auteur des États-Unis](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fcopyright.gov%2Ffair-use%2F).
+Pour en savoir plus sur l’usage raisonnable aux États-Unis, vous pouvez consulter l’[index relatif à l’usage raisonnable du Bureau des droits d’auteur des États-Unis](https://l.instagram.com/?u=https%3A%2F%2Fcopyright.gov%2Ffair-use%2F&e=AT2cgEBh8ZUCaI7o8YHLbDzeDdnCtqpv7HCIDY6MRt53WYKwImELdBukQPsIaq6KVILL1mPZCvvnAYfQLY58Gc-rmAv2mp2ObQ07cIGGQl7nqDr0ERpZNpY5pPx_MV0gEkktMylrIq4pwbzX3xJcRog3wjTorRs84dSi8A).
 
 Exceptions aux droits d’auteur
 
-L’application d’exceptions et de restrictions aux droits d’auteur peut varier d’un pays à un autre. En général, dans les pays qui prévoient des exceptions et des restrictions, l’usage d’œuvres protégées ne doit pas nuire de façon déraisonnable aux intérêts des titulaires des droits. Au sein de l’Union européenne, chaque État membre doit veiller à ce que les utilisateurs puissent s’appuyer sur les exceptions suivantes lors de la mise à disposition de contenu : citation, critique, examen, caricature, parodie ou pastiche. Pour en savoir plus sur la loi relative aux droits d’auteur au sein de l’Union européenne, vous pouvez consulter le [site web de l’Office de l’Union européenne pour la propriété intellectuelle](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Feuipo.europa.eu%2Fohimportal%2Fen%2Fweb%2Fobservatory%2Ffaqs-on-copyright-sk).
+L’application d’exceptions et de restrictions aux droits d’auteur peut varier d’un pays à un autre. En général, dans les pays qui prévoient des exceptions et des restrictions, l’usage d’œuvres protégées ne doit pas nuire de façon déraisonnable aux intérêts des titulaires des droits. Au sein de l’Union européenne, chaque État membre doit veiller à ce que les utilisateurs puissent s’appuyer sur les exceptions suivantes lors de la mise à disposition de contenu : citation, critique, examen, caricature, parodie ou pastiche. Pour en savoir plus sur la loi relative aux droits d’auteur au sein de l’Union européenne, vous pouvez consulter le [site web de l’Office de l’Union européenne pour la propriété intellectuelle](https://l.instagram.com/?u=https%3A%2F%2Feuipo.europa.eu%2Fohimportal%2Fen%2Fweb%2Fobservatory%2Ffaqs-on-copyright-sk&e=AT2cgEBh8ZUCaI7o8YHLbDzeDdnCtqpv7HCIDY6MRt53WYKwImELdBukQPsIaq6KVILL1mPZCvvnAYfQLY58Gc-rmAv2mp2ObQ07cIGGQl7nqDr0ERpZNpY5pPx_MV0gEkktMylrIq4pwbzX3xJcRog3wjTorRs84dSi8A).
 
 Il peut arriver d’enfreindre involontairement les droits d’auteur d’un tiers. Dans la plupart des cas, vous ne devez pas utiliser le contenu d’un tiers protégé par des droits d’auteur sans obtenir son autorisation.
 
@@ -117,7 +117,7 @@ Sachez que si vous utilisez le contenu d’un tiers, vous êtes susceptible de p
 
 *   créditez le titulaire des droits d’auteur ;
 *   ajoutez un avertissement indiquant que vous n’avez aucune intention d’enfreindre les droits d’auteur ;
-*   pensez qu’il s’agit d’un [usage équitable](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F337995452911154%3Fhelpref%3Dfaq_content) ;
+*   pensez qu’il s’agit d’un [usage équitable](https://l.instagram.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F337995452911154%3Fhelpref%3Dfaq_content&e=AT2cgEBh8ZUCaI7o8YHLbDzeDdnCtqpv7HCIDY6MRt53WYKwImELdBukQPsIaq6KVILL1mPZCvvnAYfQLY58Gc-rmAv2mp2ObQ07cIGGQl7nqDr0ERpZNpY5pPx_MV0gEkktMylrIq4pwbzX3xJcRog3wjTorRs84dSi8A) ;
 *   Vous n’aviez aucune intention d’utiliser le contenu à des fins lucratives
 *   avez acheté ou téléchargé légalement le contenu (par exemple, la copie d’un DVD ou une chanson sur Internet) ;
 *   Vous avez modifié l’œuvre ou y avez ajouté une touche personnelle
@@ -133,7 +133,7 @@ Réclamation au sujet de la suppression de contenu
 
 Si votre contenu a été supprimé à cause d’un signalement concernant les droits d’auteur, vous pouvez envoyer une réclamation. Vous trouverez des instructions sur la procédure à suivre dans le message que nous vous enverrons. De même, si le contenu a été supprimé en vertu des procédures de déclaration et de déclaration contradictoire du [DMCA (United States Digital Millennium Copyright Act)](https://help.instagram.com/697328657009330?helpref=faq_content), vous pouvez peut-être déposer une déclaration contradictoire DMCA. Là encore, vous trouverez des instructions dans le message que nous vous enverrons.
 
-Apprenez-en davantage sur [notre procédure de réclamation](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F1417735471763678%3Flocale%3Den_US%26helpref%3Dfaq_content) ou sur l’[utilisation de la musique dans vos vidéos sur Instagram](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F629037417957828%3Fhelpref%3Dfaq_content).
+Apprenez-en davantage sur [notre procédure de réclamation](https://l.instagram.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F1417735471763678%3Flocale%3Den_US%26helpref%3Dfaq_content&e=AT2cgEBh8ZUCaI7o8YHLbDzeDdnCtqpv7HCIDY6MRt53WYKwImELdBukQPsIaq6KVILL1mPZCvvnAYfQLY58Gc-rmAv2mp2ObQ07cIGGQl7nqDr0ERpZNpY5pPx_MV0gEkktMylrIq4pwbzX3xJcRog3wjTorRs84dSi8A) ou sur l’[utilisation de la musique dans vos vidéos sur Instagram](https://l.instagram.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F629037417957828%3Fhelpref%3Dfaq_content&e=AT2cgEBh8ZUCaI7o8YHLbDzeDdnCtqpv7HCIDY6MRt53WYKwImELdBukQPsIaq6KVILL1mPZCvvnAYfQLY58Gc-rmAv2mp2ObQ07cIGGQl7nqDr0ERpZNpY5pPx_MV0gEkktMylrIq4pwbzX3xJcRog3wjTorRs84dSi8A).
 
 En utilisant Instagram, vous avez accepté nos [Conditions d’utilisation](https://help.instagram.com/581066165581870?helpref=faq_content), qui interdisent aux internautes d’entreprendre toute action sur Instagram qui enfreindrait ou violerait les droits de propriété intellectuelle d’un tiers ou enfreindrait de toute autre manière la loi.
 
@@ -155,12 +155,12 @@ Dès réception d’une déclaration contradictoire DMCA valide, nous la transf�
 
 Tout contenu restauré suite à une déclaration contradictoire DMCA valide ne sera pas utilisé contre vous dans le cadre de notre politique en matière de récidive.
 
-Signaler une violation de droits d’auteur sur Instagram
+Reporting Copyright Infringement on Instagram
 
 Si vous pensez que du contenu sur Instagram enfreint vos droits d’auteur, vous pouvez prendre une ou plusieurs des mesures suivantes :
 
 *   Vous pouvez nous le signaler en remplissant ce [formulaire](https://help.instagram.com/contact/552695131608132).
-*   Vous pouvez nous le signaler en utilisant la [Protection des droits de la marque](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F828925381043253%3Fhelpref%3Dfaq_content), qui permet à un détenteur de droits d’identifier et de signaler du contenu en infraction en matière de marques déposées, de droits d’auteur et de contrefaçon.
+*   Vous pouvez nous le signaler en utilisant la [Protection des droits de la marque](https://l.instagram.com/?u=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F828925381043253%3Fhelpref%3Dfaq_content&e=AT2cgEBh8ZUCaI7o8YHLbDzeDdnCtqpv7HCIDY6MRt53WYKwImELdBukQPsIaq6KVILL1mPZCvvnAYfQLY58Gc-rmAv2mp2ObQ07cIGGQl7nqDr0ERpZNpY5pPx_MV0gEkktMylrIq4pwbzX3xJcRog3wjTorRs84dSi8A), qui permet à un détenteur de droits d’identifier et de signaler du contenu en infraction en matière de marques déposées, de droits d’auteur et de contrefaçon.
 *   Vous pouvez contacter notre [représentant désigné](https://help.instagram.com/589322221078523?helpref=faq_content), conformément aux procédures de déclaration et de déclaration contradictoire du DMCA (Digital Millennium Copyright Act des États-Unis). Si vous contactez notre représentant DMCA désigné, veuillez vous assurer d’inclure une réclamation de droits d’auteur complète dans votre signalement.
 
 Remarques :
