@@ -1,11 +1,11 @@
-Droits d’auteur
-===============
+Copyright
+=========
 
-La rubrique Questions/réponses de cette section fournit certaines informations sur les droits d’auteur, notamment sur la manière de renforcer la protection de vos œuvres protégées par droit d’auteur et d’éviter la violation de droits d’auteur de tiers lorsque vous publiez du contenu sur Instagram. Elle explique également l’approche d’Instagram quant à la résolution des cas de violation de droits d’auteur. Si vous pensez que quelqu’un utilise votre œuvre protégée par droit d’auteur sans votre autorisation, vous pouvez remplir [ce formulaire](https://help.instagram.com/contact/372592039493026).
+The FAQs in this section provide some information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of other people when posting to Instagram, as well as how Instagram addresses reports of copyright infringement. If you believe someone is using your copyrighted work without your permission, you can fill out [this form](https://help.instagram.com/contact/372592039493026).
 
-Notez que les lois en vigueur peuvent varier selon le pays. Pour en savoir plus sur la législation relative aux droits d’auteur, accédez au site web du [bureau américain de protection des droits d’auteur](https://www.copyright.gov/) ou de l’[Organisation mondiale de la propriété intellectuelle (OMPI)](http://www.wipo.int/portal/en/index.html). Instagram ne peut pas vous fournir de conseils d’ordre juridique. Nous vous conseillons de faire appel à un avocat si vous avez d’autres questions concernant les droits d’auteur.
+Please note that laws in different countries may vary. For more information on copyright law, you can visit the website of the [U.S. Copyright Office](https://www.copyright.gov/) or the [World Intellectual Property Organization (WIPO)](http://www.wipo.int/portal/en/index.html). Instagram can’t provide you with legal advice, so you may want to speak with an attorney if you have more questions about copyright.
 
-En savoir plus sur les droits d’auteur
+Learn More About Copyright
 
 Dans la plupart des pays, les droits d’auteur constituent un droit reconnu par la loi qui protège les œuvres originales d’un auteur. En général, si vous créez une œuvre originale, vous en obtenez les droits d’auteur au moment de sa création.
 
@@ -49,7 +49,7 @@ Les [droits d’auteur](https://help.instagram.com/745146219025379) visent à en
 
 La législation relative aux [marques déposées](https://help.instagram.com/693466877515116) vise à protéger le consommateur, dans la mesure où elle empêche toute personne autre que le titulaire des droits d’utiliser une marque déposée (par exemple, le logo d’une marque) d’une façon qui pourrait provoquer une confusion chez les consommateurs. La législation relative aux marques déposées protège les noms de marque, les slogans, les logos, ainsi que tout autre symbole qui permet aux consommateurs d’identifier la source d’un bien ou d’un service.
 
-Droits d’auteur et publication de contenu sur Instagram
+Copyright and Posting Content on Instagram
 
 En vertu des [Conditions d’utilisation](https://help.instagram.com/478745558852511) et des [Règles de la communauté](https://help.instagram.com/477434105621119/) d’Instagram, vous pouvez uniquement publier du contenu sur Instagram s’il n’enfreint pas les droits de propriété intellectuelle d’un tiers. Pour vous assurer que le contenu que vous publiez sur Instagram n’enfreint pas la législation relative aux droits d’auteur, le meilleur moyen reste de publier uniquement du contenu dont vous êtes vous-même l’auteur.
 
@@ -155,7 +155,7 @@ Dès réception d’une déclaration contradictoire DMCA valide, nous la transf�
 
 Tout contenu restauré suite à une déclaration contradictoire DMCA valide ne sera pas utilisé contre vous dans le cadre de notre politique en matière de récidive.
 
-Signaler une violation de droits d’auteur sur Instagram
+Reporting Copyright Infringement on Instagram
 
 Si vous pensez que du contenu sur Instagram enfreint vos droits d’auteur, vous pouvez prendre une ou plusieurs des mesures suivantes :
 
