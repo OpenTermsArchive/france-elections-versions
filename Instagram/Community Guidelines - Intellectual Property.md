@@ -143,9 +143,11 @@ Si vous publiez du contenu qui enfreint les droits de propriété intellectuelle
 
 Conformément à cette politique, nous pouvons limiter votre capacité à publier des photos ou des vidéos, et vous pourriez même ne plus avoir accès à certaines fonctionnalités sur Instagram. Les mesures prises conformément à cette politique dépendent de la nature du contenu signalé et de l’endroit où ce dernier a été publié.
 
-Si un contenu que vous avez publié est restauré suite à une réclamation ou à l’annulation du signalement effectué par le titulaire des droits, nous tiendrons compte de cette restauration, conformément à notre politique en matière de récidive.
+Si un contenu que vous avez publié est restauré à la suite d’une réclamation ou de l’annulation du signalement effectué par le titulaire des droits d’auteur, nous prendrons en compte cette restauration, conformément à notre politique en matière de récidive.
 
 Découvrez ce que vous pouvez faire [si vous pensez que votre compte a été désactivé par erreur](https://help.instagram.com/366993040048856?helpref=faq_content).
+
+Vous pouvez obtenir plus d’informations sur la façon d’éviter la violation des droits d’auteur lorsque vous publiez sur Instagram dans cet [article de questions/réponses.](https://help.instagram.com/126382350847838?helpref=faq_content)
 
 Instagram se conforme aux procédures de notification et d’annulation exposées à la section 512(c) du DMCA (Digital Millennium Copyright Act) des États-Unis, qui concerne les contenus signalés et supprimés pour avoir enfreint les droits d’auteur américains.
 
