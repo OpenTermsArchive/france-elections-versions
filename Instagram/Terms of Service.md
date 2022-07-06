@@ -98,7 +98,7 @@ En échange de notre engagement à vous fournir le Service, nous vous demandons 
 
 *   Si vous choisissez un nom d’utilisateur ou un identifiant similaire pour votre compte, nous pouvons modifier celui-ci si nous pensons qu’il est approprié ou nécessaire de le faire (par exemple, s’il enfreint la propriété intellectuelle de quelqu’un ou usurpe l’identité d’un autre utilisateur).
 *   Si vous utilisez du contenu couvert par des droits de propriété intellectuelle que nous détenons et rendons disponibles dans notre Service (par exemple, des images, des dessins, des vidéos ou des sons que nous fournissons et que vous ajoutez à du contenu que vous créez ou partagez), nous conservons tous les droits relatifs à notre contenu (mais pas au vôtre).
-*   Vous ne pouvez utiliser notre propriété intellectuelle et nos marques de commerce, ou toute autre marque similaire, que dans les cas expressément autorisés par nos [Règles d’utilisation des marques](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fwww.instagram-brand.com%2F) ou après avoir préalablement reçu une autorisation écrite de notre part.
+*   Vous ne pouvez utiliser notre propriété intellectuelle et nos marques de commerce, ou toute autre marque similaire, que dans les cas expressément autorisés par nos [Règles d’utilisation des marques](https://help.instagram.com/581066165581870/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fwww.instagram-brand.com%2F) ou après avoir préalablement reçu une autorisation écrite de notre part.
 *   Vous devez obtenir notre autorisation écrite ou une autorisation dans le cadre d’une licence open source pour modifier, créer des œuvres dérivées, décompiler ou tenter d’extraire notre code source de toute autre manière.
 
   
