@@ -12,7 +12,7 @@ Qu'est-ce que cela signifie pour vous ?
 
 Ne publiez pas de contenu sur YouTube s'il correspond à l'une des descriptions ci-dessous.
 
-* **Promotion de remèdes dangereux** : contenus affirmant que des substances ou des traitements dangereux peuvent avoir des bienfaits pour la santé.
+* **Promotion de substances ou de remèdes dangereux** : contenus faisant la promotion de substances ou de traitements dangereux, ou qui présentent un risque inhérent de dommages corporels graves ou de mort.
 * **Suppression de participants à un recensement** : contenu visant à induire en erreur les participants quant à la date ou au lieu d'un recensement, aux moyens utilisés ou aux conditions à remplir pour être recensé, ou contenu comportant de fausses déclarations qui pourraient décourager substantiellement des personnes de participer à un recensement.
 * **Contenu manipulé** : contenu qui a été modifié ou retouché à l'aide de moyens techniques pour tromper les utilisateurs (au-delà des extraits sortis de leur contexte) et qui peut présenter un risque important de préjudice majeur.
 * **Contenu détourné** : contenu présentant un risque important de préjudice majeur en prétendant qu'une ancienne vidéo d'un événement passé représente un événement récent.
@@ -22,7 +22,7 @@ Exemples
 
 Voici quelques exemples de contenus non autorisés sur YouTube.
 
-Remèdes dangereux
+Substances et remèdes dangereux
 
 * Supplément alimentaire minéral miraculeux (MMS, Miracle Mineral Solution)
 * Baume noir (aussi connu sous le nom de "black salve")
@@ -30,6 +30,7 @@ Remèdes dangereux
 * B17/Amygdaline
 * Peroxyde d'hydrogène de grande pureté
 * Chélation pour traiter l'autisme
+* Laits infantiles alternatifs pour remplacer le lait maternel ou le lait infantile commercialisé
 
 Suppression de participants à un recensement
 
