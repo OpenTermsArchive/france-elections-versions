@@ -54,7 +54,9 @@ Les sites Web [findahelpline.com](http://www.findahelpline.com/) et [www.wikipe
 | Taïwan | [生命線協談專線](http://www.life1995.org.tw/) | 1995 |
 | Thaïlande | [กรมสุขภาพจิต กระทรวงสาธารณสุข](https://www.dmh.go.th/service/view.asp?id=147) | 1323 |
 | Royaume-Uni | [Samaritans](https://www.samaritans.org/) | 116 123 |
-| États-Unis | [National Suicide Prevention Lifeline](http://www.suicidepreventionlifeline.org./) | 1-800-273-8255/[Chat](https://suicidepreventionlifeline.org/chat/) |
+| États-Unis | [Suicide & Crisis Lifeline](http://www.suicidepreventionlifeline.org/) | 988 / [chat](https://988lifeline.org/chat/) |
+
+Pour découvrir des conseils et vidéos qui vous aideront à utiliser YouTube en toute sécurité, accédez au [Centre de sécurité pour les créateurs](https://www.youtube.com/creators/safety).
 
 Consignes du règlement de la communauté concernant la publication de contenus en rapport avec le suicide ou l'automutilation
 ----------------------------------------------------------------------------------------------------------------------------
