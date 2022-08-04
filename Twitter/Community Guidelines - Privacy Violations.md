@@ -1,26 +1,26 @@
 Politique en matière d'informations et de médias privés
 =======================================================
 
-### Vue d'ensemble 
+### Présentation 
 
 **Avril 2022**
 
 **Il est interdit de publier les informations privées d'une autre personne sans son consentement exprès et son autorisation. Nous interdisons également de menacer de dévoiler des informations privées ou d'inciter d'autres personnes à le faire.**
 
-**En outre, vous ne pouvez pas partager de médias privés, tels que des images ou des vidéos de particuliers, sans le consentement de ces derniers. Toutefois, il arrive que des utilisateurs partagent des images ou des vidéos de particuliers autres que des personnalités publiques, dans le cadre d'un événement d'actualité ou pour alimenter une conversation sur des questions ou des événements d'intérêt public. Dans ces cas‑là, nous pouvons autoriser ces médias sur la plateforme.** 
+**En outre, vous ne pouvez pas partager de médias privés tels que des images ou des vidéos de particuliers sans le consentement de ces derniers. Toutefois, il arrive que des utilisateurs partagent des images ou des vidéos de particuliers autres que des personnalités publiques, dans le cadre d'un événement d'actualité ou pour alimenter une conversation sur des questions ou des événements d'intérêt public. Dans ces cas‑là, nous pouvons autoriser ces médias sur la plateforme.** 
 
 **Partager les informations privées de quelqu'un :**
 
-Le fait de partager en ligne des informations privées d'une personne sans son autorisation, que l'on appelle parfois « doxxing » ou « doxing », est une atteinte à sa vie privée et une infraction aux [Règles de Twitter](https://help.twitter.com/fr/rules-and-policies/twitter-rules.html). Le partage d'informations privées peut poser de graves problèmes de sécurité pour les personnes concernées et peut entraîner des difficultés physiques, émotionnelles et financières.  
+Partager en ligne des informations privées d'une personne sans son autorisation, que l'on appelle parfois « doxxing » ou « doxing », est une atteinte à sa vie privée et une infraction aux [Règles de Twitter](https://help.twitter.com/fr/rules-and-policies/twitter-rules.html). Le partage d'informations privées peut poser de graves problèmes de sécurité pour les personnes concernées et peut entraîner des difficultés physiques, émotionnelles et financières.  
 
-Lors de l'examen des signalements en vertu de cette politique, nous prenons en compte un certain nombre d'éléments, notamment :  
+Lors de l'examen des signalements en vertu de cette politique, nous prenons en compte un certain nombre d'éléments, notamment les suivants :  
   
 
 **Quel est le type d'informations partagées ?  
 **  
 Nous prenons ceci en compte, car certains types d'informations privées comportent des risques plus élevés que d'autres en cas de partage sans autorisation. Notre objectif principal est de protéger les personnes de tout préjudice physique potentiel résultant du partage de leurs informations. Nous considérons donc que les informations telles que la localisation géographique et le numéro de téléphone présentent un risque plus élevé que les autres types d'informations.   
 
-**Qui partage l'information ?**  
+**Qui partage les informations ?**  
   
 Nous examinons également qui partage les informations signalées, et si cette personne dispose ou non du consentement de celle à qui elles appartiennent. Nous procédons ainsi car nous savons que, parfois, les personnes peuvent souhaiter que certaines formes de leurs données personnelles soient partagées publiquement. Il peut s'agir, par exemple, du partage d'une adresse email ou d'un numéro de téléphone personnel dans le cadre de réseautage professionnel ou pour coordonner des événements, ou encore du partage public d'adresses personnelles pour demander de l'aide après une catastrophe naturelle.   
  
@@ -51,7 +51,7 @@ En vertu de cette politique, vous ne pouvez pas partager les types d'information
 *   les médias de particuliers sans l'autorisation des personnes représentées ; et
 *   les médias montrant des prisonniers de guerre publiés par des comptes de médias gouvernementaux ou affiliés à un État à compter du 5 avril 2022. 
 
-Les comportements suivants sont également interdits :   
+Les comportements suivants sont également interdits :  
 
 *   menacer de divulguer publiquement les informations privées d'une personne ;
 *   partager des informations qui permettraient à des individus de pirater ou d'accéder à des informations privées d'une personne sans son consentement, par exemple, partager des identifiants de connexion pour des services bancaires en ligne ;
@@ -89,7 +89,7 @@ Il n'existe pas d'infraction à cette politique dans les cas suivants :
 Toute personne peut signaler le partage d'une manière clairement inappropriée d'informations privées (qu'elle ait ou non un compte Twitter). Dans les cas où les informations n'ont pas été partagées dans une intention clairement inappropriée, nous avons besoin d'un témoignage direct de leur propriétaire (ou d'un représentant autorisé, comme un avocat) avant de prendre des sanctions. 
 
   
-**Partage de médias privés :** 
+**Partage de médias privés :**
 
 En ce qui concerne le signalement de la publication de médias privés, il doit être effectué par la personne concernée, ce qui permet de s'assurer que l'image ou la vidéo a été partagée sans son autorisation. Nous acceptons les signalements effectués par : 
 
@@ -132,7 +132,7 @@ Vous pouvez également signaler ce contenu en vue de son examen via [notre formu
 ### Que se passe‑t‑il si vous enfreignez cette politique ? 
 
   
-Lorsque nous déterminons la sanction liée à l'infraction à cette politique, nous prenons en compte un certain nombre de facteurs, notamment la gravité de l'infraction et les précédentes infractions commises par l'utilisateur concerné. 
+Lorsque nous déterminons la sanction liée à une infraction à cette politique, nous prenons en compte plusieurs facteurs, y compris, mais sans nous y limiter, la gravité de l'infraction et les précédentes infractions commises par l'utilisateur concerné. 
 
 **Partage d'informations privées :**
 
@@ -146,6 +146,6 @@ Si vous pensez que votre compte a été suspendu par erreur, vous pouvez [faire
 
 ### Ressources supplémentaires 
 
-Découvrez plus d'informations sur [notre gamme d'options pour l'application de nos politiques](https://help.twitter.com/fr/rules-and-policies/enforcement-options.html) et [notre approche en matière d'élaboration de politiques et de leur application](https://help.twitter.com/fr/rules-and-policies/enforcement-philosophy.html).
+Découvrez plus d'informations sur [notre gamme d'options pour l'application de nos politiques](https://help.twitter.com/fr/rules-and-policies/enforcement-options.html) et notre approche en matière d'[élaboration de politiques et de leur application](https://help.twitter.com/fr/rules-and-policies/enforcement-philosophy.html).
 
 La diffusion d'autres types de contenus sans le consentement du propriétaire peut faire l'objet de mesures en vertu de notre politique en matière de diffusion de contenu piraté.
