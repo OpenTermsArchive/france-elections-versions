@@ -236,27 +236,3 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
 
   
 Date de la dernière mise à jour : 26 juillet 2022
-
-Français (France)
-
-English (UK)
-
-Polski
-
-Español
-
-Italiano
-
-Lietuvių
-
-Română
-
-中文(简体)
-
-Português (Brasil)
-
-Deutsch
-
-العربية
-
-[S’inscrire](https://www.facebook.com/reg/)[Se connecter](https://www.facebook.com/login/)[Messenger](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fmessenger.com%2F)[Facebook Lite](https://www.facebook.com/lite/)[Watch](https://fr-fr.facebook.com/watch/)[Lieux](https://www.facebook.com/places/)[Jeux](https://www.facebook.com/games/)[Marketplace](https://www.facebook.com/marketplace/)[Facebook Pay](https://pay.facebook.com/)[Oculus](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.oculus.com%2F)[Portal](https://portal.facebook.com/)[Instagram](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.instagram.com%2F)[Bulletin](https://www.bulletin.com/)[Local](https://www.facebook.com/local/lists/245019872666104/)[Collectes de dons](https://www.facebook.com/fundraisers/)[Services](https://www.facebook.com/biz/directory/)[Centre d’information sur les élections](https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)[Groupes](https://www.facebook.com/groups/explore/)
