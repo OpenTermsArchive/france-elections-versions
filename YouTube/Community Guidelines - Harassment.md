@@ -3,11 +3,9 @@ Règles concernant le harcèlement et la cyberintimidation
 
 La sécurité de nos créateurs, spectateurs et partenaires est notre priorité absolue. Nous comptons sur chacun d'entre vous pour nous aider à protéger cette communauté unique et dynamique. Il est important que vous compreniez notre règlement de la communauté et la mesure dans laquelle il nous permet d'assumer notre responsabilité partagée : faire de YouTube une plate-forme sûre. **Veuillez lire attentivement le règlement ci-dessous.** Si vous voulez accéder à la liste complète de nos consignes, consultez [cette page](https://support.google.com/youtube/answer/9288567).
 
-Afin de mieux protéger les créateurs et les utilisateurs, nous avons récemment mis à jour nos règles concernant le harcèlement, y compris les règles ci-dessous, qui intègrent ces changements.
-
 Les vidéos qui contiennent des menaces à l'encontre d'individus ne sont pas autorisées sur YouTube. Nous interdisons également les contenus dans lesquels des insultes sont proférées de manière répétée ou malveillante à l'encontre d'individus en raison de caractéristiques comme leur [appartenance à un groupe protégé](https://support.google.com/youtube/answer/2801939#protected_group) ou leur apparence physique.
 
-Si vous constatez qu'un contenu enfreint ces règles, merci de le signaler. [Cliquez ici](https://support.google.com/youtube/answer/2802027) pour savoir comment signaler les cas de non-respect du règlement de la communauté. Si vous souhaitez signaler plusieurs vidéos ou commentaires, vous pouvez [signaler la chaîne](https://support.google.com/youtube/answer/2802027#report_channel). Consultez les conseils et les bonnes pratiques de [cet article du Centre d'aide](https://support.google.com/youtube/answer/9563682) pour utiliser YouTube de manière sécurisée, assurer la protection de votre compte et préserver votre confidentialité.
+Si vous constatez qu'un contenu enfreint ces règles, merci de le signaler. [Cliquez ici](https://support.google.com/youtube/answer/2802027) pour savoir comment signaler les cas de non-respect du règlement de la communauté. Si vous souhaitez signaler plusieurs vidéos ou commentaires, vous pouvez [signaler la chaîne](https://support.google.com/youtube/answer/2802027#report_channel). Pour des conseils sur la sécurité, la protection de votre compte et la confidentialité de vos données, accédez au [Centre de sécurité pour les créateurs](https://www.youtube.com/creators/creator-safety-center) et à l'article [YouTube en toute sécurité](https://support.google.com/youtube/answer/9563682).
 
 Si des menaces spécifiques sont proférées contre vous et que vous ne vous sentez pas en sécurité, signalez-le directement aux autorités locales.
 
@@ -24,20 +22,21 @@ Ne publiez pas de contenu sur YouTube s'il correspond à l'une des descriptions 
 Autres types de contenus enfreignant ces règles
 -----------------------------------------------
 
-* Contenu qui divulgue les informations permettant d'identifier personnellement un utilisateur (adresse du domicile, adresses e-mail, identifiants de connexion, numéros de téléphone, numéro de passeport, dossiers médicaux ou coordonnées bancaires, par exemple)
+* Contenu qui divulgue les informations permettant d'identifier personnellement un utilisateur (adresse du domicile, adresses e-mail, identifiants de connexion, numéros de téléphone, numéro de passeport, dossiers médicaux ou coordonnées bancaires, par exemple).
     * Remarque : Cette règle ne concerne pas la mise en ligne d'informations publiques largement accessibles, telles que le numéro de téléphone professionnel d'un fonctionnaire ou celui d'une entreprise.
 * Contenu incitant à harceler ou à menacer des individus, sur YouTube ou ailleurs.
 * Contenu qui encourage les comportements abusifs des fans tels que le "doxxing," le "dogpiling", le "brigading" ou le ciblage d'utilisateurs en dehors de la plate-forme.
 * Contenu qui cible une personne identifiable en se justifiant à l'aide d'une théorie du complot préjudiciable qui a été liée à des menaces directes ou à des actes de violence.
 * Contenu menaçant des individus identifiables de dommages physiques ou matériels, de façon implicite ou explicite.
-    * Remarque : Les menaces "implicites" n'incluent pas de date, de lieu ni de moyen spécifiques, mais peuvent mettre en scène une personne qui brandit une arme, simule un acte de violence, etc.
+    * Remarque : Les menaces "implicites" n'incluent pas de date, de lieu ni de moyen spécifiques, mais peuvent mettre en scène une personne qui brandit une arme, simule un acte de violence, etc.
 * Contenu publié par des justiciers maîtrisant ou agressant une personne identifiable.
+* Contenu mettant en scène une rencontre dans le but d'accuser une personne identifiable de comportement choquant à l'encontre d'un mineur, sans la présence des forces de l'ordre.
 * Contenu dans lequel un individu se réjouit ou se moque de la mort ou des blessures graves d'une personne identifiable.
 * Contenu dans lequel des créateurs simulent des actes de violence graves contre autrui (exécutions, torture, mutilations, passages à tabac, etc.).
 * Contenu présentant des actes sexuels non consentis, une sexualisation non désirée, ou toute autre image qui sexualise de façon choquante ou humiliante un individu.
-* Contenu qui montre des images d'actes sexuels non consentis ou qui explique comment les diffuser.
+* Contenu qui montre des images à caractère sexuel de personnes sans leur consentement ou qui explique comment diffuser ces images.
 
-Ces règles s'appliquent aux vidéos, aux descriptions de vidéos, aux commentaires, aux diffusions en direct et à tout autre produit ou fonctionnalité de YouTube. Sachez que cette liste n'est pas exhaustive. Ces règles s'appliquent également aux [liens externes](https://support.google.com/youtube/answer/9054257) présents dans votre contenu. Il peut s'agir d'URL cliquables, de communications verbales dans une vidéo ou d'autres moyens visant à rediriger les utilisateurs vers d'autres sites.  
+Ces règles s'appliquent aux vidéos, aux descriptions de vidéos, aux commentaires, aux diffusions en direct et à tout autre produit ou fonctionnalité de YouTube. Sachez que cette liste n'est pas exhaustive. Ces règles s'appliquent également aux [liens externes](https://support.google.com/youtube/answer/9054257) présents dans votre contenu. Il peut s'agir d'URL cliquables, de communications verbales dans une vidéo ou d'autres moyens visant à rediriger les utilisateurs vers d'autres sites.
 
 Exceptions
 ----------
