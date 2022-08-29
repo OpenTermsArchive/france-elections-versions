@@ -156,4 +156,4 @@ Nous apprécions toujours les commentaires et autres suggestions, mais nous pouv
 
 Nous pouvons modifier notre Service et nos règlements, et il est possible que nous devions apporter des modifications aux présentes Conditions afin de les adapter parfaitement à notre Service et à nos règlements. Sauf disposition légale contraire, nous vous informerons (par l’intermédiaire de notre Service, par exemple) au moins 30 jours avant de modifier les présentes Conditions et vous donnerons l'opportunité de les examiner avant leur entrée en vigueur. Vous serez ensuite lié aux Conditions mises à jour si vous poursuivez votre utilisation du Service. Si vous ne souhaitez pas accepter les présentes Conditions ou leur mise à jour, vous pouvez supprimer votre compte [ici](https://help.instagram.com/370452623149242).  
 
-Révisé : 4 janvier 2022
+Date de révision : 26 juillet 2022
