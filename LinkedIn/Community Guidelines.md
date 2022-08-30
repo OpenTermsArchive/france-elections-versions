@@ -3,19 +3,19 @@ Nous souhaitons que LinkedIn reflète la meilleure version possible de la vie pr
 
 C’est une communauté où nous nous traitons mutuellement avec respect et nous entraidons pour atteindre nos objectifs.
 
-*   ### Sécurité
+* ### Sécurité
     
     Vos discussions sur LinkedIn doivent être bienveillantes.
     
     [**En savoir plus**](#be-safe-policy)
     
-*   ### Fiabilité
+* ### Fiabilité
     
     Utilisez votre véritable identité et partagez des informations réelles et authentiques.
     
     [**En savoir plus**](#be-trustworthy-policy)
     
-*   ### Professionnalisme
+* ### Professionnalisme
     
     Nous autorisons les discussions générales sur le monde du travail, mais veuillez rester professionnel(le).
     
@@ -27,18 +27,18 @@ Politiques de la communauté professionnelle LinkedIn
 
 Merci d’utiliser LinkedIn, un lieu où des professionnels du monde entier se réunissent pour trouver un emploi, se tenir au courant des actualités, apprendre de nouvelles compétences et bâtir des relations productives. Le contenu que vous publiez doit apporter une valeur ajoutée à la communauté LinkedIn et être constructif. Découvrez ci-dessous des informations supplémentaires sur ce que cela signifie. Pensez également à consulter nos [Directives de publication sur la plateforme](https://www.linkedin.com/help/linkedin/answer/47545). Ensemble, nous pouvons faire de notre communauté un endroit où chacun peut apprendre, grandir et communiquer, ce qui permet de créer des opportunités économiques pour tout le monde en retour.
 
-*   ### Signalez-nous tout contenu abusif
+* ### Signalez-nous tout contenu abusif
     
     Si vous voyez un contenu dont vous pensez qu’il peut enfreindre nos politiques, qu’il figure dans un profil, un post, un message, un commentaire ou n’importe où ailleurs, veuillez [nous le signaler](https://www.linkedin.com/help/linkedin/answer/146). En plus de nos outils de défense automatiques, ces rapports nous aident à identifier et prévenir les débordements. Veuillez utiliser les outils de signalement avec discernement et uniquement aux fins prévues. Pour en savoir plus sur la façon dont vous pouvez signaler un contenu, comportement ou membre inapproprié, consultez notre [Centre de sécurité](https://safety.linkedin.com/identifying-abuse).
     
-*   ### Une infraction à nos politiques de la communauté peut entraîner des mesures contre votre compte ou contenu
+* ### Une infraction à nos politiques de la communauté peut entraîner des mesures contre votre compte ou contenu
     
     Ces politiques s’appliquent à tous les membres. Selon la gravité de l’infraction, nous pouvons limiter la visibilité d’un contenu, ajouter une mention, voire le supprimer intégralement. Les offenses répétées ou choquantes entraîneront une restriction du compte concerné. Si vous pensez que votre contenu ou votre compte a été sanctionné par erreur, vous pouvez [faire appel](https://www.linkedin.com/help/linkedin/answer/82934).
     
     Découvrez comment [nous gérons les violations de nos Politiques de la communauté professionnelle](https://www.linkedin.com/help/linkedin/answer/137368)**.**
     
 
-*   Sécurité
+* Sécurité
     --------
     
     Vos discussions sur LinkedIn doivent être bienveillantes.
@@ -63,7 +63,7 @@ Merci d’utiliser LinkedIn, un lieu où des professionnels du monde entier se r
     
     En savoir plus sur notre [politique en matière d’organisations et individus dangereux](https://www.linkedin.com/help/linkedin/answer/137375)**.**
     
-*   Fiabilité
+* Fiabilité
     ---------
     
     Nous vous demandons d’utiliser votre véritable identité sur LinkedIn, de fournir des informations exactes vous concernant vous ainsi que votre organisation, et de partager uniquement des informations réelles et authentiques.
@@ -78,7 +78,7 @@ Merci d’utiliser LinkedIn, un lieu où des professionnels du monde entier se r
     
     En savoir plus sur nos [politiques en matière d’arnaques et de contenu frauduleux](https://www.linkedin.com/help/linkedin/answer/137377)**.**
     
-*   Professionnalisme
+* Professionnalisme
     -----------------
     
     La mission de LinkedIn est de connecter les professionnels du monde entre eux pour améliorer leur productivité. Nous autorisons les discussions générales sur le monde du travail, mais exigeons une expression professionnelle. Pour que notre plateforme reste professionnelle, les membres doivent se traiter mutuellement avec respect et courtoisie. N’interagissez pas avec d’autres personnes et ne partagez pas de contenu de manière discourtoise, inappropriée ou irrespectueuse.
