@@ -17,7 +17,7 @@ Ces normes sont fondées sur les retours d’utilisateurs et l’avis d’expert
 
 ### Nos engagements en matière de liberté d’expression
 
-L’objectif de nos Standards de la communauté est de créer un lieu d’expression qui donne la parole à tous. Meta souhaite que les personnes puissent s’exprimer ouvertement sur les sujets qui comptent pour elles, même si d’autres peuvent marquer leur désaccord ou y trouver à redire. Dans certains cas, nous autorisons la publication de contenu qui va à l’encontre de nos Standards s’il est pertinent et d’intérêt public. Nous ne prenons cette décision qu’après avoir évalué l’impact positif qu’il représente pour l’intérêt public par rapport à sa nuisance potentielle ; pour ce faire, nous nous appuyons sur les principes universels des droits de l’homme.
+L’objectif de nos Standards de la communauté est de créer un lieu d’expression qui donne la parole à tous. Meta souhaite que les utilisateurs puissent s’exprimer ouvertement sur les sujets qui comptent pour eux, même si d’autres peuvent marquer leur désaccord ou y trouver à redire. Dans certains cas, nous autorisons la publication de contenu qui va à l’encontre de nos Standards s’il est [pertinent](https://transparency.fb.com/features/approach-to-newsworthy-content/) et d’intérêt public. Nous ne prenons cette décision qu’après avoir évalué l’impact positif qu’il représente pour l’intérêt public par rapport à son éventuel préjudice ; pour ce faire, nous nous appuyons sur les principes universels des droits de l’homme.
 
 Notre engagement en faveur de la liberté d’expression est primordial, mais nous sommes conscients qu’Internet est une source de formes d’abus nouvelles et croissantes. Lorsque nous limitons la liberté d’expression, nous le faisons pour assurer le respect de l’une ou de plusieurs des valeurs suivantes :
 
@@ -45,11 +45,11 @@ Nous pensons que tout le monde mérite les mêmes droits et la même dignité. N
 
 Nos Standards de la communauté s’appliquent à tout le monde, partout dans le monde, et à tous les types de contenu.
 
-Chaque section de nos Standards de la communauté commence par une « justification de la Politique » qui établit les objectifs de la politique suivie de lignes politiques spécifiques qui exposent :
+Chaque article de nos Standards de la communauté commence par une « justification de la Politique » qui établit les objectifs de la politique suivie de lignes politiques spécifiques qui exposent :
 
 Le contenu non autorisé ; et
 
-Le contenu qui nécessite des informations supplémentaires ou du contexte en vue de l’exécution, le contenu autorisé avec un écran d’avertissement ou le contenu autorisé, mais que seules les personnes âgées d’au moins 18 ans peuvent voir.
+Le contenu qui requiert des informations supplémentaires ou du contexte en vue de l’exécution, le contenu autorisé avec un écran d’avertissement ou le contenu autorisé, mais que seules les personnes âgées d’au moins 18 ans peuvent voir.
 
 ###### VIOLENCE ET COMPORTEMENT CRIMINEL
 
