@@ -1,52 +1,50 @@
-Règles concernant la nudité et les contenus à caractère sexuel
-==============================================================
+Règlement relatif à la nudité et aux contenus à caractère sexuel
+================================================================
 
-  
- 
+**Remarque** : Le 7 septembre 2022, nous avons mis à jour notre règlement relatif à la nudité et aux contenus à caractère sexuel afin d'appliquer le règlement de la communauté de façon plus cohérente. Pour en savoir plus sur ces modifications, consultez notre forum. Le présent règlement a été modifié pour refléter ces changements.
 
 La sécurité de nos créateurs, spectateurs et partenaires est notre priorité absolue. Nous comptons sur chacun d'entre vous pour nous aider à protéger cette communauté unique et dynamique. Il est important que vous compreniez notre règlement de la communauté et la mesure dans laquelle il nous permet d'assumer notre responsabilité partagée : faire de YouTube une plate-forme sûre. **Veuillez lire attentivement le règlement ci-dessous.** Si vous voulez accéder à la liste complète de nos consignes, consultez [cette page](https://support.google.com/youtube/answer/9288567).
 
-Tout contenu explicite destiné à être sexuellement gratifiant est interdit sur YouTube. Si vous publiez des contenus à caractère pornographique, ils peuvent être supprimés, et votre chaîne risque d'être clôturée. Les vidéos sur le fétichisme seront supprimées ou soumises à une limite d'âge. En règle générale, les scènes de fétichisme violentes, visuellement choquantes ou humiliantes sont interdites sur YouTube.
+Tout contenu explicite destiné à être sexuellement gratifiant est interdit sur YouTube. Si vous publiez des contenus à caractère pornographique, ils peuvent être supprimés, et votre chaîne risque d'être clôturée. Les vidéos sur le fétichisme seront supprimées ou soumises à une limite d'âge. En règle générale, les scènes de fétichisme violentes, choquantes ou humiliantes sont interdites sur YouTube.
 
 Si vous constatez qu'un contenu enfreint ces règles, merci de le signaler. [Cliquez ici](https://support.google.com/youtube/answer/2802027) pour savoir comment signaler les cas de non-respect du règlement de la communauté. Si vous souhaitez signaler plusieurs vidéos ou commentaires, vous pouvez [signaler la chaîne](https://support.google.com/youtube/answer/2802027#report_channel).
 
 Les contenus à caractère sexuel explicite mettant en scène des mineurs et ceux qui exploitent sexuellement des mineurs sont strictement interdits sur YouTube. Nous signalons tout contenu comportant des images d'abus sexuel sur des mineurs/enfants au [National Center for Missing and Exploited Children](http://www.missingkids.com/home), qui travaille avec des organismes internationaux chargés de l'application des lois.
 
-Ce que ces règles impliquent pour vous
+Ce que ce règlement implique pour vous
 --------------------------------------
 
 #### Si vous publiez du contenu
 
-Tout contenu explicite comprenant l'un des éléments ci-dessous est interdit sur YouTube. Si vous publiez un contenu de ce type, votre chaîne risque d'être clôturée.
+Les contenus explicites qui ne respectent pas ce règlement peuvent entraîner la clôture de votre chaîne. Il s'applique aux contenus réels, mis en scène, illustrés et animés, y compris aux scènes à caractère sexuel, aux jeux vidéo et à la musique.
 
-* Représentation à caractère sexuel des parties génitales, de la poitrine ou des fesses (couvertes ou non) pour la gratification sexuelle
-* Pornographie ou contenu (vidéo, texte, audio ou image) mettant en scène des parties génitales, ou des actes sexuels ou fétichistes à des fins de gratification sexuelle
+Ne publiez pas de contenu sur YouTube s'il correspond à l'une des descriptions ci-dessous :
 
-Autres types de contenus enfreignant ces règles
------------------------------------------------
+* Représentations de parties génitales, de poitrine ou de fesses vêtues ou non à des fins de gratification sexuelle
+* Pornographie, représentations d'actes sexuels ou scènes de fétichisme à des fins de gratification sexuelle
 
-* Représentation explicite ou implicite d'actes sexuels à des fins de gratification sexuelle 
-    * Scènes de sexe réelles ou fictives dans des jeux vidéo ou de la musique
-* Masturbation, caresses ou pelotage
-* Masturbation ou caresses des parties génitales, de la poitrine ou des fesses
-* Utilisation ou présence de jouets sexuels pour offrir aux téléspectateurs une gratification sexuelle
-* Scènes pornographiques, scènes de fétichisme ou actes sexuels animés ou illustrés
-* Nudité totale ou partielle pour la gratification sexuelle
+Autres types de contenus enfreignant ce règlement
+-------------------------------------------------
+
+* Masturbation
+* Caresses ou pelotage des parties génitales, de la poitrine ou des fesses
+* Utilisation de sex toys à des fins de gratification sexuelle des spectateurs
+* Nudité totale ou partielle à des fins de gratification sexuelle
 * Zoophilie ou apologie de la zoophilie
 * Inceste ou apologie de l'inceste
 * Actes sexuels non consentis ou sexualisation non désirée
 * Fuite de photos de célébrités nues ou dévoilant accidentellement une partie de leur corps
-* Contenu fétichiste violent, explicite ou humiliant pour la gratification sexuelle
+* Contenus fétichistes violents, explicites ou humiliants à des fins de gratification sexuelle
 * Regroupement de contenus à des fins de gratification sexuelle
 * Tout contenu à caractère sexuel impliquant des mineurs (consultez l'article [Sécurité des enfants sur YouTube](https://support.google.com/youtube/answer/2801999) pour en savoir plus)
 
-Veuillez noter que cette liste n'est pas exhaustive.
+**Remarque** : La liste ci-dessus n'est pas exhaustive.
 
 Contenus soumis à une limite d'âge
 
 Nous pouvons soumettre des contenus à une limite d'âge s'ils comprennent de la nudité ou tout autre contenu à caractère sexuel, mais n'incluent aucun des éléments listés ci-dessus. Nous prenons en compte les éléments suivants pour déterminer s'il convient de soumettre un contenu à une limite d'âge ou de le supprimer.
 
-* La poitrine, les fesses ou les parties génitales (couvertes ou non) sont-elles le point central de la vidéo ?
+* La poitrine, les fesses ou les parties génitales vêtues ou non sont-elles le point central de la vidéo ?
 * Le sujet est-il représenté dans une position destinée à exciter sexuellement l'internaute ?
 * Le langage utilisé dans la vidéo est-il explicite et/ou obscène ?
 * Les actions du sujet de la vidéo invitent-elles à une activité sexuelle (par exemple, baisers, danse provocante, caresses) ?
@@ -55,9 +53,9 @@ Nous pouvons soumettre des contenus à une limite d'âge s'ils comprennent de la
 * Le son ou les images à caractère sexuel sont-ils brefs ou prolongés ?
 * Le contenu invite-t-il à relever un défi qui implique la participation à des actes sexuels ?
 
-Veuillez noter que cette liste n'est pas exhaustive.
+**Remarque** : La liste ci-dessus n'est pas exhaustive.
 
-Ce règlement s'applique aux vidéos, aux descriptions de vidéos, aux commentaires, aux diffusions en direct et aux autres produits ou fonctionnalités de YouTube. Pour rappel, il ne s'agit que d'exemples. Ne publiez pas un contenu si vous pensez qu'il est susceptible d'enfreindre ce règlement. Ces règles s'appliquent également aux [liens externes](https://support.google.com/youtube/answer/9054257) présents dans votre contenu. Il peut s'agir d'URL cliquables, de communications verbales dans une vidéo ou d'autres moyens visant à rediriger les utilisateurs vers d'autres sites.
+Ce règlement s'applique aux vidéos, aux descriptions de vidéos, aux commentaires, aux diffusions en direct, aux contenus audio et à tout autre produit ou toute autre fonctionnalité de YouTube. Pour rappel, il ne s'agit que d'exemples. Ne publiez pas un contenu si vous pensez qu'il est susceptible d'enfreindre ce règlement.
 
 Contenus éducatifs
 ------------------
@@ -70,19 +68,20 @@ Exemples
 Voici quelques exemples de contenu non autorisé sur YouTube.
 
 * Extraits de films, d'émissions ou autres contenus non pornographiques isolant les contenus à caractère sexuel (réels ou artistiques)
-* Le pelotage, la masturbation en public, le voyeurisme, l'exhibitionnisme, le fait de baisser le pantalon/soulever la jupe de quelqu'un ou tout autre contenu décrivant une personne de manière sexuée sans son consentement
+* Le pelotage, les baisers, la masturbation en public, le fait de baisser le pantalon/soulever la jupe de quelqu'un, le voyeurisme, l'exhibitionnisme ou tout autre contenu décrivant une personne de manière sexuée sans son consentement
+* Contenu représentant des actes, des comportements ou des sex toys à des fins de gratification sexuelle
 
-Pour rappel, il ne s'agit que d'exemples. Ne publiez pas un contenu si vous pensez qu'il est susceptible d'enfreindre ces règles.
+**Remarque** : Les éléments détaillés ci-dessus ne sont que des exemples. Si vous pensez qu'un contenu enfreint ce règlement, ne le publiez pas.
 
 Autres exemples
 ---------------
 
 * Playlists qui regroupent des contenus montrant de la nudité ou à thématique sexuelle pour la gratification sexuelle
 * Danse provocante axée sur les parties génitales, les fesses ou la poitrine du danseur/de la danseuse, ou incluant des caresses ou du pelotage
-* Contenu qui sexualise le viol sous quelque forme que ce soit ou qui regroupe des extraits de scènes de viol fictives
+* Contenus qui sexualisent le viol sous quelque forme que ce soit ou qui regroupent des extraits de scènes de viol fictives
 * Représentations audio ou textuelles d'actes sexuels à des fins de gratification sexuelle
-* Contenu montrant des fluides corporels ou des excrétions (comme l'urine) à des fins de gratification sexuelle
-* Contenu utilisant des objets ou des scénarios du quotidien, tels que des injections ou des repas, à des fins de gratification sexuelle
+* Contenus montrant des fluides corporels ou des excrétions (comme l'urine) à des fins de gratification sexuelle
+* Contenus utilisant des objets ou des scénarios du quotidien, tels que des injections ou des repas, à des fins de gratification sexuelle
 * Contenus de jeux vidéo développés ou modifiés à des fins de gratification sexuelle, ou axés sur des thèmes de sexualisation non désirée
     
 
