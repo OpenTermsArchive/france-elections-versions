@@ -1,7 +1,7 @@
 Règlement relatif à la nudité et aux contenus à caractère sexuel
 ================================================================
 
-**Remarque** : Le 7 septembre 2022, nous avons mis à jour notre règlement relatif à la nudité et aux contenus à caractère sexuel afin d'appliquer le règlement de la communauté de façon plus cohérente. Pour en savoir plus sur ces modifications, consultez notre forum. Le présent règlement a été modifié pour refléter ces changements.
+**Remarque** : Le 7 septembre 2022, nous avons mis à jour notre règlement relatif à la nudité et aux contenus à caractère sexuel afin d'appliquer le règlement de la communauté de façon plus cohérente. Pour en savoir plus sur ces modifications, consultez [notre forum](https://support.google.com/youtube/thread/178333446). Le présent règlement a été modifié pour refléter ces changements.
 
 La sécurité de nos créateurs, spectateurs et partenaires est notre priorité absolue. Nous comptons sur chacun d'entre vous pour nous aider à protéger cette communauté unique et dynamique. Il est important que vous compreniez notre règlement de la communauté et la mesure dans laquelle il nous permet d'assumer notre responsabilité partagée : faire de YouTube une plate-forme sûre. **Veuillez lire attentivement le règlement ci-dessous.** Si vous voulez accéder à la liste complète de nos consignes, consultez [cette page](https://support.google.com/youtube/answer/9288567).
 
