@@ -50,9 +50,9 @@ Nous supprimons tout soutien technique envers des entités et des évènements d
 Les **représentations** peuvent être définies comme ce qui suit :
 
 *   toute déclaration que vous êtes membre d’une entité désignée ou que vous êtes une entité désignée ;
-    *   P. ex. : « Je suis un Grand Dragon du KKK. »
-*   toute création d’une Page, d’un profil, d’un évènement, d’un groupe ou d’une autre entité Facebook qui appartient ou prétend appartenir à une entité désignée ou géré(e) en son nom, ou qui est ou prétend être un évènement désigné.
-    *   P. ex. : « Une Page baptisée Parti nazi américain. »
+    *   Par exemple : « Je suis un Grand Dragon du KKK. »
+*   toute création d’une Page, d’un profil, d’un évènement, d’une Communauté ou d’une autre entité Facebook qui appartient ou prétend appartenir à une entité désignée ou gérée en son nom, ou qui est ou prétend être un évènement désigné.
+    *   Par exemple : « Une Page baptisée Parti nazi américain. »
 
 Nous supprimons les représentations des entités bannies incitant à la haine, des évènements désignés et des organismes désignés de niveaux 1 et 2.
 
@@ -99,18 +99,18 @@ Nous ne permettons pas non plus les éloges, les soutiens techniques ou les repr
 
 **_Niveau 2 : acteurs non étatiques violents_**
 
-Les organismes et les individus désignés par Meta comme des acteurs non étatiques violents ne sont pas autorisés à maintenir une présence sur Facebook ni à faire maintenir une présence par d’autres personnes en leur nom. Puisque ces groupes sont activement engagés dans des actes de violence, le soutien technique à ces entités n’est pas non plus autorisé. Nous faisons de même pour les actes de violence perpétrés par ces entités.
+Les organismes et les individus désignés par Meta comme des acteurs non étatiques violents ne sont pas autorisés à maintenir une présence sur Facebook ni à faire maintenir une présence par d’autres personnes en leur nom. Puisque ces communautés sont activement engagées dans des actes de violence, le soutien technique à ces entités n’est pas non plus autorisé. Nous faisons de même pour les actes de violence perpétrés par ces entités.
 
 **Les acteurs non étatiques** désignent les acteurs non étatiques qui :
 
-*   s’engagent dans des actes de violence intentionnels et planifiés, principalement contre l’armée d’un pays ou d’autres groupes armés ; et
+*   s’engagent dans des actes de violence intentionnels et planifiés, principalement contre l’armée d’un pays ou d’autres communautés armées ; et
 *   causent ou tentent de
     *   causer la mort de personnes en prenant directement part aux hostilités dans le cadre d’un conflit armé, et/ou
     *   privent des communautés de l’accès aux infrastructures vitales et aux ressources naturelles, et/ou causent des dommages matériels importants, liés à la mort, à des blessures graves ou à des préjudices graves envers des civils.
 
 **_Niveau 3 : mouvements sociaux militarisés, réseau de conspiration incitant à la violence et entités bannies incitant à la haine_**
 
-Les Pages, groupes, évènements et profils ou d’autres entités Facebook qui sont ou prétendre être gérés par des mouvements sociaux militarisés et des réseaux de conspiration incitant à la violence, ou en leur nom, sont interdits. Les admins de ces Pages, groupes et évènements seront également supprimés.
+Les Pages, Communautés, évènements et profils ou d’autres entités Facebook qui sont ou prétendre être gérés par des mouvements sociaux militarisés et des réseaux de conspiration incitant à la violence, ou en leur nom, sont interdits. Les admins de ces Pages, Communautés et évènements seront également supprimés.
 
 [Cliquez ici](https://about.fb.com/news/2020/08/addressing-movements-and-organizations-tied-to-violence/) pour en savoir plus sur la manière dont nous gérons les mouvements et les organismes liés à la violence.
 
@@ -118,11 +118,11 @@ Nous n’autorisons pas les représentations d’organismes ou d’individus dé
 
 **Les mouvements sociaux militarisés** incluent :
 
-*   **Les milices** sont définies comme des acteurs non étatiques qui utilisent des armes dans le cadre de leur formation, de leur communication ou de leur présence, et qui sont structurés ou fonctionnement comme des forces militaires ou de sécurité non officielles et :
+*   **Les milices**, définies comme des acteurs non étatiques qui utilisent des armes dans le cadre de leur formation, de leur communication ou de leur présence, et qui sont structurés ou fonctionnement comme des forces militaires ou de sécurité non officielles et :
     *   se coordonnent en vue de préparer des actes de violence ou une guerre civile ; ou
     *   diffusent des informations sur l’utilisation tactique des armes pour le combat ; ou
     *   assurent la coordination tactique militarisée dans le cadre d’un conflit armé ou d’une guerre civile, qu’ils soient actuels ou futurs.
-*   **Les groupes qui soutiennent des actes de violence au cours de manifestations** sont définis comme des acteurs non étatiques qui, à maintes reprises :
+*   **Les Communautés qui soutiennent des actes de violence au cours de manifestations** sont définis comme des acteurs non étatiques qui, à maintes reprises :
     *   coordonnent, encouragent, admettent ou s’engagent dans :
     *   des actes de violence de rue contre des civils ou la police ; ou
     *   des incendies criminels, des pillages ou d’autres destructions de biens ; ou
