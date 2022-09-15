@@ -11,21 +11,21 @@ Afin d’encourager la sécurité et la conformité aux restrictions légales g�
 
 De contenu qui :
 
-* tente d’acheter, de vendre ou de commercialiser des armes à feu, de pièces d’armes à feu, des munitions, des explosifs ou des améliorations à visée meurtrière, sauf si ledit contenu est publié par une Page, un Groupe ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web, des marques ou des agences gouvernementales (par exemple, un service de police ou une brigade de pompiers) ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
+* tente d’acheter, de vendre ou de commercialiser des armes à feu, de pièces d’armes à feu, des munitions, des explosifs ou des améliorations à visée meurtrière, sauf si ledit contenu est publié par une Page, une Communauté ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web, des marques ou des agences gouvernementales (par exemple, un service de police ou une brigade de pompiers) ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
 * tente de faire don d’armes à feu, de pièces d’armes à feu, de munitions, d’explosifs ou d’améliorations à visée meurtrière, ou d’en offrir, sauf si ledit contenu est publié dans les contextes suivants :
-    * don, commercialisation ou rachat d’armes à feu et de munitions par une Page, un Groupe ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web, des marques ou des agences gouvernementales ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
+    * don, commercialisation ou rachat d’armes à feu et de munitions par une Page, une Communauté ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web, des marques ou des agences gouvernementales ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
     * une tombola ou une enchère d’armes à feu organisée par des entités physiques légitimes, y compris des entreprises de vente au détail, des organisations liées au gouvernement ou sans but lucratif, ou des individus privés affiliés à des entités physiques légitimes ou sponsorisés par celles-ci.
 * cherche à obtenir des armes à feu, des pièces d’armes à feu, des munitions, des explosifs ou des améliorations à visée meurtrière ;
 * vend, offre, échange, transfère, coordonne, promeut (dans le sens d’en parler positivement, d’encourager à leur utilisation) ou fournit des instructions de fabrication d’armes à feu ou de pièces d’armes à feu à l’aide d’imprimantes 3D ou d’un ordinateur, quel que soit le contexte ou la personne à l’origine de la publication.
 
-**Substances non médicales**
+**Médicaments non médicaux**
 
 De contenu qui :
 
-* tente d’acheter des substances non médicales, d’en vendre, d’en commercialiser, d’en coordonner le commerce, d’en faire don ou d’en solliciter ;
-* est reconnu par l’auteur de la publication lui-même ou d’autres comme vendant, commercialisant ou coordonnant la commercialisation des substances non médicales ;
-* reconnaît une consommation personnelle sans confirmation ou référence à la récupération, le traitement ou une autre aide pour lutter contre la consommation. Il est possible que ledit contenu ne parle pas d’instructions pour faire ou utiliser des substances non médicales en termes positifs, qu’il n’encourage pas à leur utilisation, ni qu’il ne coordonne pas ou ne fournisse pas ce type d’instructions.
-* coordonne ou promeut (c’est-à-dire en parle positivement, encourage à leur utilisation ou fournit des instructions pour en utiliser ou en faire) des substances non médicales.
+* tente d’acheter des médicaments non médicaux, d’en vendre, d’en commercialiser, d’en coordonner le commerce, d’en faire don ou d’en solliciter ;
+* est reconnu par l’auteur de la publication lui-même ou d’autres comme vendant, commercialisant ou coordonnant la commercialisation des médicaments non médicaux ;
+* reconnaît une consommation personnelle sans confirmation ou référence à la récupération, le traitement ou une autre aide pour lutter contre la consommation. Il est possible que ledit contenu ne parle pas d’instructions pour faire ou utiliser des médicaments non médicaux en termes positifs, qu’il n’encourage pas à leur utilisation, ni qu’il ne coordonne pas ou ne fournisse pas ce type d’instructions.
+* coordonne ou promeut (c’est-à-dire en parle positivement, encourage à leur utilisation ou fournit des instructions pour en utiliser ou en faire) des médicaments non médicaux.
 
 **Produits pharmaceutiques**
 
@@ -53,7 +53,7 @@ De contenu qui :
 **Animaux vivants n’étant pas en voie de disparition, à l’exclusion du bétail**
 
 * De contenu qui tente d’acheter, de vendre ou de commercialiser des animaux vivants n’étant pas en voie de disparition, sauf lorsque le contenu :
-    * est publié par une Page, un Groupe ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web légitimes, des marques ou des refuges qui cherchent à trouver une nouvelle famille pour lesdits animaux, ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
+    * est publié par une Page, une Communauté ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web légitimes, des marques ou des refuges qui cherchent à trouver une nouvelle famille pour lesdits animaux, ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
     * est publié dans le cadre d’un don d’animaux vivants n’étant pas en voie de disparition ou pour chercher une nouvelle famille pour lesdits animaux, y compris les contenus abordant les frais de relogement pour les adoptions entre pairs, mentionnant la vente d’un animal pour une offre religieuse ou offrant une récompense aux personnes ayant retrouvé des animaux perdus.
 
 **Sang humain**
@@ -66,9 +66,9 @@ De contenu qui :
 De contenu qui :
 
 * tente d’acheter, de vendre ou de commercialiser de l’alcool ou du tabac, sauf lorsque le contenu :
-    * est publié par une Page, un Groupe ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web ou des marques, ou un individu privé partageant le contenu au nom d’entités physiques légitimes.
+    * est publié par une Page, une Communauté ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web ou des marques, ou un individu privé partageant le contenu au nom d’entités physiques légitimes.
     * De contenu qui fait référence à de l’alcool ou à du tabac qui sera échangé ou consommé sur place lors d’un évènement, dans un restaurant, dans un bar, lors d’une fête, etc ;
-* tente de faire don d’alcool ou de tabac, ou d’en offrir, sauf si le contenu est publié par une Page, un Groupe ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web ou des marques, ou un individu privé partageant le contenu au nom d’entités physiques légitimes.
+* tente de faire don d’alcool ou de tabac, ou d’en offrir, sauf si le contenu est publié par une Page, une Communauté ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web ou des marques, ou un individu privé partageant le contenu au nom d’entités physiques légitimes.
 * cherche à obtenir de l’alcool ou du tabac.
 
 **Produits amincissants**
@@ -79,13 +79,13 @@ De contenu qui :
 
 * De contenu qui tente d’acheter des artefacts historiques, d’en vendre, d’en commercialiser, d’en faire don ou d’en solliciter.
 
-Sauf lorsque l'un des éléments ci-dessus intervient dans un contexte fictif ou documentaire.
+Sauf lorsque l’un des éléments ci-dessus intervient dans un contexte fictif ou documentaire.
 
 **Matériaux et objets dangereux**
 
 * De contenu qui tente d’acheter des matériaux et objets dangereux, d’en vendre, d’en commercialiser, d’en faire don ou d’en solliciter.
 
-Sauf lorsque l'un des éléments ci-dessus intervient dans un contexte fictif ou documentaire.
+Sauf lorsque l’un des éléments ci-dessus intervient dans un contexte fictif ou documentaire.
 
 #### En ce qui concerne le contenu suivant, nous limitons la visibilité aux adultes âgés de 21 ans et plus :
 
