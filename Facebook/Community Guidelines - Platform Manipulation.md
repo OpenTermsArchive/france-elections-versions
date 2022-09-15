@@ -9,8 +9,8 @@ Dans le cadre de notre engagement pour l’authenticité, nous n’autorisons pa
 
 *   Utiliser plusieurs comptes Facebook ou partager un compte Facebook entre plusieurs personnes
 *   Utiliser de manière détournée les systèmes de signalement de Facebook et Instagram pour harceler des tiers
-*   Dissimuler le but d’une Page en trompant les utilisateurs sur la propriété ou le contrôle de ladite Page
-*   Adopter ou tenter d’adopter un comportement trompeur, qui est défini comme l’utilisation des ressources Facebook ou Instagram (comptes, Pages, Groupes ou Évènements) pour tromper des personnes sur Facebook :
+*   Dissimuler le but d’une Page en trompant les utilisateurs et utilisatrices sur la propriété ou le contrôle de ladite Page
+*   Adopter ou tenter d’adopter un comportement trompeur, qui est défini comme l’utilisation des ressources Facebook ou Instagram (comptes, Pages, Communautés ou Évènements) pour tromper des personnes sur Facebook :
     *   sur l’identité, l’objectif ou l’origine de l’entité qu’il représente ;
     *   sur la popularité de contenus ou d’éléments Facebook ou Instagram ;
     *   sur l’objectif de l’audience ou de la communauté ;
