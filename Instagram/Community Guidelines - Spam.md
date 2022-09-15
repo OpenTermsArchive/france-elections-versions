@@ -7,8 +7,8 @@ Nous travaillons ardemment à limiter la diffusion des spams, car nous ne voulon
 
 #### Ne pas :
 
-* Publier, partager, prendre part, manuellement ou automatiquement, à du contenu ou créer des comptes, groupes, Pages, évènements ou autres éléments, à des fréquences très élevées.
-* Tenter de ou réussir à vendre, acheter ou échanger des privilèges sur le site, des engagements ou des fonctionnalités de produit, comme des comptes, des rôles d’administrateur, des autorisations de publier, des Pages, des groupes, des mentions « J’aime », etc. sauf dans le cas d’un contenu de marque clairement identifié, tel que défini dans nos [Politiques de contenu de marque](https://www.facebook.com/policies/brandedcontent/).
+* Publier, partager, prendre part, manuellement ou automatiquement, à du contenu ou créer des comptes, Communautés, Pages, évènements ou autres éléments, à des fréquences très élevées.
+* Tenter de ou réussir à vendre, acheter ou échanger des privilèges sur le site, des engagements ou des fonctionnalités de produit, comme des comptes, des rôles d’admin, des autorisations de publier, des Pages, des Communautés, des mentions « J’aime », etc. sauf dans le cas d’un contenu de marque clairement identifié, tel que défini dans nos [Politiques de contenu de marque](https://www.facebook.com/policies/brandedcontent/).
 
 * Exiger ou réclamer que les utilisateurs et utilisatrices interagissent avec du contenu (par exemple aimer, partager) avant de pouvoir voir ou interagir avec le contenu promis.
 * Encourager à aimer, partager, suivre, cliquer ou utiliser les apps ou sites web pour des prétextes comme :
