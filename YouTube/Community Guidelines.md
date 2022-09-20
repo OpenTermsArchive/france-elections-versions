@@ -17,59 +17,59 @@ Vous trouverez ci-dessous la liste complète des règles qui constituent le règ
 
 ### Spam et pratiques trompeuses
 
-*   [Interactions artificielles](https://support.google.com/youtube/answer/3399767?hl=fr&ref_topic=9282365)
+* [Interactions artificielles](https://support.google.com/youtube/answer/3399767?hl=fr&ref_topic=9282365)
     
-*   [Usurpation d'identité](https://support.google.com/youtube/answer/2801947?hl=fr&ref_topic=9282365)
+* [Usurpation d'identité](https://support.google.com/youtube/answer/2801947?hl=fr&ref_topic=9282365)
     
-*   [Liens externes](https://support.google.com/youtube/answer/9054257?hl=fr&ref_topic=9282365)
+* [Liens externes](https://support.google.com/youtube/answer/9054257?hl=fr&ref_topic=9282365)
     
-*   [Spams, pratiques trompeuses et escroqueries](https://support.google.com/youtube/answer/2801973?hl=fr&ref_topic=9282365)
+* [Spams, pratiques trompeuses et escroqueries](https://support.google.com/youtube/answer/2801973?hl=fr&ref_topic=9282365)
     
-*   [Playlists](https://support.google.com/youtube/answer/9713446?hl=fr&ref_topic=9282365)
+* [Playlists](https://support.google.com/youtube/answer/9713446?hl=fr&ref_topic=9282365)
     
-*   [Autres règles](https://support.google.com/youtube/answer/2801981?hl=fr&ref_topic=9282365)
+* [Autres règles](https://support.google.com/youtube/answer/2801981?hl=fr&ref_topic=9282365)
     
 
 ### Contenu sensible
 
-*   [Sécurité des enfants](https://support.google.com/youtube/answer/2801999?hl=fr&ref_topic=9282679)
+* [Sécurité des enfants](https://support.google.com/youtube/answer/2801999?hl=fr&ref_topic=9282679)
     
-*   [Miniatures](https://support.google.com/youtube/answer/9229980?hl=fr&ref_topic=9282679)
+* [Miniatures](https://support.google.com/youtube/answer/9229980?hl=fr&ref_topic=9282679)
     
-*   [Nudité et contenus à caractère sexuel](https://support.google.com/youtube/answer/2802002?hl=fr&ref_topic=9282679)
+* [Nudité et contenus à caractère sexuel](https://support.google.com/youtube/answer/2802002?hl=fr&ref_topic=9282679)
     
-*   [Suicide et automutilation](https://support.google.com/youtube/answer/2802245?hl=fr&ref_topic=9282679)
+* [Suicide et automutilation](https://support.google.com/youtube/answer/2802245?hl=fr&ref_topic=9282679)
     
-*   [Propos grossiers](https://support.google.com/youtube/answer/10072685?hl=fr&ref_topic=9282679)
+* [Propos grossiers](https://support.google.com/youtube/answer/10072685?hl=fr&ref_topic=9282679)
     
 
 ### Contenu violent ou dangereux
 
-*   [Harcèlement et cyberintimidation](https://support.google.com/youtube/answer/2802268?hl=fr&ref_topic=9282436)
+* [Harcèlement et cyberintimidation](https://support.google.com/youtube/answer/2802268?hl=fr&ref_topic=9282436)
     
-*   [Contenus dangereux ou nuisibles](https://support.google.com/youtube/answer/2801964?hl=fr&ref_topic=9282436)
+* [Contenus dangereux ou nuisibles](https://support.google.com/youtube/answer/2801964?hl=fr&ref_topic=9282436)
     
-*   [Incitation à la haine](https://support.google.com/youtube/answer/2801939?hl=fr&ref_topic=9282436)
+* [Incitation à la haine](https://support.google.com/youtube/answer/2801939?hl=fr&ref_topic=9282436)
     
-*   [Organisations criminelles violentes](https://support.google.com/youtube/answer/9229472?hl=fr&ref_topic=9282436)
+* [Organisations criminelles violentes](https://support.google.com/youtube/answer/9229472?hl=fr&ref_topic=9282436)
     
-*   [Contenu explicite ou violent](https://support.google.com/youtube/answer/2802008?hl=fr&ref_topic=9282436)
+* [Contenu explicite ou violent](https://support.google.com/youtube/answer/2802008?hl=fr&ref_topic=9282436)
     
 
 ### Produits réglementés
 
-*   [Armes à feu](https://support.google.com/youtube/answer/7667605?hl=fr)
+* [Armes à feu](https://support.google.com/youtube/answer/7667605?hl=fr)
     
-*   [Vente de produits et services illégaux ou réglementés](https://support.google.com/youtube/answer/9229611?hl=fr)
+* [Vente de produits et services illégaux ou réglementés](https://support.google.com/youtube/answer/9229611?hl=fr)
     
 
 ### Informations incorrectes
 
-*   [Informations incorrectes](https://support.google.com/youtube/answer/10834785?hl=fr)
+* [Informations incorrectes](https://support.google.com/youtube/answer/10834785?hl=fr)
     
-*   [Informations incorrectes liées aux élections](https://support.google.com/youtube/answer/10835034?hl=fr)
+* [Informations incorrectes liées aux élections](https://support.google.com/youtube/answer/10835034?hl=fr)
     
-*   [Informations médicales incorrectes sur la COVID-19](https://support.google.com/youtube/answer/9891785?hl=fr)
+* [Informations médicales incorrectes sur la COVID-19](https://support.google.com/youtube/answer/9891785?hl=fr)
     
 
 Outre le règlement de la communauté, les créateurs qui souhaitent monétiser leurs contenus sur YouTube doivent respecter les [Règles de monétisation](https://www.youtube.com/howyoutubeworks/policies/monetization-policies/).
@@ -111,7 +111,7 @@ En faisant des exceptions pour ce type de vidéos, nous nous assurons que tous l
 
 ### Ressources
 
-*   [En savoir plus sur l'approche de YouTube concernant les contenus à visée pédagogique, documentaire, scientifique ou artistique](https://blog.youtube/inside-youtube/look-how-we-treat-educational-documentary-scientific-and-artistic-content-youtube/)
+* [En savoir plus sur l'approche de YouTube concernant les contenus à visée pédagogique, documentaire, scientifique ou artistique](https://blog.youtube/inside-youtube/look-how-we-treat-educational-documentary-scientific-and-artistic-content-youtube/)
     
 
 Quelles mesures YouTube applique-t-il envers les contenus qui ne respectent pas le règlement de la communauté ?
@@ -128,9 +128,9 @@ Si nos examinateurs constatent qu'un contenu enfreint le règlement de la commun
 
 ### Ressources
 
-*   [En savoir plus sur les avertissements pour non-respect du règlement de la communauté](https://support.google.com/youtube/answer/2802032?hl=fr)
+* [En savoir plus sur les avertissements pour non-respect du règlement de la communauté](https://support.google.com/youtube/answer/2802032?hl=fr)
     
-*   [Faire appel d'un avertissement pour non-respect du règlement de la communauté](https://support.google.com/youtube/answer/185111?hl=fr)
+* [Faire appel d'un avertissement pour non-respect du règlement de la communauté](https://support.google.com/youtube/answer/185111?hl=fr)
     
 
 Contenus soumis à une limite d'âge
@@ -140,4 +140,4 @@ Certains contenus n'enfreignent pas le règlement de la communauté, mais ne con
 
 ### Ressources
 
-*   [En savoir plus sur les contenus soumis à une limite d'âge](https://support.google.com/youtube/answer/2802167?hl=fr&ref_topic=9387060)
+* [En savoir plus sur les contenus soumis à une limite d'âge](https://support.google.com/youtube/answer/2802167?hl=fr&ref_topic=9387060)
