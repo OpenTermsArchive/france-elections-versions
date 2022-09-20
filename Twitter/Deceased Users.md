@@ -16,12 +16,12 @@ En vertu de cette politique, nous pouvons vous demander de supprimer les images 
 
 Parmi les types de contenus qui peuvent être concernés par cette politique, citons notamment :  
 
-*   les images ou vidéos dans lesquelles une personne raisonnablement identifiable est clairement décédée ; 
-*   les images ou vidéos représentant le meurtre d'une personne identifiable ;
-*   les médias excessivement macabres représentant le décès d'une personne identifiable ;
-*   les images ou vidéos d'une personne décédée identifiable, partagées à des fins sadiques, notamment des médias accompagnés d'un contenu qui :
-    *   se moque du défunt de quelque manière que ce soit ;
-    *   prend plaisir à la souffrance du défunt.  
+* les images ou vidéos dans lesquelles une personne raisonnablement identifiable est clairement décédée ; 
+* les images ou vidéos représentant le meurtre d'une personne identifiable ;
+* les médias excessivement macabres représentant le décès d'une personne identifiable ;
+* les images ou vidéos d'une personne décédée identifiable, partagées à des fins sadiques, notamment des médias accompagnés d'un contenu qui :
+    * se moque du défunt de quelque manière que ce soit ;
+    * prend plaisir à la souffrance du défunt.  
          
 
 ### Qu’est‑ce qui ne constitue pas une infraction à cette politique ?
@@ -30,12 +30,12 @@ Twitter prend en compte des facteurs d'intérêt public lors de l'examen des sig
 
 ### Qui peut signaler des infractions à cette politique ?  
 
-**Contenu pouvant être signalé par tous** 
+**Contenu pouvant être signalé par tous** 
 
 Nous savons qu'il peut être difficile pour les personnes concernées de signaler ce type de contenu afin d'obtenir son examen. Pour leur faciliter la tâche, toute personne peut signaler les types de contenus suivants :
 
-*   les médias montrant un contenu excessivement macabre ;
-*   les médias représentant des personnes décédées partagés à des fins sadiques.   
+* les médias montrant un contenu excessivement macabre ;
+* les médias représentant des personnes décédées partagés à des fins sadiques.   
      
 
 **Contenu pouvant être signalé par des membres de la famille (ou un représentant autorisé)**
