@@ -7,5 +7,5 @@ Chez Facebook, nous prenons les [droits de propriété intellectuelle](https://w
 
 #### Lorsque nous recevons un signalement de la part d’un titulaire de droits ou d’un représentant agréé, nous supprimons et limitons tout contenu présentant :
 
-*   Une violation de droits d’auteur
-*   Une violation de marque de commerce
+* Une violation de droits d’auteur
+* Une violation de marque de commerce
