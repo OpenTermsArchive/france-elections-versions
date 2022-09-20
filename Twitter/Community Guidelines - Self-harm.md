@@ -11,74 +11,74 @@ Chez Twitter, nous pensons que le suicide et les comportements autodestructeurs 
 Pour élaborer cette politique, nous avons consulté de nombreux experts afin de nous assurer que les personnes qui se sont livrées à des comportements autodestructeurs ou qui ont eu des idées suicidaires puissent partager leurs expériences personnelles. Nous avons également tenu compte de la nécessité de protéger les utilisateurs des dommages potentiels liés à l'exposition à des contenus susceptibles de promouvoir ou d'encourager les conduites autodestructrices, de manière intentionnelle ou non. C'est la raison pour laquelle notre politique interdit les contenus qui promeuvent ou encouragent les comportements autodestructeurs, et fournit un soutien aux personnes ayant des idées autodestructrices ou suicidaires.  
  
 
-### Qu’est‑ce qui constitue une infraction à cette politique ? 
+### Qu’est‑ce qui constitue une infraction à cette politique ? 
 
 En vertu de cette politique, il est interdit de promouvoir ou d'encourager le suicide ou les conduites autodestructrices de quelque manière que ce soit. Nous considérons que les expressions telles que « la plus efficace », « la plus simple », « la meilleure », « la plus réussie », « vous devriez » et « pourquoi pas » impliquent une telle promotion. Les infractions à cette politique peuvent concerner des Tweets, des images ou des vidéos, y compris des vidéos en direct. 
 
 Nous définissons le suicide comme l'acte d'intenter à sa propre vie. Nous définissons les comportements autodestructeurs de la manière suivante :
 
-*   blessures physiques qu'une personne s'inflige à elle‑même, comme des coupures
+* blessures physiques qu'une personne s'inflige à elle‑même, comme des coupures
     
-*   troubles de l'alimentation, comme la boulimie et l'anorexie  
+* troubles de l'alimentation, comme la boulimie et l'anorexie  
      
     
 
 Les infractions à cette politique incluent les comportements suivants, sans toutefois s'y limiter :  
 
-*   encourager quelqu'un à se blesser physiquement ou à se suicider
+* encourager quelqu'un à se blesser physiquement ou à se suicider
     
-*   rechercher des encouragements pour s'automutiler ou se suicider, notamment rechercher des partenaires pour des suicides de groupe ou des jeux suicidaires
+* rechercher des encouragements pour s'automutiler ou se suicider, notamment rechercher des partenaires pour des suicides de groupe ou des jeux suicidaires
     
-*   partager des informations, des stratégies, des méthodes ou des instructions susceptibles d'aider les gens à se livrer à des conduites autodestructrices et à se suicider  
+* partager des informations, des stratégies, des méthodes ou des instructions susceptibles d'aider les gens à se livrer à des conduites autodestructrices et à se suicider  
      
 
-### Qu’est‑ce qui ne constitue pas une infraction à cette politique ? 
+### Qu’est‑ce qui ne constitue pas une infraction à cette politique ? 
 
 Voici des exemples de comportements qui ne sont pas considérés comme une infraction à cette politique : 
 
-*   le partage d'expériences et de récits personnels liés à des conduites autodestructrices ou au suicide
+* le partage d'expériences et de récits personnels liés à des conduites autodestructrices ou au suicide
     
-*   le partage de moyens d'aller mieux et de ressources pour lutter contre les conduites autodestructrices ou les idées suicidaires
+* le partage de moyens d'aller mieux et de ressources pour lutter contre les conduites autodestructrices ou les idées suicidaires
     
-*   les discussions axées sur la recherche, la mobilisation et l'éducation en matière de prévention des conduites autodestructrices et du suicide  
+* les discussions axées sur la recherche, la mobilisation et l'éducation en matière de prévention des conduites autodestructrices et du suicide  
      
     
 
 **Remarque** : il est possible de partager des expériences personnelles, mais sans donner d'informations détaillées sur des stratégies ou méthodes spécifiques d'automutilation, car cela pourrait encourager ce type de comportement.  
  
 
-### Qui peut signaler des infractions à cette politique ? 
+### Qui peut signaler des infractions à cette politique ? 
 
 N'importe qui peut signaler du contenu susceptible d'encourager ou de promouvoir le suicide ou les comportements autodestructeurs, via notre fonctionnalité de signalement intégrée à l'application ou notre [formulaire de signalement dédié](https://help.twitter.com/forms/suicide). Ces signalements sont envoyés à une équipe spécialisée qui évalue chaque cas individuellement. 
 
 Remarque : si nous recevons un signalement indiquant qu'une personne a exprimé son intention de se livrer à un comportement autodestructeur ou de se suicider, nous la contacterons directement, en l'encourageant à demander de l'aide et en lui donnant des informations sur des ressources dédiées en ligne et par hotline. Le cas échéant, nous pouvons également travailler avec les forces de l'ordre, notamment si nous recevons une demande de divulgation d'urgence valide, telle que définie dans nos [Recommandations à l'attention des forces de l'ordre](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
  
 
-### Comment signaler des infractions à cette politique 
+### Comment signaler des infractions à cette politique 
 
 Afin de nous assurer de traiter les signalements avec tact, nous proposons dans notre fonctionnalité de signalement intégrée à l'application des options distinctes pour les personnes qui expriment une intention de se faire du mal, et pour les contenus qui encouragent ou favorisent les comportements autodestructeurs ou le suicide.  
  
 
-### Expression d'intentions de conduites autodestructrices ou de suicide 
+### Expression d'intentions de conduites autodestructrices ou de suicide 
 
 **Dans l'application**
 
 Suivez ces instructions pour signaler ce contenu dans l'application afin de demander son examen :
 
-1.  Sélectionnez Signaler le Tweet dans le menu déroulant.
-2.  Sélectionnez « Il exprime des intentions suicidaires ou autodestructrices ».
-3.  Envoyez votre signalement.  
+1. Sélectionnez Signaler le Tweet dans le menu déroulant.
+2. Sélectionnez « Il exprime des intentions suicidaires ou autodestructrices ».
+3. Envoyez votre signalement.  
      
 
 **Sur ordinateur**
 
 Suivez ces instructions pour signaler ce contenu sur ordinateur afin de demander son examen :
 
-1.  Sélectionnez Signaler le Tweet dans le menu déroulant.
+1. Sélectionnez Signaler le Tweet dans le menu déroulant.
     
-2.  Sélectionnez « Il exprime des intentions suicidaires ou autodestructrices ».
+2. Sélectionnez « Il exprime des intentions suicidaires ou autodestructrices ».
     
-3.  Envoyez votre signalement.  
+3. Envoyez votre signalement.  
      
     
 
@@ -91,24 +91,24 @@ Vous pouvez également signaler ce contenu en vue de son examen via [notre formu
 
 Suivez ces instructions pour signaler ce contenu dans l'application afin de demander son examen :
 
-1.  Sélectionnez Signaler le Tweet dans le menu déroulant.
-2.  Sélectionnez « Il exprime des intentions suicidaires ou autodestructrices ».
-3.  Envoyez votre signalement.  
+1. Sélectionnez Signaler le Tweet dans le menu déroulant.
+2. Sélectionnez « Il exprime des intentions suicidaires ou autodestructrices ».
+3. Envoyez votre signalement.  
      
 
-### Incitation aux conduites autodestructrices ou au suicide 
+### Incitation aux conduites autodestructrices ou au suicide 
 
 **Dans l'application**
 
 Suivez ces instructions pour signaler ce contenu dans l'application afin de demander son examen :
 
-1.  Sélectionnez Signaler le Tweet dans le menu déroulant.  
+1. Sélectionnez Signaler le Tweet dans le menu déroulant.  
     
-2.  Sélectionnez « Les propos tenus sont inappropriés ou dangereux ».
+2. Sélectionnez « Les propos tenus sont inappropriés ou dangereux ».
     
-3.  Sélectionnez « Il incite à l'automutilation ou au suicide ».
+3. Sélectionnez « Il incite à l'automutilation ou au suicide ».
     
-4.  Envoyez votre signalement.  
+4. Envoyez votre signalement.  
      
     
 
@@ -116,17 +116,17 @@ Suivez ces instructions pour signaler ce contenu dans l'application afin de dema
 
 Suivez ces instructions pour signaler ce contenu sur ordinateur afin de demander son examen :
 
-1.  Sélectionnez Signaler le Tweet dans le menu déroulant.
+1. Sélectionnez Signaler le Tweet dans le menu déroulant.
     
-2.  Sélectionnez « Les propos tenus sont inappropriés ou dangereux ».
+2. Sélectionnez « Les propos tenus sont inappropriés ou dangereux ».
     
-3.  Sélectionnez « Il incite à l'automutilation ou au suicide ».
+3. Sélectionnez « Il incite à l'automutilation ou au suicide ».
     
-4.  Envoyez votre signalement.  
+4. Envoyez votre signalement.  
      
     
 
-### Que se passe‑t‑il si vous enfreignez cette politique ? 
+### Que se passe‑t‑il si vous enfreignez cette politique ? 
 
 Notre approche en matière d'application de la politique dépend du type de contenu partagé, de l'incitation ou non par le compte signalé aux conduites autodestructrices ou au suicide, et des antécédents d'infractions du compte. 
 
