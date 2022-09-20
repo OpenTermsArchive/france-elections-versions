@@ -21,38 +21,38 @@ Nous supprimons les éloges, les soutiens techniques et les représentations de 
 
 Les **éloges** peuvent être définis comme ce qui suit :
 
-*   toute déclaration positive à l’égard d’une entité ou d’un évènement désignés ;
-    *   P. ex. : « Les combattants de l’État islamique sont vraiment courageux ! »
-*   tout sentiment de succès accordé à une entité ou à un évènement désignés ;
-    *   P. ex. : « Timothy McVeigh est un martyr. »
-*   tout propos visant à légitimer la cause d’une entité désignée en affirmant que son comportement haineux, violent ou criminel est légalement, moralement ou autrement justifié ou acceptable ;
-    *   P. ex. : « Hitler n’a rien fait de mal. »
-*   tout contenu s’alignant idéologiquement sur une entité ou un évènement désignés.
-    *   P. ex. : « Je suis de tout cœur avec Brenton Tarrant. »
+* toute déclaration positive à l’égard d’une entité ou d’un évènement désignés ;
+    * P. ex. : « Les combattants de l’État islamique sont vraiment courageux ! »
+* tout sentiment de succès accordé à une entité ou à un évènement désignés ;
+    * P. ex. : « Timothy McVeigh est un martyr. »
+* tout propos visant à légitimer la cause d’une entité désignée en affirmant que son comportement haineux, violent ou criminel est légalement, moralement ou autrement justifié ou acceptable ;
+    * P. ex. : « Hitler n’a rien fait de mal. »
+* tout contenu s’alignant idéologiquement sur une entité ou un évènement désignés.
+    * P. ex. : « Je suis de tout cœur avec Brenton Tarrant. »
 
 Nous supprimons tout éloge à l’égard des évènements désignés et des entités de niveau 1. Nous faisons de même pour les actes de violence perpétrés par des entités de niveau 2.
 
 Les **soutiens techniques** peuvent être définis comme ce qui suit :
 
-*   tout acte visant à améliorer le statut financier d’une entité désignée, y compris le transfert de fonds vers ou depuis une entité désignée ;
-    *   P. ex. : « Donnez au KKK ! »
-*   tout acte qui apporte une aide matérielle à une entité ou un évènement désignés ;
-    *   P. ex. : « Si vous désirez envoyer des colis de soins au cartel de Sinaloa, utilisez cette adresse : »
-*   tout appel à l’action lancé au nom d’une entité ou d’un évènement désignés ;
-    *   P. ex. : « Contactez la Division Atomwaffen au (XXX) XXX-XXXX »
-*   tout recrutement au nom d’une entité ou d’un évènement désignés ;
-    *   P. ex. : « Si vous voulez vous battre pour le califat, envoyez-moi un DM »
-*   toute action visant à canaliser des informations ou des ressources, y compris des communications officielles, au nom d’une entité ou d’un évènement désignés.
-    *   P. ex. : citer directement une entité désignée sans légende qui condamne ses propos, ouvre une discussion neutre à ce sujet ou fait partie d’un reportage.
+* tout acte visant à améliorer le statut financier d’une entité désignée, y compris le transfert de fonds vers ou depuis une entité désignée ;
+    * P. ex. : « Donnez au KKK ! »
+* tout acte qui apporte une aide matérielle à une entité ou un évènement désignés ;
+    * P. ex. : « Si vous désirez envoyer des colis de soins au cartel de Sinaloa, utilisez cette adresse : »
+* tout appel à l’action lancé au nom d’une entité ou d’un évènement désignés ;
+    * P. ex. : « Contactez la Division Atomwaffen au (XXX) XXX-XXXX »
+* tout recrutement au nom d’une entité ou d’un évènement désignés ;
+    * P. ex. : « Si vous voulez vous battre pour le califat, envoyez-moi un DM »
+* toute action visant à canaliser des informations ou des ressources, y compris des communications officielles, au nom d’une entité ou d’un évènement désignés.
+    * P. ex. : citer directement une entité désignée sans légende qui condamne ses propos, ouvre une discussion neutre à ce sujet ou fait partie d’un reportage.
 
 Nous supprimons tout soutien technique envers des entités et des évènements désignés de niveaux 1 et 2.
 
 Les **représentations** peuvent être définies comme ce qui suit :
 
-*   toute déclaration que vous êtes membre d’une entité désignée ou que vous êtes une entité désignée ;
-    *   Par exemple : « Je suis un Grand Dragon du KKK. »
-*   toute création d’une Page, d’un profil, d’un évènement, d’une Communauté ou d’une autre entité Facebook qui appartient ou prétend appartenir à une entité désignée ou gérée en son nom, ou qui est ou prétend être un évènement désigné.
-    *   Par exemple : « Une Page baptisée Parti nazi américain. »
+* toute déclaration que vous êtes membre d’une entité désignée ou que vous êtes une entité désignée ;
+    * Par exemple : « Je suis un Grand Dragon du KKK. »
+* toute création d’une Page, d’un profil, d’un évènement, d’une Communauté ou d’une autre entité Facebook qui appartient ou prétend appartenir à une entité désignée ou gérée en son nom, ou qui est ou prétend être un évènement désigné.
+    * Par exemple : « Une Page baptisée Parti nazi américain. »
 
 Nous supprimons les représentations des entités bannies incitant à la haine, des évènements désignés et des organismes désignés de niveaux 1 et 2.
 
@@ -68,34 +68,34 @@ Nous ne permettons pas non plus les éloges, les soutiens techniques ou les repr
 
 **Les organismes et individus terroristes** sont définis comme des acteurs non étatiques qui :
 
-*   prennent part à des actes de violence intentionnels et prémédités, les défendent ou les soutiennent de manière active :
-*   causent ou tentent de causer la mort, des blessures ou des dommages graves à des civils ou à toute autre personne ne prenant pas directement part aux hostilités dans le cadre d’un conflit armé, ou des dommages matériels graves associés à la mort, des blessures graves ou à des dommages graves dont les victimes sont des civils
-*   dans le but d’assujettir, d’intimider ou d’influencer une population civile, un gouvernement ou une organisation internationale
-*   pour atteindre un objectif politique, religieux ou idéologique.
+* prennent part à des actes de violence intentionnels et prémédités, les défendent ou les soutiennent de manière active :
+* causent ou tentent de causer la mort, des blessures ou des dommages graves à des civils ou à toute autre personne ne prenant pas directement part aux hostilités dans le cadre d’un conflit armé, ou des dommages matériels graves associés à la mort, des blessures graves ou à des dommages graves dont les victimes sont des civils
+* dans le but d’assujettir, d’intimider ou d’influencer une population civile, un gouvernement ou une organisation internationale
+* pour atteindre un objectif politique, religieux ou idéologique.
 
 **Les organisations incitant à la haine** sont définies comme des associations de trois personnes ou plus qui :
 
-*   sont organisées sous un nom, un signe ou un symbole ; et
-*   dont l’idéologie, les déclarations ou les actions physiques portent atteinte à des individus en fonction de caractéristiques, notamment l’origine ethnique, l’affiliation religieuse, la nationalité, le handicap, le genre, le sexe, l’orientation sexuelle ou une maladie grave.
+* sont organisées sous un nom, un signe ou un symbole ; et
+* dont l’idéologie, les déclarations ou les actions physiques portent atteinte à des individus en fonction de caractéristiques, notamment l’origine ethnique, l’affiliation religieuse, la nationalité, le handicap, le genre, le sexe, l’orientation sexuelle ou une maladie grave.
 
 **Les organismes criminels** sont définis comme des associations de trois personnes ou plus qui :
 
-*   sont unies sous un nom, une ou plusieurs couleurs, un ou plusieurs gestes ou signes reconnus ; et
-*   se sont livrées ou menacent de se livrer à une activité criminelle telle qu’un homicide, un trafic de drogue ou un enlèvement.
+* sont unies sous un nom, une ou plusieurs couleurs, un ou plusieurs gestes ou signes reconnus ; et
+* se sont livrées ou menacent de se livrer à une activité criminelle telle qu’un homicide, un trafic de drogue ou un enlèvement.
 
 **Tueries et meurtres en série**
 
-*   Nous considérons un évènement comme une tuerie ou une tentative de tuerie s’il fait au moins trois victimes en un incident, qu’il s’agisse de décès ou de blessures graves. Tout individu ayant commis une telle attaque est considéré comme l’auteur d’une tuerie ou l’auteur présumé d’une tuerie.
-*   Nous considérons comme meurtrier en série tout individu ayant commis au moins deux meurtres au cours de plusieurs incidents ou à plusieurs endroits.
+* Nous considérons un évènement comme une tuerie ou une tentative de tuerie s’il fait au moins trois victimes en un incident, qu’il s’agisse de décès ou de blessures graves. Tout individu ayant commis une telle attaque est considéré comme l’auteur d’une tuerie ou l’auteur présumé d’une tuerie.
+* Nous considérons comme meurtrier en série tout individu ayant commis au moins deux meurtres au cours de plusieurs incidents ou à plusieurs endroits.
 
 **Idéologies fondées sur la haine**
 
-*   Si nos désignations d’organismes ou d’individus se concentrent sur le comportement, nous reconnaissons également que certaines idéologies et croyances sont intrinsèquement liées à la violence et aux tentatives de rassembler des personnes autour d’appels à la violence ou à l’exclusion d’autres personnes sur la base de leurs caractéristiques protégées. Dans ces cas, nous désignons les idéologies elles-mêmes et supprimons les contenus qui soutiennent ces idéologies. Ces idéologies incluent :
-    *   le nazisme ;
-    *   la suprématie blanche ;
-    *   le nationalisme blanc ;
-    *   le séparatisme blanc.
-*   Nous supprimons les représentations, les soutiens techniques et les éloges explicites de ces idéologies ainsi que les individus et organismes qui adhèrent à une ou plusieurs de ces idéologies fondées sur la haine.
+* Si nos désignations d’organismes ou d’individus se concentrent sur le comportement, nous reconnaissons également que certaines idéologies et croyances sont intrinsèquement liées à la violence et aux tentatives de rassembler des personnes autour d’appels à la violence ou à l’exclusion d’autres personnes sur la base de leurs caractéristiques protégées. Dans ces cas, nous désignons les idéologies elles-mêmes et supprimons les contenus qui soutiennent ces idéologies. Ces idéologies incluent :
+    * le nazisme ;
+    * la suprématie blanche ;
+    * le nationalisme blanc ;
+    * le séparatisme blanc.
+* Nous supprimons les représentations, les soutiens techniques et les éloges explicites de ces idéologies ainsi que les individus et organismes qui adhèrent à une ou plusieurs de ces idéologies fondées sur la haine.
 
 **_Niveau 2 : acteurs non étatiques violents_**
 
@@ -103,10 +103,10 @@ Les organismes et les individus désignés par Meta comme des acteurs non étati
 
 **Les acteurs non étatiques** désignent les acteurs non étatiques qui :
 
-*   s’engagent dans des actes de violence intentionnels et planifiés, principalement contre l’armée d’un pays ou d’autres communautés armées ; et
-*   causent ou tentent de
-    *   causer la mort de personnes en prenant directement part aux hostilités dans le cadre d’un conflit armé, et/ou
-    *   privent des communautés de l’accès aux infrastructures vitales et aux ressources naturelles, et/ou causent des dommages matériels importants, liés à la mort, à des blessures graves ou à des préjudices graves envers des civils.
+* s’engagent dans des actes de violence intentionnels et planifiés, principalement contre l’armée d’un pays ou d’autres communautés armées ; et
+* causent ou tentent de
+    * causer la mort de personnes en prenant directement part aux hostilités dans le cadre d’un conflit armé, et/ou
+    * privent des communautés de l’accès aux infrastructures vitales et aux ressources naturelles, et/ou causent des dommages matériels importants, liés à la mort, à des blessures graves ou à des préjudices graves envers des civils.
 
 **_Niveau 3 : mouvements sociaux militarisés, réseau de conspiration incitant à la violence et entités bannies incitant à la haine_**
 
@@ -118,25 +118,25 @@ Nous n’autorisons pas les représentations d’organismes ou d’individus dé
 
 **Les mouvements sociaux militarisés** incluent :
 
-*   **Les milices**, définies comme des acteurs non étatiques qui utilisent des armes dans le cadre de leur formation, de leur communication ou de leur présence, et qui sont structurés ou fonctionnement comme des forces militaires ou de sécurité non officielles et :
-    *   se coordonnent en vue de préparer des actes de violence ou une guerre civile ; ou
-    *   diffusent des informations sur l’utilisation tactique des armes pour le combat ; ou
-    *   assurent la coordination tactique militarisée dans le cadre d’un conflit armé ou d’une guerre civile, qu’ils soient actuels ou futurs.
-*   **Les Communautés qui soutiennent des actes de violence au cours de manifestations** sont définis comme des acteurs non étatiques qui, à maintes reprises :
-    *   coordonnent, encouragent, admettent ou s’engagent dans :
-    *   des actes de violence de rue contre des civils ou la police ; ou
-    *   des incendies criminels, des pillages ou d’autres destructions de biens ; ou
-    *   menacent de perturber violemment un processus électoral ; ou
-    *   encouragent l’introduction d’armes dans un lieu lorsque l’objectif déclaré est d’intimider les personnes participant à une manifestation.
+* **Les milices**, définies comme des acteurs non étatiques qui utilisent des armes dans le cadre de leur formation, de leur communication ou de leur présence, et qui sont structurés ou fonctionnement comme des forces militaires ou de sécurité non officielles et :
+    * se coordonnent en vue de préparer des actes de violence ou une guerre civile ; ou
+    * diffusent des informations sur l’utilisation tactique des armes pour le combat ; ou
+    * assurent la coordination tactique militarisée dans le cadre d’un conflit armé ou d’une guerre civile, qu’ils soient actuels ou futurs.
+* **Les Communautés qui soutiennent des actes de violence au cours de manifestations** sont définis comme des acteurs non étatiques qui, à maintes reprises :
+    * coordonnent, encouragent, admettent ou s’engagent dans :
+    * des actes de violence de rue contre des civils ou la police ; ou
+    * des incendies criminels, des pillages ou d’autres destructions de biens ; ou
+    * menacent de perturber violemment un processus électoral ; ou
+    * encouragent l’introduction d’armes dans un lieu lorsque l’objectif déclaré est d’intimider les personnes participant à une manifestation.
 
 **Les réseaux de conspiration incitant à la violence** sont définis comme des acteurs non étatiques qui :
 
-*   s’organisent sous un nom, un signe, une déclaration d’intention ou un symbole ; et
-*   encouragent des théories qui attribuent un comportement violent ou déshumanisant à des individus ou des organismes et qui ont été démystifiées par des sources crédibles ; et
-*   ont inspiré de multiples incidents de violence dans le monde réel de la part d’adeptes motivés par le désir d’attirer l’attention sur ces théories démystifiées ou de restaurer les dommages supposés promus par ces théories.
+* s’organisent sous un nom, un signe, une déclaration d’intention ou un symbole ; et
+* encouragent des théories qui attribuent un comportement violent ou déshumanisant à des individus ou des organismes et qui ont été démystifiées par des sources crédibles ; et
+* ont inspiré de multiples incidents de violence dans le monde réel de la part d’adeptes motivés par le désir d’attirer l’attention sur ces théories démystifiées ou de restaurer les dommages supposés promus par ces théories.
 
 **Les entités bannies incitant à la haine** sont définies comme des entités qui adoptent un comportement ou des propos haineux de manière répétée, mais qui n’atteignent pas le niveau 1 parce qu’elles ne sont pas engagées dans des actes de violence ou n’en font pas explicitement l’apologie, ou parce qu’elles n’entretiennent pas suffisamment de liens avec les organismes ou individus précités.
 
 #### Nous demandons du contexte et/ou des informations supplémentaires pour assurer le respect des Standards de la communauté suivants :
 
-*   Dans certains cas, nous autoriserons du contenu qui pourrait enfreindre les Standards de la communauté lorsque celui-ci est considéré comme satirique. Le contenu sera uniquement autorisé si les éléments en infraction du contenu sont satiriques ou attribués à une chose ou une personne afin de se moquer d’elle ou de la critiquer.
+* Dans certains cas, nous autoriserons du contenu qui pourrait enfreindre les Standards de la communauté lorsque celui-ci est considéré comme satirique. Le contenu sera uniquement autorisé si les éléments en infraction du contenu sont satiriques ou attribués à une chose ou une personne afin de se moquer d’elle ou de la critiquer.
