@@ -9,13 +9,13 @@ Octobre 2020**
 Il n'y a pas de place sur Twitter pour les organisations violentes, y compris les organisations terroristes et les groupes extrémistes violents, ni pour les individus affiliés à ceux‑ci et qui font la promotion de leurs activités illicites. La violence à laquelle ces groupes se livrent ou qu’ils encouragent compromet la sécurité physique et le bien‑être des personnes ciblées. Nos évaluations en vertu de cette politique s'appuient sur les listes nationales et internationales officielles d'organisations terroristes, ainsi que sur nos critères d'identification des groupes extrémistes violents et organisations violentes.  
  
 
-**Il est interdit de proférer des menaces de terrorisme ou d'extrémisme violent, ainsi que d'y inciter.** 
+**Il est interdit de proférer des menaces de terrorisme ou d'extrémisme violent, ainsi que d'y inciter.** 
 
 Les groupes extrémistes violents sont ceux qui répondent à tous les critères ci‑dessous :  
 
-*   ils s’identifient comme groupes extrémistes dans leurs objectifs déclarés, publications ou actions ;
-*   ils ont eu ou ont actuellement recours à la violence et/ou à l'incitation à la violence pour faire avancer leur cause ;
-*   ils ciblent des civils par leurs actes de violence et/ou l'incitation à celle‑ci.  
+* ils s’identifient comme groupes extrémistes dans leurs objectifs déclarés, publications ou actions ;
+* ils ont eu ou ont actuellement recours à la violence et/ou à l'incitation à la violence pour faire avancer leur cause ;
+* ils ciblent des civils par leurs actes de violence et/ou l'incitation à celle‑ci.  
      
 
 **Autres organisations violentes  
@@ -23,8 +23,8 @@ Les groupes extrémistes violents sont ceux qui répondent à tous les critères
 
 Les autres organisations violentes sont celles qui répondent à tous les critères ci‑dessous :
 
-*   un ensemble d’individus partageant un objectif commun ;
-*   qui a systématiquement ciblé des civils par leur violence. 
+* un ensemble d’individus partageant un objectif commun ;
+* qui a systématiquement ciblé des civils par leur violence. 
 
 Nous examinons les activités d'un groupe à la fois sur Twitter et en dehors pour déterminer si elles répondent aux critères ci‑dessus.  
  
@@ -34,10 +34,10 @@ Nous examinons les activités d'un groupe à la fois sur Twitter et en dehors po
   
 En vertu de cette politique, il est interdit de s'affilier à une organisation terroriste ou un groupe extrémiste violent, et de promouvoir ses activités illicites. Parmi les types de contenus qui enfreignent cette politique, citons notamment :
 
-*   la participation à ou la promotion d’actes au nom d’une organisation violente ;
-*   le recrutement pour une organisation violente ;
-*   le fait de fournir ou d’assurer des services (notamment financiers ou médiatiques/de propagande) pour faire avancer les objectifs déclarés d’une organisation violente ;
-*   l'utilisation de l'insigne ou du symbole d'organisations violentes pour les promouvoir ou indiquer son affiliation ou son soutien.  
+* la participation à ou la promotion d’actes au nom d’une organisation violente ;
+* le recrutement pour une organisation violente ;
+* le fait de fournir ou d’assurer des services (notamment financiers ou médiatiques/de propagande) pour faire avancer les objectifs déclarés d’une organisation violente ;
+* l'utilisation de l'insigne ou du symbole d'organisations violentes pour les promouvoir ou indiquer son affiliation ou son soutien.  
      
 
 ### Qu'est‑ce qui ne constitue pas une infraction à cette politique ?
@@ -59,24 +59,24 @@ Dans l'application**
 
 Suivez ces instructions pour signaler ce contenu dans l'application iOS afin de demander son examen :
 
-1.  Sélectionnez **Signaler le Tweet** depuis l'icône  .
-2.  Sélectionnez **Les propos tenus sont inappropriés ou dangereux**.
-3.  Sélectionnez **L'utilisateur menace de faire usage de la violence ou de blesser quelqu'un**.
-4.  Sélectionnez l'option appropriée en fonction de la personne pour laquelle vous effectuez le signalement.
-5.  Sélectionnez jusqu'à cinq Tweets à signaler en vue de leur examen.
-6.  Envoyez votre signalement.  
+1. Sélectionnez **Signaler le Tweet** depuis l'icône  .
+2. Sélectionnez **Les propos tenus sont inappropriés ou dangereux**.
+3. Sélectionnez **L'utilisateur menace de faire usage de la violence ou de blesser quelqu'un**.
+4. Sélectionnez l'option appropriée en fonction de la personne pour laquelle vous effectuez le signalement.
+5. Sélectionnez jusqu'à cinq Tweets à signaler en vue de leur examen.
+6. Envoyez votre signalement.  
      
 
 **Sur ordinateur**
 
 Suivez ces instructions pour signaler ce contenu sur ordinateur afin de demander son examen :
 
-1.  Sélectionnez **Signaler le Tweet** depuis l'icône  .
-2.  Sélectionnez **Les propos tenus sont inappropriés ou dangereux**.
-3.  Sélectionnez **L'utilisateur menace de faire usage de la violence ou de blesser quelqu'un**.
-4.  Sélectionnez l'option appropriée en fonction de la personne pour laquelle vous effectuez le signalement.
-5.  Sélectionnez jusqu'à cinq Tweets à signaler en vue de leur examen.
-6.  Envoyez votre signalement.  
+1. Sélectionnez **Signaler le Tweet** depuis l'icône  .
+2. Sélectionnez **Les propos tenus sont inappropriés ou dangereux**.
+3. Sélectionnez **L'utilisateur menace de faire usage de la violence ou de blesser quelqu'un**.
+4. Sélectionnez l'option appropriée en fonction de la personne pour laquelle vous effectuez le signalement.
+5. Sélectionnez jusqu'à cinq Tweets à signaler en vue de leur examen.
+6. Envoyez votre signalement.  
      
 
 **Formulaire de signalement**
