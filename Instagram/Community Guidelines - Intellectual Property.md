@@ -11,9 +11,9 @@ Dans la plupart des pays, les droits d’auteur constituent un droit reconnu par
 
 Les droits d’auteur couvrent un grand nombre de types d’œuvres, notamment :
 
-*   Les contenus visuels ou audiovisuels : les vidéos, les films, les émissions et les séries télévisées, les jeux vidéo, les tableaux, les photos
-*   Les contenus audio : les chansons, les compositions musicales, les enregistrements sonores et les enregistrements parlés
-*   Les contenus écrits : les livres, les pièces de théâtre, les manuscrits, les articles et les partitions musicales
+* Les contenus visuels ou audiovisuels : les vidéos, les films, les émissions et les séries télévisées, les jeux vidéo, les tableaux, les photos
+* Les contenus audio : les chansons, les compositions musicales, les enregistrements sonores et les enregistrements parlés
+* Les contenus écrits : les livres, les pièces de théâtre, les manuscrits, les articles et les partitions musicales
 
 Veuillez noter que seules les œuvres originales peuvent être protégées par des droits d’auteur. Pour répondre aux critères d’originalité requis pour la protection par droit d’auteur, une œuvre doit être une création de l’auteur et faire preuve d’un minimum de créativité.
 
@@ -25,9 +25,9 @@ En général, la personne qui crée une œuvre originale en détient les droits 
 
 Vous pouvez parfois être amené(e) à penser que vous détenez les droits d’auteur d’une œuvre créative, sans que cela soit toutefois le cas. Par exemple :
 
-*   Si vous apparaissez sur une photo ou sur une vidéo, cela ne signifie pas nécessairement que vous en détenez les droits d’auteur. ([En savoir plus](https://help.instagram.com/667810236572057?helpref=faq_content) sur la marche à suivre si vous pensez qu’une photo ou une vidéo sur Instagram ne respecte pas votre vie privée.)
-*   Si vous prenez en photo une sculpture, cela ne signifie pas que vous avez le droit d’empêcher d’autres personnes de prendre en photo cette même sculpture.
-*   Si vous créez des œuvres dans le cadre de vos responsabilités professionnelles ordinaires, il se peut que vous ne soyez pas le titulaire des droits d’auteur de ces œuvres. Dans ce genre de cas, il arrive que la loi considère votre employeur comme étant le créateur de ces œuvres au regard de la législation sur les droits d’auteur.
+* Si vous apparaissez sur une photo ou sur une vidéo, cela ne signifie pas nécessairement que vous en détenez les droits d’auteur. ([En savoir plus](https://help.instagram.com/667810236572057?helpref=faq_content) sur la marche à suivre si vous pensez qu’une photo ou une vidéo sur Instagram ne respecte pas votre vie privée.)
+* Si vous prenez en photo une sculpture, cela ne signifie pas que vous avez le droit d’empêcher d’autres personnes de prendre en photo cette même sculpture.
+* Si vous créez des œuvres dans le cadre de vos responsabilités professionnelles ordinaires, il se peut que vous ne soyez pas le titulaire des droits d’auteur de ces œuvres. Dans ce genre de cas, il arrive que la loi considère votre employeur comme étant le créateur de ces œuvres au regard de la législation sur les droits d’auteur.
 
 Si vous n’êtes pas sûr(e) de l’étendue de vos droits d’auteur sur une œuvre originale, vous pouvez faire appel à un avocat qui vous informera à ce sujet.
 
@@ -57,23 +57,23 @@ Il est également interdit de publier sur Instagram du contenu qui facilite l’
 
 Vous risquez d’enfreindre les droits d’auteur d’un tiers lorsque vous publiez son contenu sur Instagram, ou de faciliter cette infraction, même si vous :
 
-*   Avez acheté ou téléchargé le contenu (par exemple, une chanson sur iTunes)
-*   Avez enregistré le contenu avec votre propre appareil d’enregistrement (par exemple, une chanson en arrière-plan pendant une fête, un concert, une rencontre sportive, un mariage, etc.)
-*   Créditez le titulaire des droits d’auteur
-*   Vous ajoutez un avertissement indiquant que vous n’avez aucune intention d’enfreindre les droits d’auteur
-*   N’aviez aucune intention d’utiliser le contenu à des fins lucratives
-*   Avez modifié l’œuvre ou y avez ajouté une touche personnelle
-*   Avez trouvé le contenu sur Internet
-*   Avez vu d’autres personnes publier le même contenu
-*   Pensez qu’il s’agit d’un [usage raisonnable](https://help.instagram.com/116455299019699?helpref=search&sr=1&query=fair%20use&search_session_id=8aa28133c81800559a4366cb5bb4c6a3)
-*   Utilisez un appareil ou service de streaming non autorisé (exemples : une application ou un service « débridés » ou « chargés »)
+* Avez acheté ou téléchargé le contenu (par exemple, une chanson sur iTunes)
+* Avez enregistré le contenu avec votre propre appareil d’enregistrement (par exemple, une chanson en arrière-plan pendant une fête, un concert, une rencontre sportive, un mariage, etc.)
+* Créditez le titulaire des droits d’auteur
+* Vous ajoutez un avertissement indiquant que vous n’avez aucune intention d’enfreindre les droits d’auteur
+* N’aviez aucune intention d’utiliser le contenu à des fins lucratives
+* Avez modifié l’œuvre ou y avez ajouté une touche personnelle
+* Avez trouvé le contenu sur Internet
+* Avez vu d’autres personnes publier le même contenu
+* Pensez qu’il s’agit d’un [usage raisonnable](https://help.instagram.com/116455299019699?helpref=search&sr=1&query=fair%20use&search_session_id=8aa28133c81800559a4366cb5bb4c6a3)
+* Utilisez un appareil ou service de streaming non autorisé (exemples : une application ou un service « débridés » ou « chargés »)
 
 Avant de publier du contenu sur Instagram, il est judicieux de vous poser les questions suivantes :
 
-*   Ai-je créé l’intégralité du contenu moi-même ?
-*   Suis-je autorisé(e) à utiliser l’intégralité des contenus de ma publication ?
-*   Mon usage du contenu fait-il l’objet d’une [exception à la violation de droits d’auteur](https://help.instagram.com/116455299019699?helpref=faq_content) ?
-*   Le contenu est-il protégé par des droits d’auteur (par exemple, s’agit-il d’une citation courte, d’un concept, d’une idée ou d’une œuvre appartenant au domaine public) ?
+* Ai-je créé l’intégralité du contenu moi-même ?
+* Suis-je autorisé(e) à utiliser l’intégralité des contenus de ma publication ?
+* Mon usage du contenu fait-il l’objet d’une [exception à la violation de droits d’auteur](https://help.instagram.com/116455299019699?helpref=faq_content) ?
+* Le contenu est-il protégé par des droits d’auteur (par exemple, s’agit-il d’une citation courte, d’un concept, d’une idée ou d’une œuvre appartenant au domaine public) ?
 
 Il est généralement judicieux d’obtenir une autorisation écrite de l’auteur de l’œuvre avant de publier du contenu sur Instagram. Dans certains cas, vous pouvez utiliser le contenu d’un tiers sur Instagram si vous en avez reçu l’autorisation de sa part, en achetant une licence, par exemple. Dans certains cas, vous pouvez utiliser le contenu d’un tiers s’il entre dans le domaine public, s’il s’agit d’un usage équitable ou s’il fait l’objet d’une autre exception aux droits d’auteur.
 
@@ -87,21 +87,21 @@ Usage raisonnable
 
 Bien qu’il soit souvent difficile de déterminer si l’usage d’une œuvre protégée est raisonnable, la loi définit certains facteurs à prendre en compte :
 
-*   **La finalité et la nature de l’usage, notamment s’il s’agit d’un usage commercial ou informatif (non lucratif)**
+* **La finalité et la nature de l’usage, notamment s’il s’agit d’un usage commercial ou informatif (non lucratif)**
 
 L’usage apporte-t-il des transformations ou des modifications à l’œuvre originale en y ajoutant un nouveau sens, un nouveau contexte ou un nouveau message ? L’utilisation d’une photo de mode pour évoquer le nombre de retouches qui y ont été apportées est plus susceptible de constituer un usage raisonnable que le simple fait de publier la photo sans aucun commentaire. Les parodies peuvent s’inscrire dans le cadre d’un usage raisonnable si elles imitent une œuvre de façon à émettre des réflexions ou des critiques à l’égard de l’œuvre originale.
 
 L’usage est-il commercial ou purement personnel ? Les usages commerciaux (lucratifs) sont moins susceptibles de s’inscrire dans le cadre d’un usage équitable.
 
-*   **La nature de l’œuvre protégée par droit d’auteur**
+* **La nature de l’œuvre protégée par droit d’auteur**
 
 L’usage d’œuvres factuelles, comme les cartes ou les bases de données, est plus susceptible de s’inscrire dans le cadre d’un usage raisonnable que l’usage d’œuvres hautement créatives, telles que les poèmes ou les films de science-fiction.
 
-*   **L’ampleur et l’importance de la partie utilisée par rapport à l’ensemble de l’œuvre protégée :**
+* **L’ampleur et l’importance de la partie utilisée par rapport à l’ensemble de l’œuvre protégée :**
 
 L’usage de petites parties d’une œuvre protégée par droit d’auteur est plus susceptible de s’inscrire dans le cadre d’un usage raisonnable que la copie de l’ensemble de l’œuvre. Cependant, l’usage de la partie fondamentale d’une œuvre est moins susceptible de s’inscrire dans le cadre d’un usage raisonnable, même si elle ne représente qu’une petite part de l’œuvre en question.
 
-*   **L’impact de l’usage sur le marché potentiel ou sur la valeur de l’œuvre protégée par des droits d’auteur** :
+* **L’impact de l’usage sur le marché potentiel ou sur la valeur de l’œuvre protégée par des droits d’auteur** :
 
 L’usage risque-t-il de prévaloir sur l’œuvre originale, de sorte que les gens arrêteront d’acheter ou de consulter l’œuvre protégée par droit d’auteur ? Si tel est le cas, il ne s’agit probablement pas d’un usage raisonnable.
 
@@ -115,15 +115,15 @@ Il peut arriver d’enfreindre involontairement les droits d’auteur d’un tie
 
 Sachez que si vous utilisez le contenu d’un tiers, vous êtes susceptible de porter atteinte à ses droits d’auteur, même si vous :
 
-*   créditez le titulaire des droits d’auteur ;
-*   ajoutez un avertissement indiquant que vous n’avez aucune intention d’enfreindre les droits d’auteur ;
-*   pensez qu’il s’agit d’un [usage équitable](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F337995452911154%3Fhelpref%3Dfaq_content) ;
-*   Vous n’aviez aucune intention d’utiliser le contenu à des fins lucratives
-*   avez acheté ou téléchargé légalement le contenu (par exemple, la copie d’un DVD ou une chanson sur Internet) ;
-*   Vous avez modifié l’œuvre ou y avez ajouté une touche personnelle
-*   Vous avez trouvé le contenu sur Internet
-*   Avez enregistré le contenu sur votre propre appareil d’enregistrement (par exemple, au cinéma, à un concert, à un évènement sportif, etc.)
-*   avez constaté que d’autres personnes ont publié le même contenu.
+* créditez le titulaire des droits d’auteur ;
+* ajoutez un avertissement indiquant que vous n’avez aucune intention d’enfreindre les droits d’auteur ;
+* pensez qu’il s’agit d’un [usage équitable](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F337995452911154%3Fhelpref%3Dfaq_content) ;
+* Vous n’aviez aucune intention d’utiliser le contenu à des fins lucratives
+* avez acheté ou téléchargé légalement le contenu (par exemple, la copie d’un DVD ou une chanson sur Internet) ;
+* Vous avez modifié l’œuvre ou y avez ajouté une touche personnelle
+* Vous avez trouvé le contenu sur Internet
+* Avez enregistré le contenu sur votre propre appareil d’enregistrement (par exemple, au cinéma, à un concert, à un évènement sportif, etc.)
+* avez constaté que d’autres personnes ont publié le même contenu.
 
 En savoir plus sur les [droits d’auteur et le contenu protégé par les lois régissant les droits d’auteur.](https://help.instagram.com/126382350847838?helpref=faq_content)
 
@@ -161,14 +161,14 @@ Signaler une violation de droits d’auteur sur Instagram
 
 Si vous pensez que du contenu sur Instagram enfreint vos droits d’auteur, vous pouvez prendre une ou plusieurs des mesures suivantes :
 
-*   Vous pouvez nous le signaler en remplissant ce [formulaire](https://help.instagram.com/contact/552695131608132).
-*   Vous pouvez nous le signaler en utilisant la [Protection des droits de la marque](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F828925381043253%3Fhelpref%3Dfaq_content), qui permet à un détenteur de droits d’identifier et de signaler du contenu en infraction en matière de marques déposées, de droits d’auteur et de contrefaçon.
-*   Vous pouvez contacter notre [représentant désigné](https://help.instagram.com/589322221078523?helpref=faq_content), conformément aux procédures de déclaration et de déclaration contradictoire du DMCA (Digital Millennium Copyright Act des États-Unis). Si vous contactez notre représentant DMCA désigné, veuillez vous assurer d’inclure une réclamation de droits d’auteur complète dans votre signalement.
+* Vous pouvez nous le signaler en remplissant ce [formulaire](https://help.instagram.com/contact/552695131608132).
+* Vous pouvez nous le signaler en utilisant la [Protection des droits de la marque](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fhelp%2F828925381043253%3Fhelpref%3Dfaq_content), qui permet à un détenteur de droits d’identifier et de signaler du contenu en infraction en matière de marques déposées, de droits d’auteur et de contrefaçon.
+* Vous pouvez contacter notre [représentant désigné](https://help.instagram.com/589322221078523?helpref=faq_content), conformément aux procédures de déclaration et de déclaration contradictoire du DMCA (Digital Millennium Copyright Act des États-Unis). Si vous contactez notre représentant DMCA désigné, veuillez vous assurer d’inclure une réclamation de droits d’auteur complète dans votre signalement.
 
 Remarques :
 
-*   Seul le titulaire des droits d’auteur ou son représentant agréé peut signaler une violation de ses droits d’auteur. Si vous jugez qu’un contenu publié sur Instagram enfreint les droits d’auteur d’un tiers, vous pouvez en informer le titulaire des droits.
-*   Dans la majorité des cas, nous fournissons le nom du titulaire des droits, votre adresse e-mail et les détails de votre signalement à la personne qui a publié le contenu que vous signalez. Si vous envoyez un signalement en tant que représentant agréé d’une entité, nous indiquons le nom de l’organisation ou du client titulaire des droits en question. Nous vous conseillons donc de fournir une adresse e-mail professionnelle ou d’entreprise générique valide.
+* Seul le titulaire des droits d’auteur ou son représentant agréé peut signaler une violation de ses droits d’auteur. Si vous jugez qu’un contenu publié sur Instagram enfreint les droits d’auteur d’un tiers, vous pouvez en informer le titulaire des droits.
+* Dans la majorité des cas, nous fournissons le nom du titulaire des droits, votre adresse e-mail et les détails de votre signalement à la personne qui a publié le contenu que vous signalez. Si vous envoyez un signalement en tant que représentant agréé d’une entité, nous indiquons le nom de l’organisation ou du client titulaire des droits en question. Nous vous conseillons donc de fournir une adresse e-mail professionnelle ou d’entreprise générique valide.
 
 Avant d’envoyer un signalement, assurez-vous que le contenu concerné constitue effectivement une violation de vos [droits d’auteur](https://help.instagram.com/116455299019699?helpref=faq_content) ou de votre [marque déposée](https://help.instagram.com/752100651636285?helpref=faq_content) et n’entre pas dans le cadre d’une utilisation autorisée. En cas de doute sur l’atteinte portée à vos droits, n’hésitez pas à solliciter l’assistance juridique d’un ou une spécialiste, car il se peut qu’il s’agisse d’un usage équitable.
 
@@ -193,26 +193,26 @@ Veuillez noter que si vous envoyez un signalement à notre agent désigné par u
 
 Le moyen le plus rapide et le plus simple d’envoyer une réclamation pour violation des droits d’auteur consiste à utiliser notre [formulaire en ligne](https://help.instagram.com/contact/372592039493026). Que vous choisissiez d’envoyer votre signalement par l’intermédiaire de notre formulaire en ligne ou via une autre méthode, Instagram a besoin des informations suivantes pour pouvoir le traiter :
 
-*   Vos coordonnées complètes (nom complet, adresse postale et numéro de téléphone).\*
-*   Une description du contenu sur notre site que vous considérez comme une violation de vos droits d’auteur.
-*   Des informations suffisantes pour nous permettre de localiser ce contenu sur notre site. La manière la plus simple de procéder est de nous fournir les adresses web (URL) menant directement au contenu présumé en infraction. Découvrez [comment trouver une URL](https://help.instagram.com/372819389498306?helpref=faq_content).
-*   Une déclaration indiquant que :
+* Vos coordonnées complètes (nom complet, adresse postale et numéro de téléphone).\*
+* Une description du contenu sur notre site que vous considérez comme une violation de vos droits d’auteur.
+* Des informations suffisantes pour nous permettre de localiser ce contenu sur notre site. La manière la plus simple de procéder est de nous fournir les adresses web (URL) menant directement au contenu présumé en infraction. Découvrez [comment trouver une URL](https://help.instagram.com/372819389498306?helpref=faq_content).
+* Une déclaration indiquant que :
     
-    *   Vous estimez en toute bonne foi que l’utilisation faite du contenu protégé décrit ci-dessus, de la façon dont vous l’indiquez, n’est pas autorisée par le titulaire des droits d’auteur, son agent ou la loi.
-    *   Les informations fournies dans votre déclaration sont exactes.
-    *   Vous déclarez sur l’honneur que vous êtes le titulaire des droits d’auteur exclusifs pour l’œuvre en question ou que vous êtes autorisé(e) à agir au nom de ce dernier.
+    * Vous estimez en toute bonne foi que l’utilisation faite du contenu protégé décrit ci-dessus, de la façon dont vous l’indiquez, n’est pas autorisée par le titulaire des droits d’auteur, son agent ou la loi.
+    * Les informations fournies dans votre déclaration sont exactes.
+    * Vous déclarez sur l’honneur que vous êtes le titulaire des droits d’auteur exclusifs pour l’œuvre en question ou que vous êtes autorisé(e) à agir au nom de ce dernier.
     
-*   Votre signature manuscrite ou électronique.
+* Votre signature manuscrite ou électronique.
 
 \* Notez que dans la majorité des cas, nous fournissons votre nom, vos coordonnées et le contenu de votre signalement à la personne qui a publié le contenu que vous signalez. Si vous envoyez un signalement en tant que représentant agréé, nous indiquons le nom de l’organisation ou du client titulaire des droits en question. Pour cette raison, nous vous conseillons de fournir une adresse e-mail professionnelle ou d’entreprise.
 
 Lorsque nous recevons une réclamation pour infraction aux droits d’auteur par le biais de notre formulaire en ligne et supprimons le contenu concerné, nous fournissons généralement à l’utilisateur signalé les informations suivantes :
 
-*   Le numéro du signalement
-*   Le nom du titulaire des droits
-*   L’adresse e-mail fournie par la partie à l’origine du signalement
-*   Les détails du signalement
-*   Des instructions sur la façon d’envoyer une réclamation
+* Le numéro du signalement
+* Le nom du titulaire des droits
+* L’adresse e-mail fournie par la partie à l’origine du signalement
+* Les détails du signalement
+* Des instructions sur la façon d’envoyer une réclamation
 
 La personne dont le contenu a été supprimé peut vous contacter à partir des informations que vous fournissez. Pour cette raison, nous vous conseillons de fournir une adresse e-mail professionnelle ou d’entreprise générique valide. Dans de rares cas (par ex., lorsqu’une nous sommes contactés par fax, e-mail ou courrier), nous fournissons seulement le numéro de signalement et une description du contenu supprimé. Nous pouvons fournir des informations supplémentaires si celles-ci sont demandées par la personne ayant publié le contenu signalé.
 
@@ -222,11 +222,11 @@ Dans certains cas, nous répondrons à votre signalement pour vous demander de n
 
 Veuillez noter que nous fournissons régulièrement à la personne qui a publié le contenu les informations suivantes au sujet de votre signalement :
 
-*   Le numéro du signalement
-*   Le nom du titulaire des droits
-*   L’adresse e-mail fournie par la partie à l’origine du signalement
-*   Les détails du signalement
-*   Des instructions sur la façon d’envoyer une réclamation
+* Le numéro du signalement
+* Le nom du titulaire des droits
+* L’adresse e-mail fournie par la partie à l’origine du signalement
+* Les détails du signalement
+* Des instructions sur la façon d’envoyer une réclamation
 
 La personne dont le contenu a été supprimé peut vous contacter à partir des informations que vous fournissez. Pour cette raison, nous vous conseillons de fournir une adresse e-mail professionnelle ou d’entreprise générique valide.
 
