@@ -19,13 +19,13 @@ Les [Préférences](https://www.linkedin.com/psettings/privacy) sont disponibles
 Sommaire
 --------
 
-1.  [Données collectées](#data)
-2.  [Utilisation de vos données](#use)
-3.  [Partage des informations](#share)
-4.  [Vos choix et obligations](#choices)
-5.  [Autres informations importantes](#other)
+1. [Données collectées](#data)
+2. [Utilisation de vos données](#use)
+3. [Partage des informations](#share)
+4. [Vos choix et obligations](#choices)
+5. [Autres informations importantes](#other)
 
-1.  Introduction
+1. Introduction
     ------------
     
     Nous sommes un réseau social et une plateforme en ligne pour les professionnels. Les utilisateurs ont recours à nos Services pour trouver, de manière active ou passive, des opportunités commerciales, pour se connecter à d’autres personnes et trouver des sources d’information. Notre Politique de confidentialité s’applique à tous les membres et visiteurs utilisant nos services.
@@ -56,7 +56,7 @@ Sommaire
     
     Vous reconnaissez que si vous continuez à utiliser nos Services après la publication des modifications apportées à notre Politique de confidentialité ou l’envoi d’un avis à ce sujet, cela signifie que la collecte, l’utilisation et le partage de vos données personnelles sont soumis à la version mise à jour de la Politique de confidentialité, à compter de sa date d’entrée en vigueur.
     
-2.  1\. Données collectées
+2. 1\. Données collectées
     ----------------------
     
     ### 1.1 Données que vous nous fournissez
@@ -153,7 +153,7 @@ Sommaire
     
     Les sociétés affiliées sont des sociétés qui nous contrôlent, que nous contrôlons ou qui se trouvent sous notre contrôle, y compris, par exemple, LinkedIn Ireland, LinkedIn Corporation, LinkedIn Singapore et Microsoft Corporation.
     
-3.  2\. Utilisation de vos données
+3. 2\. Utilisation de vos données
     ------------------------------
     
     Nous utilisons vos données pour fournir, prendre en charge, personnaliser et développer nos Services.
@@ -208,11 +208,11 @@ Sommaire
     
     Nous mesurons les performances des publicités et nous les ciblons en fonction des Membres, Visiteurs et autres, à la fois dans le cadre de nos Services et directement ou par le biais d’un ensemble de partenaires, à l’aide des données suivantes, utilisées de manière combinée ou individuellement :
     
-    *   les données issues de technologies publicitaires, à la fois dans le cadre de nos Services et en dehors de ceux-ci, comme les pixels, les tags publicitaires, les cookies et les identifiants d’appareils ;
-    *   les informations fournies par les Membres (par exemple, le profil, les coordonnées, le poste et le secteur) ;
-    *   les données obtenues via l’utilisation de nos Services (par exemple, l’historique des recherches, le fil d’actualité, le contenu lu, les abonnements, les relations, la participation à des [groupes](https://www.linkedin.com/help/linkedin/answer/1164), les vues de pages, les vidéos visionnées, les clics sur les publicités, etc.), y compris conformément à la description de l’article 1.3 ;
-    *   les informations issues des [partenaires](#key-terms-2) publicitaires, des fournisseurs et des [éditeurs](https://www.linkedin.com/help/linkedin/answer/85809) ; et
-    *   les informations extrapolées des données décrites ci-dessus (notamment en utilisant des postes d’un profil pour déduire le secteur, le niveau hiérarchique et la plage de salaire, en utilisant les dates de remise des diplômes pour déduire l’âge, ou en utilisant les prénoms et les pronoms pour déduire le sexe, en utilisant votre fil d’actualité pour déduire vos centres d’intérêt, ou en utilisant les données des appareils pour savoir que vous êtes un Membre).
+    * les données issues de technologies publicitaires, à la fois dans le cadre de nos Services et en dehors de ceux-ci, comme les pixels, les tags publicitaires, les cookies et les identifiants d’appareils ;
+    * les informations fournies par les Membres (par exemple, le profil, les coordonnées, le poste et le secteur) ;
+    * les données obtenues via l’utilisation de nos Services (par exemple, l’historique des recherches, le fil d’actualité, le contenu lu, les abonnements, les relations, la participation à des [groupes](https://www.linkedin.com/help/linkedin/answer/1164), les vues de pages, les vidéos visionnées, les clics sur les publicités, etc.), y compris conformément à la description de l’article 1.3 ;
+    * les informations issues des [partenaires](#key-terms-2) publicitaires, des fournisseurs et des [éditeurs](https://www.linkedin.com/help/linkedin/answer/85809) ; et
+    * les informations extrapolées des données décrites ci-dessus (notamment en utilisant des postes d’un profil pour déduire le secteur, le niveau hiérarchique et la plage de salaire, en utilisant les dates de remise des diplômes pour déduire l’âge, ou en utilisant les prénoms et les pronoms pour déduire le sexe, en utilisant votre fil d’actualité pour déduire vos centres d’intérêt, ou en utilisant les données des appareils pour savoir que vous êtes un Membre).
     
     Nous vous montrerons des publicités appelées “[Sponsored Content](https://www.linkedin.com/help/linkedin/answer/39575)”, semblables en apparence au contenu non sponsorisé, sauf que leur libellé (comme “publicité” ou “sponsorisé”) mentionne qu’il s’agit de publicité. Si vous effectuez une action sur ces publicités (en cliquant sur J’aime, en les commentant ou en les partageant), cette action est associée à votre nom et visible pour les autres, y compris l’annonceur. En fonction de vos [préférences](https://www.linkedin.com/psettings/data-visibility), si vous effectuez une action d’engagement sur les Services LinkedIn, cette action peut être mentionnée avec les publicités pertinentes. Par exemple, lorsque vous aimez une entreprise, nous pouvons ajouter votre nom et votre photo lors de l’affichage de contenu sponsorisé.
     
@@ -272,7 +272,7 @@ Sommaire
     
     Les partenaires peuvent être des plateformes d’ad-exchange entre autres
     
-4.  3\. Partage des informations
+4. 3\. Partage des informations
     ----------------------------
     
     ### 3.1. Nos Services
@@ -287,13 +287,13 @@ Sommaire
     
     Nos Services permettent l’affichage et le partage d’informations, notamment via des posts, des abonnements, des J’aime et des commentaires.
     
-    *   Lorsque vous partagez un article ou un post (comme une nouvelle, une image, une vidéo ou un article) publiquement, celui-ci peut être consulté par tout le monde et être repartagé n’importe où (en fonction de vos [préférences](https://www.linkedin.com/psettings/privacy)). Les Membres, les Visiteurs et d’autres personnes pourront rechercher et consulter le contenu que vous avez partagé publiquement, y compris votre nom (et votre photo si vous en avez fourni une).
-    *   Dans un [groupe](https://www.linkedin.com/help/linkedin/answer/1164), les posts sont visibles par les autres Membres du groupe. Votre appartenance à des groupes est publique et figure dans votre profil, mais vous pouvez modifier la visibilité dans vos [préférences](https://www.linkedin.com/help/linkedin/answer/197).
-    *   Toutes les informations que vous partagez par le biais de pages Entreprise ou d’autres organisations sur nos Services sont visibles par ces entités et les personnes qui consultent ces pages.
-    *   Lorsque vous suivez une personne ou une organisation, vous apparaissez comme abonné pour les autres et le “propriétaire de la page”.
-    *   Nous signalons aux expéditeurs les actions que vous effectuez par rapport à leur message, selon vos [préférences](https://www.linkedin.com/help/linkedin/answer/71013) le cas échéant.
-    *   Nous informons un Membre lorsque vous consultez son profil, en fonction de vos [préférences](https://www.linkedin.com/help/linkedin/answer/47992).
-    *   Lorsque vous aimez, repartagez ou commentez le contenu d’une autre personne (publicités incluses), les autres Membres pourront voir ces “actions sociales” et associer cette action sociale à vous (par exemple votre nom, votre profil et votre photo le cas échéant).
+    * Lorsque vous partagez un article ou un post (comme une nouvelle, une image, une vidéo ou un article) publiquement, celui-ci peut être consulté par tout le monde et être repartagé n’importe où (en fonction de vos [préférences](https://www.linkedin.com/psettings/privacy)). Les Membres, les Visiteurs et d’autres personnes pourront rechercher et consulter le contenu que vous avez partagé publiquement, y compris votre nom (et votre photo si vous en avez fourni une).
+    * Dans un [groupe](https://www.linkedin.com/help/linkedin/answer/1164), les posts sont visibles par les autres Membres du groupe. Votre appartenance à des groupes est publique et figure dans votre profil, mais vous pouvez modifier la visibilité dans vos [préférences](https://www.linkedin.com/help/linkedin/answer/197).
+    * Toutes les informations que vous partagez par le biais de pages Entreprise ou d’autres organisations sur nos Services sont visibles par ces entités et les personnes qui consultent ces pages.
+    * Lorsque vous suivez une personne ou une organisation, vous apparaissez comme abonné pour les autres et le “propriétaire de la page”.
+    * Nous signalons aux expéditeurs les actions que vous effectuez par rapport à leur message, selon vos [préférences](https://www.linkedin.com/help/linkedin/answer/71013) le cas échéant.
+    * Nous informons un Membre lorsque vous consultez son profil, en fonction de vos [préférences](https://www.linkedin.com/help/linkedin/answer/47992).
+    * Lorsque vous aimez, repartagez ou commentez le contenu d’une autre personne (publicités incluses), les autres Membres pourront voir ces “actions sociales” et associer cette action sociale à vous (par exemple votre nom, votre profil et votre photo le cas échéant).
     
     Votre employeur peut savoir comment vous utilisez les Services qu’il met à votre disposition à des fins professionnelles (par exemple, en tant que recruteur ou commercial) et voir les informations associées. Nous ne lui montrerons pas vos recherches d’emploi ni vos messages personnels.
     
@@ -343,7 +343,7 @@ Sommaire
     
     Nous pouvons également partager vos données personnelles dans le cadre d’une vente, d’une fusion ou d’une prise de contrôle, ou en préparation de ces événements. Toute entité tierce achetant intégralement ou en partie notre entreprise sera autorisée à utiliser vos données, mais uniquement dans le respect de la présente Politique de confidentialité, sauf mention contraire de votre part.
     
-5.  4\. Vos choix et obligations
+5. 4\. Vos choix et obligations
     ----------------------------
     
     ### 4.1. Conservation des données
@@ -360,10 +360,10 @@ Sommaire
     
     Concernant les données personnelles que nous possédons sur vous, vous pouvez :
     
-    *   Supprimer des données : vous pouvez nous demander d’effacer ou de supprimer tout ou partie de vos données personnelles (par exemple, s’il n’est plus nécessaire que nous vous fournissions des Services).
-    *   Modifier ou rectifier des données : vous pouvez modifier certaines de vos données personnelles par le biais de votre compte. Vous pouvez également nous demander de modifier, de mettre à jour ou de corriger vos données dans certains cas, en particulier si elles sont inexactes.
-    *   Réfuter, limiter, restreindre ou utiliser des données : vous pouvez nous demander de cesser d’utiliser tout ou partie de vos données personnelles (par exemple, si nous n’avons aucun droit légal de continuer à les utiliser) ou d’en limiter notre utilisation (par exemple, si vos données personnelles sont inexactes ou détenues illégalement).
-    *   Accéder à vos données et/ou les obtenir : vous pouvez nous demander une copie de vos données personnelles ainsi qu’une copie de celles que vous avez fournies dans un format lisible par une machine.
+    * Supprimer des données : vous pouvez nous demander d’effacer ou de supprimer tout ou partie de vos données personnelles (par exemple, s’il n’est plus nécessaire que nous vous fournissions des Services).
+    * Modifier ou rectifier des données : vous pouvez modifier certaines de vos données personnelles par le biais de votre compte. Vous pouvez également nous demander de modifier, de mettre à jour ou de corriger vos données dans certains cas, en particulier si elles sont inexactes.
+    * Réfuter, limiter, restreindre ou utiliser des données : vous pouvez nous demander de cesser d’utiliser tout ou partie de vos données personnelles (par exemple, si nous n’avons aucun droit légal de continuer à les utiliser) ou d’en limiter notre utilisation (par exemple, si vos données personnelles sont inexactes ou détenues illégalement).
+    * Accéder à vos données et/ou les obtenir : vous pouvez nous demander une copie de vos données personnelles ainsi qu’une copie de celles que vous avez fournies dans un format lisible par une machine.
     
     Les Visiteurs peuvent en apprendre plus sur la manière de faire ces demandes [ici](https://www.linkedin.com/help/linkedin/answer/50191). Vous pouvez également nous contacter à l’aide des coordonnées disponibles ci-dessous et nous traiterons votre demande conformément aux lois applicables.
     
@@ -379,7 +379,7 @@ Sommaire
     
     Les informations que vous avez partagées avec des tiers (comme les InMails, les nouvelles ou les posts dans des groupes) seront toujours visibles après la fermeture de votre compte ou la suppression des données de votre profil ou de votre boîte aux lettres. Nous ne contrôlons pas les données que les autres Membres ont copiées en dehors de nos Services. Le contenu et les notations de groupes ou le contenu des commentaires associés à un compte fermé auront pour source “Utilisateur inconnu”. Votre profil peut continuer d’apparaître sur les services tiers (comme les résultats de moteur de recherche) jusqu’à l’actualisation de leur cache.
     
-6.  5\. Autres informations importantes
+6. 5\. Autres informations importantes
     -----------------------------------
     
     ### 5.1. Sécurité
