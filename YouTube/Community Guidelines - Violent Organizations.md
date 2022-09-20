@@ -18,12 +18,12 @@ Les implications pour vous
 
 Ne publiez pas de contenu sur YouTube s'il correspond à l'une des descriptions ci-dessous.
 
-*   Contenu produit par des organisations criminelles ou terroristes violentes
-*   Contenu faisant l'apologie ou commémorant des personnalités terroristes ou criminelles dans le but d'encourager d'autres personnes à commettre des actes de violence
-*   Contenu louant ou justifiant des actes de violence commis par des organisations criminelles ou terroristes violentes
-*   Contenu destiné à recruter de nouveaux membres pour des organisations criminelles ou terroristes violentes
-*   Contenu présentant des otages, ou mis en ligne dans le but de solliciter, de menacer ou d'intimider des personnes au nom d'une organisation terroriste ou criminelle violente
-*   Contenu exposant les insignes, les logos ou les symboles d'organisations criminelles ou terroristes violentes afin d'en faire l'apologie ou de les promouvoir
+* Contenu produit par des organisations criminelles ou terroristes violentes
+* Contenu faisant l'apologie ou commémorant des personnalités terroristes ou criminelles dans le but d'encourager d'autres personnes à commettre des actes de violence
+* Contenu louant ou justifiant des actes de violence commis par des organisations criminelles ou terroristes violentes
+* Contenu destiné à recruter de nouveaux membres pour des organisations criminelles ou terroristes violentes
+* Contenu présentant des otages, ou mis en ligne dans le but de solliciter, de menacer ou d'intimider des personnes au nom d'une organisation terroriste ou criminelle violente
+* Contenu exposant les insignes, les logos ou les symboles d'organisations criminelles ou terroristes violentes afin d'en faire l'apologie ou de les promouvoir
 
 Si vous publiez des contenus liés au terrorisme ou au milieu criminel à des fins éducatives, documentaires, scientifiques ou artistiques, veillez à fournir suffisamment d'informations au sein même de la vidéo ou de l'audio pour que les spectateurs puissent comprendre ce dont il s'agit. Les vidéos explicites ou controversées offrant suffisamment de contexte peuvent être soumises à une limite d'âge ou précédées d'un avertissement.
 
@@ -34,11 +34,11 @@ Exemples
 
 Voici quelques exemples de contenus non autorisés sur YouTube.
 
-*   Remise en ligne brute et non modifiée de contenu créé par des organisations terroristes ou criminelles
-*   Apologie de chefs terroristes ou de leurs crimes à travers des chansons ou des commémorations
-*   Apologie d'organisations terroristes ou criminelles à travers des chansons ou des commémorations
-*   Contenu orientant les utilisateurs vers des sites prônant une idéologie terroriste, diffusant du contenu interdit ou dont le but est de recruter de nouveaux membres
-*   Contenus de jeux vidéo développés ou modifiés pour faire l'apologie d'un événement violent ou de ses auteurs, ou pour soutenir des organisations terroristes ou criminelles violentes
+* Remise en ligne brute et non modifiée de contenu créé par des organisations terroristes ou criminelles
+* Apologie de chefs terroristes ou de leurs crimes à travers des chansons ou des commémorations
+* Apologie d'organisations terroristes ou criminelles à travers des chansons ou des commémorations
+* Contenu orientant les utilisateurs vers des sites prônant une idéologie terroriste, diffusant du contenu interdit ou dont le but est de recruter de nouveaux membres
+* Contenus de jeux vidéo développés ou modifiés pour faire l'apologie d'un événement violent ou de ses auteurs, ou pour soutenir des organisations terroristes ou criminelles violentes
 
 Pour rappel, il ne s'agit que d'exemples. Ne publiez pas un contenu si vous pensez qu'il est susceptible d'enfreindre ce règlement.
 
