@@ -9,9 +9,9 @@ Accédez à la section [Questions sensibles](https://newsroom.fb.com/news/2017/
 
 #### Pour les victimes de meurtre et de suicide, nous supprimerons le contenu suivant s’il apparaît sur la photo de profil, la photo de couverture ou parmi les publications récentes du journal à la demande d’un contact légataire ou d’un membre de la famille du défunt :
 
-*   Représentation visuelle de l’objet utilisé dans la mort du défunt
-*   Images du meurtrier présumé ou inculpé du défunt
-*   Contenu lié à la mort du défunt
+* Représentation visuelle de l’objet utilisé dans la mort du défunt
+* Images du meurtrier présumé ou inculpé du défunt
+* Contenu lié à la mort du défunt
 
 Pour les victimes de meurtre, nous supprimerons aussi le meurtrier présumé ou inculpé du profil du défunt s’il apparaît dans la situation amoureuse ou les amis.
 
@@ -21,7 +21,7 @@ Lorsque nous disposons de contenu supplémentaire fourni par le contact légatai
 
 Lorsque le contact légataire ou un membre de la famille du défunt attire notre attention, nous pouvons :
 
-*   Supprimer les commentaires violents sur un profil commémoratif, ce qui exige généralement que la personne signale elle-même le contenu afin que nous sachions qu'il est indésirable
-*   Supprimer les commentaires se réjouissant de la mort, de la maladie ou du mal subi par la personne décédée sur un profil commémoratif
-*   Changer les paramètres de confidentialité de l’individu décédé de public à amis uniquement lorsque du contenu nuisible apparaît sur son profil
-*   Changer le nom d’un compte en infraction sur le profil de l’individu décédé
+* Supprimer les commentaires violents sur un profil commémoratif, ce qui exige généralement que la personne signale elle-même le contenu afin que nous sachions qu'il est indésirable
+* Supprimer les commentaires se réjouissant de la mort, de la maladie ou du mal subi par la personne décédée sur un profil commémoratif
+* Changer les paramètres de confidentialité de l’individu décédé de public à amis uniquement lorsque du contenu nuisible apparaît sur son profil
+* Changer le nom d’un compte en infraction sur le profil de l’individu décédé
