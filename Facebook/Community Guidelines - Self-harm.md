@@ -19,9 +19,9 @@ Cependant, pour minimiser le risque d’un impact négatif sur des tiers à la s
 
 Du contenu qui favorise, encourage, coordonne ou fournit des instructions sur
 
-*   le suicide.
-*   l’automutilation.
-*   les troubles de l’alimentation.
+* le suicide.
+* l’automutilation.
+* les troubles de l’alimentation.
 
 Du contenu qui montre des images explicites d’automutilation.
 
@@ -35,22 +35,22 @@ Le contenu qui se moque des victimes ou des survivants d’une tentative de suic
 
 #### Pour les éléments suivants, nous limitons le contenu aux adultes de plus de 18 ans et affichons un écran de sensibilité afin d’informer les gens que le contenu peut être dérangeant :
 
-*   Les photos ou les vidéos représentant une personne ayant subi une euthanasie ou un suicide assisté dans un contexte médical.
+* Les photos ou les vidéos représentant une personne ayant subi une euthanasie ou un suicide assisté dans un contexte médical.
 
 #### Pour les types de contenus suivants, nous affichons un avertissement de sensibilité afin d’informer les gens qu’il s’agit de contenus potentiellement dérangeants pour certains :
 
-*   Le contenu montrant d’anciens cas d’automutilation, comme des coupures cicatrisées ou d’autres images non explicites d’automutilation dans un contexte d’automutilation, de suicide ou de guérison.
-*   Le contenu qui décrit en détail les côtes, les clavicules, l’écart entre les cuisses, les hanches, le creux de l’estomac ou une colonne vertébrale ou une omoplate saillante dans un contexte de rétablissement.
+* Le contenu montrant d’anciens cas d’automutilation, comme des coupures cicatrisées ou d’autres images non explicites d’automutilation dans un contexte d’automutilation, de suicide ou de guérison.
+* Le contenu qui décrit en détail les côtes, les clavicules, l’écart entre les cuisses, les hanches, le creux de l’estomac ou une colonne vertébrale ou une omoplate saillante dans un contexte de rétablissement.
 
 #### Nous offrons des ressources aux personnes qui publient une confession verbale ou écrite exprimant toute implication dans une forme d’automutilation, notamment :
 
-*   le suicide.
-*   l’euthanasie ou le suicide assisté.
-*   l’automutilation.
-*   les troubles de l’alimentation.
-*   les déclarations ou les références vagues, potentiellement suicidaires (y compris des memes ou des images de photothèque sur l’humeur triste ou la dépression) dans un contexte de suicide ou d’automutilation.
+* le suicide.
+* l’euthanasie ou le suicide assisté.
+* l’automutilation.
+* les troubles de l’alimentation.
+* les déclarations ou les références vagues, potentiellement suicidaires (y compris des memes ou des images de photothèque sur l’humeur triste ou la dépression) dans un contexte de suicide ou d’automutilation.
 
 #### Nous demandons du contexte et/ou des informations supplémentaires pour assurer le respect des Standards de la communauté suivants :
 
-*   Nous pouvons supprimer les propos suicidaires en cas de confirmation de suicide ou de tentative de suicide. Nous tentons d’identifier les propos suicidaires à l’aide de plusieurs facteurs, notamment les demandes de la famille ou de représentants légaux, les signalements des médias, les signalements de la police ou d’autres sources tierces (p. ex. des agences gouvernementales ou des ONG).
-    *   Une lettre de suicide peut également être supprimée lorsqu’elle est signalée par le biais du [formulaire de contact sur les contenus de nature suicidaire](https://www.facebook.com/help/contact/305410456169423/) ou du [formulaire de contact d’Instagram](https://help.instagram.com/contact/383679321740945/) et que le suicide ou la tentative de suicide nous a été confirmé(e).
+* Nous pouvons supprimer les propos suicidaires en cas de confirmation de suicide ou de tentative de suicide. Nous tentons d’identifier les propos suicidaires à l’aide de plusieurs facteurs, notamment les demandes de la famille ou de représentants légaux, les signalements des médias, les signalements de la police ou d’autres sources tierces (p. ex. des agences gouvernementales ou des ONG).
+    * Une lettre de suicide peut également être supprimée lorsqu’elle est signalée par le biais du [formulaire de contact sur les contenus de nature suicidaire](https://www.facebook.com/help/contact/305410456169423/) ou du [formulaire de contact d’Instagram](https://help.instagram.com/contact/383679321740945/) et que le suicide ou la tentative de suicide nous a été confirmé(e).
