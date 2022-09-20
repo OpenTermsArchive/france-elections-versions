@@ -59,13 +59,13 @@ Développez les menus pour obtenir davantage d’informations :
   
 Afin de pouvoir utiliser certains de nos produits et services, vous devez disposer d’un compte ; pour créer celui-ci, vous devez nous fournir certaines informations. De même, si vous utilisez nos produits et services payants, nous ne pouvons vous les fournir sans obtenir des informations de paiement. Tout simplement, certaines informations sont nécessaires si vous voulez utiliser nombre de nos produits et services.
 
-*   **Comptes personnels.** Si vous créez un compte, vous devez nous fournir certaines informations pour que nous puissions vous offrir nos services. Celles-ci comprennent un nom d’affichage (par exemple « Twitter Moments »), un nom d’utilisateur (par exemple @TwitterMoments) ; un mot de passe, une adresse e-mail ou un numéro de téléphone, une date de naissance, votre langue d’affichage ainsi que des éléments relatifs à un identifiant tiers unique (si vous choisissez cette méthode d’identification). Vous pouvez également choisir de communiquer votre localisation dans votre profil et dans vos Tweets et de télécharger votre carnet d’adresses sur Twitter afin de vous permettre de trouver des personnes que vous pourriez connaître. Les éléments relatifs à votre profil, qui incluent votre nom d’affichage et votre nom d’utilisateur sont toujours publics, mais vous pouvez utiliser votre vrai nom ou un pseudonyme. Aussi, n’oubliez pas que vous pouvez créer des comptes Twitter multiples, notamment afin d’exprimer différentes facettes de votre identité, professionnelle ou autre. 
+* **Comptes personnels.** Si vous créez un compte, vous devez nous fournir certaines informations pour que nous puissions vous offrir nos services. Celles-ci comprennent un nom d’affichage (par exemple « Twitter Moments »), un nom d’utilisateur (par exemple @TwitterMoments) ; un mot de passe, une adresse e-mail ou un numéro de téléphone, une date de naissance, votre langue d’affichage ainsi que des éléments relatifs à un identifiant tiers unique (si vous choisissez cette méthode d’identification). Vous pouvez également choisir de communiquer votre localisation dans votre profil et dans vos Tweets et de télécharger votre carnet d’adresses sur Twitter afin de vous permettre de trouver des personnes que vous pourriez connaître. Les éléments relatifs à votre profil, qui incluent votre nom d’affichage et votre nom d’utilisateur sont toujours publics, mais vous pouvez utiliser votre vrai nom ou un pseudonyme. Aussi, n’oubliez pas que vous pouvez créer des comptes Twitter multiples, notamment afin d’exprimer différentes facettes de votre identité, professionnelle ou autre. 
     
-*   **Comptes professionnels.** Si vous créez un [compte professionnel](https://business.twitter.com/fr/help/account-setup/professional-accounts.html), vous devez également nous communiquer une catégorie professionnelle, et vous pouvez nous fournir d’autres informations, dont votre adresse postale, l’adresse e-mail et le numéro de téléphone auxquels vous pouvez être contacté, tous ces éléments étant toujours publics. 
+* **Comptes professionnels.** Si vous créez un [compte professionnel](https://business.twitter.com/fr/help/account-setup/professional-accounts.html), vous devez également nous communiquer une catégorie professionnelle, et vous pouvez nous fournir d’autres informations, dont votre adresse postale, l’adresse e-mail et le numéro de téléphone auxquels vous pouvez être contacté, tous ces éléments étant toujours publics. 
     
-*   **Informations relatives aux Paiements.** Afin d’acheter des publicités ou autres éléments de notre offre de produits et services payants, vous devez nous communiquer des informations de paiement, et notamment votre numéro de carte de crédit ou de débit, la date d’expiration de votre carte, votre code CVV ainsi que votre adresse de facturation.
+* **Informations relatives aux Paiements.** Afin d’acheter des publicités ou autres éléments de notre offre de produits et services payants, vous devez nous communiquer des informations de paiement, et notamment votre numéro de carte de crédit ou de débit, la date d’expiration de votre carte, votre code CVV ainsi que votre adresse de facturation.
     
-*   **Préférences.** Lorsque vous programmez vos préférences au moyen de vos [paramètres](https://twitter.com/settings/), nous collectons ces informations de manière à pouvoir respecter vos choix.
+* **Préférences.** Lorsque vous programmez vos préférences au moyen de vos [paramètres](https://twitter.com/settings/), nous collectons ces informations de manière à pouvoir respecter vos choix.
     
 
   
@@ -75,37 +75,37 @@ Afin de pouvoir utiliser certains de nos produits et services, vous devez dispos
 Quand vous utilisez nos services, nous recueillons des informations relatives à la manière dont vous utilisez nos produits et services. Nous utilisons ces informations afin de vous fournir nos produits et services, de permettre de rendre Twitter plus sûr et plus respectueux pour chacun et plus pertinent pour vous.  
  
 
-**Informations relatives à l’utilisation.** Nous recueillons des informations relatives à votre activité sur Twitter, y compris :
+**Informations relatives à l’utilisation.** Nous recueillons des informations relatives à votre activité sur Twitter, y compris :
 
-*   les Tweets et autres contenus que vous mettez en ligne (dont la date, l’application et la version de Twitter) ainsi que des informations relatives à votre activité de diffusion (p.ex. TwitterLive ou Spaces), y compris les diffusions que vous avez créées ainsi que la date à laquelle vous les avez créées, vos listes, favoris, et les communautés auxquelles vous appartenez.
-*   Vos interactions avec les contenus des autres utilisateurs, comme les retweets, likes, partages ou réponses, si d’autres utilisateurs vous mentionnent ou vous identifient dans leur contenu ou si, au contraire, vous les mentionnez ou les identifiez, ainsi que les diffusions auxquelles vous avez participé (y compris votre historique de visualisation, d’écoute, de commentaire, de prise de parole et vos réactions).
-*   ○ La manière dont vous interagissez avec les autres sur la plateforme, et notamment les personnes que vous suivez et celles qui vous suivent, ainsi que votre utilisation des [Messages Directs](https://help.twitter.com/using-twitter/direct-messages), y compris les contenus des messages, leurs destinataires, et la date et l’heure des messages.
-*   Si vous communiquez avec nous, notamment par e-mail, nous collecterons des informations relatives à la communication et à son contenu.
-*   Nous collectons des informations sur les liens avec lesquelles vous interagissez pour l’ensemble de nos services (y compris dans nos e-mails qui vous sont adressés).
+* les Tweets et autres contenus que vous mettez en ligne (dont la date, l’application et la version de Twitter) ainsi que des informations relatives à votre activité de diffusion (p.ex. TwitterLive ou Spaces), y compris les diffusions que vous avez créées ainsi que la date à laquelle vous les avez créées, vos listes, favoris, et les communautés auxquelles vous appartenez.
+* Vos interactions avec les contenus des autres utilisateurs, comme les retweets, likes, partages ou réponses, si d’autres utilisateurs vous mentionnent ou vous identifient dans leur contenu ou si, au contraire, vous les mentionnez ou les identifiez, ainsi que les diffusions auxquelles vous avez participé (y compris votre historique de visualisation, d’écoute, de commentaire, de prise de parole et vos réactions).
+* ○ La manière dont vous interagissez avec les autres sur la plateforme, et notamment les personnes que vous suivez et celles qui vous suivent, ainsi que votre utilisation des [Messages Directs](https://help.twitter.com/using-twitter/direct-messages), y compris les contenus des messages, leurs destinataires, et la date et l’heure des messages.
+* Si vous communiquez avec nous, notamment par e-mail, nous collecterons des informations relatives à la communication et à son contenu.
+* Nous collectons des informations sur les liens avec lesquelles vous interagissez pour l’ensemble de nos services (y compris dans nos e-mails qui vous sont adressés).
 
 **Achat et paiements.** Afin de vous permettre d’effectuer un paiement ou d’envoyer des fonds au moyen des fonctionnalités ou services Twitter, y compris par un intermédiaire, nous pouvons recevoir des informations relatives à votre transaction, comme la date à laquelle elle a été réalisée, la date d’expiration ou de renouvellement automatique d’un abonnement ainsi que tous montants versés ou reçus.
 
 **Informations relatives à votre équipement.** Nous collectons des informations en provenance des appareils que vous utilisez afin d’accéder à Twitter ainsi que des éléments relatifs à ces appareils, et notamment :
 
-*   Des informations portant sur votre connexion, comme votre adresse IP et votre type de navigateur.
-*   Des informations relatives à votre appareil et à ses paramètres, comme son identifiant d’appareil et son identifiant publicitaire, le système d’exploitation, l’opérateur, la langue, la mémoire, les applications installées et le niveau de batterie.
-*   Le carnet d’adresses de votre appareil, si vous avez choisi de le partager avec nous.
+* Des informations portant sur votre connexion, comme votre adresse IP et votre type de navigateur.
+* Des informations relatives à votre appareil et à ses paramètres, comme son identifiant d’appareil et son identifiant publicitaire, le système d’exploitation, l’opérateur, la langue, la mémoire, les applications installées et le niveau de batterie.
+* Le carnet d’adresses de votre appareil, si vous avez choisi de le partager avec nous.
 
-**Informations de localisation.** Lorsque vous utilisez Twitter, nous collectons certaines informations relatives à votre localisation approximative, afin de pouvoir vous fournir le service que vous attendez, et notamment de vous monter des publicités pertinentes. Vous pouvez également choisir, en activant les paramètres correspondants sur votre compte, de nous informer de votre positionnement actuel exact ou des lieux à partir desquels vous avez utilisé Twitter dans le passé.
+**Informations de localisation.** Lorsque vous utilisez Twitter, nous collectons certaines informations relatives à votre localisation approximative, afin de pouvoir vous fournir le service que vous attendez, et notamment de vous monter des publicités pertinentes. Vous pouvez également choisir, en activant les paramètres correspondants sur votre compte, de nous informer de votre positionnement actuel exact ou des lieux à partir desquels vous avez utilisé Twitter dans le passé.
 
 **  
-Identité déduite.** Nous pouvons collecter ou recevoir des informations que nous utilisons afin de déduire votre identité comme indiqué ci-dessous :  
+Identité déduite.** Nous pouvons collecter ou recevoir des informations que nous utilisons afin de déduire votre identité comme indiqué ci-dessous :  
 
-*   Lorsque vous vous connectez à Twitter avec un navigateur ou un appareil, nous associons celui-ci à votre compte. Sous réserve de vos paramètres, nous pouvons également associer votre compte à des navigateurs ou appareils autres que ceux que vous utilisez pour vous connecter à votre compte Twitter (ou associer votre appareil ou navigateur déconnecté à d’autres navigateurs ou identifiants générés par Twitter).
-*   Lorsque vous fournissez d’autres informations à Twitter, y compris une adresse e-mail ou un numéro de téléphone, nous associons ces informations à votre compte Twitter. Sous réserve de vos paramètres, nous pouvons également utiliser ces informations afin d’en déduire d’autres informations relatives à votre identité, par exemple en associant votre compte à des hachages d’adresses e-mail qui partagent des éléments communs avec l’adresse e-mail que vous avez fournie à Twitter.
-*   Lorsque vous accédez à Twitter sans être connecté, nous pouvons déduire votre identité des informations que nous collectons.
+* Lorsque vous vous connectez à Twitter avec un navigateur ou un appareil, nous associons celui-ci à votre compte. Sous réserve de vos paramètres, nous pouvons également associer votre compte à des navigateurs ou appareils autres que ceux que vous utilisez pour vous connecter à votre compte Twitter (ou associer votre appareil ou navigateur déconnecté à d’autres navigateurs ou identifiants générés par Twitter).
+* Lorsque vous fournissez d’autres informations à Twitter, y compris une adresse e-mail ou un numéro de téléphone, nous associons ces informations à votre compte Twitter. Sous réserve de vos paramètres, nous pouvons également utiliser ces informations afin d’en déduire d’autres informations relatives à votre identité, par exemple en associant votre compte à des hachages d’adresses e-mail qui partagent des éléments communs avec l’adresse e-mail que vous avez fournie à Twitter.
+* Lorsque vous accédez à Twitter sans être connecté, nous pouvons déduire votre identité des informations que nous collectons.
 
 **Informations de journal.** Nous pouvons recevoir des informations lorsque vous visualisez des contenus ou que vous interagissez de toute autre manière avec nos produits et services, même si vous n’avez pas créé de compte ou si vous vous êtes déconnecté, et notamment :
 
-*   L’adresse IP ; le type de navigateur et la langue  ; le système d’exploitation ; la page Internet d’où vous venez ; les durées des accès ; les pages visitées ; l’emplacement ; votre opérateur téléphonique ; les informations relatives à l’appareil (y compris l’identifiant de l’appareil et de l’application) ; les termes et identifiants de recherche (y compris ceux qui n’ont pas été soumis en tant que requêtes) ; les publicités qui vous ont été montrées sur Twitter ; les identifiants générés par Twitter et les identifiants associés à des cookies. Nous recevons également des informations de journal quand vous cliquez sur, visualisez ou interagissez avec des liens présents sur nos services y compris quand vous installez une autre application grâce à Twitter.
+* L’adresse IP ; le type de navigateur et la langue  ; le système d’exploitation ; la page Internet d’où vous venez ; les durées des accès ; les pages visitées ; l’emplacement ; votre opérateur téléphonique ; les informations relatives à l’appareil (y compris l’identifiant de l’appareil et de l’application) ; les termes et identifiants de recherche (y compris ceux qui n’ont pas été soumis en tant que requêtes) ; les publicités qui vous ont été montrées sur Twitter ; les identifiants générés par Twitter et les identifiants associés à des cookies. Nous recevons également des informations de journal quand vous cliquez sur, visualisez ou interagissez avec des liens présents sur nos services y compris quand vous installez une autre application grâce à Twitter.
 
 **  
-Publicités.** Lorsque vous visualisez des publicités que nous diffusons sur Twitter ou hors de Twitter ou interagissez avec celles-ci, nous pouvons collecter des informations relatives à ces vues ou interactions (p.ex., lecture d’une publicité vidéo ou de publicité préalable à la lecture d’une vidéo (pre-roll) , clic sur une publicité, interaction avec des retweets d’une publicité ou réponses à celle-ci).   
+Publicités.** Lorsque vous visualisez des publicités que nous diffusons sur Twitter ou hors de Twitter ou interagissez avec celles-ci, nous pouvons collecter des informations relatives à ces vues ou interactions (p.ex., lecture d’une publicité vidéo ou de publicité préalable à la lecture d’une vidéo (pre-roll) , clic sur une publicité, interaction avec des retweets d’une publicité ou réponses à celle-ci).   
 
 **Cookies et technologies similaires.** Tout comme de nombreux sites Internet, nous recourons à des cookies et à des technologies similaires afin d’obtenir des données supplémentaires d’utilisation du site Internet et de nous aider à exploiter nos services. Les cookies ne sont pas nécessaires pour de nombreuses parties de nos produits et services, comme la recherche et la consultation des profils publics. Pour plus d’informations quant à notre utilisation des cookies et technologies similaires, veuillez vous reporter [ici](https://help.twitter.com/rules-and-policies/twitter-cookies).
 
@@ -187,8 +187,8 @@ Avec le grand public**. Vous nous ordonnez de diffuser cette information aussi 
   
 **Avec d’autres utilisateurs Twitter.** En fonction de vos [paramètres](https://twitter.com/settings/account) et des produits et services Twitter que vous utilisez, nous partageons :
 
-*   Vos interactions avec le contenu Twitter d’autres utilisateurs, comme les likes et les personnes que vous suivez.
-*   Le contenu que vous adressez à un utilisateur Twitter spécifique notamment au moyen de [Messages Directs](https://help.twitter.com/using-twitter/direct-messages). Souvenez-vous que si vous partagez des informations comme des Messages Directs ou des Tweets protégés avec une autre personne qui accède à Twitter grâce à un service tiers, ces informations peuvent être communiquées à ce service tiers.
+* Vos interactions avec le contenu Twitter d’autres utilisateurs, comme les likes et les personnes que vous suivez.
+* Le contenu que vous adressez à un utilisateur Twitter spécifique notamment au moyen de [Messages Directs](https://help.twitter.com/using-twitter/direct-messages). Souvenez-vous que si vous partagez des informations comme des Messages Directs ou des Tweets protégés avec une autre personne qui accède à Twitter grâce à un service tiers, ces informations peuvent être communiquées à ce service tiers.
 
 **Avec des partenaires.** En fonction de vos [paramètres](https://twitter.com/settings/account), nous pouvons également fournir à certains tiers des informations qui nous aident à offrir ou à exploiter nos produits et services. Vous pouvez obtenir davantage d’informations sur ces partenariats dans notre [Centre d’Assistance](https://help.twitter.com/safety-and-security/data-through-partnerships). Il vous est possible de contrôler si Twitter partage vos informations personnelles avec ces partenaires au moyen de l’option « Partage de données avec des partenaires commerciaux » dans vos [Paramètres de confidentialité et de sécurité](https://twitter.com/settings/privacy_and_safety). (Ce paramètre ne contrôle pas les échanges d’information décrits par ailleurs dans cette Politique de confidentialité, et notamment le partage d’informations avec nos prestataires de services ou dans le cadre de partenariats autres que ceux décrits dans l’article concerné du [Centre d’Assistance](https://help.twitter.com/safety-and-security/data-through-partnerships).)  
  
@@ -210,15 +210,15 @@ Avec des prestataires de services.** Nous pouvons communiquer vos informations �
   
 Nous pouvons préserver, utiliser, partager ou divulguer vos informations si nous pensons que ceci est raisonnablement nécessaire afin de :
 
-*   respecter une loi ou un règlement, [une procédure judiciaire](https://help.twitter.com/rules-and-policies/twitter-law-enforcement-support) ou une demande d’une autorité publique ;
+* respecter une loi ou un règlement, [une procédure judiciaire](https://help.twitter.com/rules-and-policies/twitter-law-enforcement-support) ou une demande d’une autorité publique ;
     
-*   protéger la sécurité de toute personne, la sécurité ou l’intégrité de notre plateforme, notamment afin d’éviter les spams, les utilisations abusives, ou les interventions malveillantes sur nos services ;
+* protéger la sécurité de toute personne, la sécurité ou l’intégrité de notre plateforme, notamment afin d’éviter les spams, les utilisations abusives, ou les interventions malveillantes sur nos services ;
     
-*   expliquer pourquoi nous avons retiré du contenu ou des comptes de nos services (par exemple pour violation des [Règles de Twitter](https://help.twitter.com/rules-and-policies/twitter-rules)) ;
+* expliquer pourquoi nous avons retiré du contenu ou des comptes de nos services (par exemple pour violation des [Règles de Twitter](https://help.twitter.com/rules-and-policies/twitter-rules)) ;
     
-*   réagir à des problèmes de fraude ou de sécurité ou gérer des questions techniques ; ou
+* réagir à des problèmes de fraude ou de sécurité ou gérer des questions techniques ; ou
     
-*   protéger nos droits ou nos biens, ou les droits et biens des utilisateurs de nos services.
+* protéger nos droits ou nos biens, ou les droits et biens des utilisateurs de nos services.
     
 
 ### 3.4 Avec nos entités affiliées.
@@ -244,15 +244,15 @@ Combien de temps conservez-vous les données ?
   
 Nous conservons différents types d’information pendant des périodes différentes : 
 
-*   Nous conservons les informations relatives à votre profil ainsi que vos contenus pendant la durée de votre compte.
+* Nous conservons les informations relatives à votre profil ainsi que vos contenus pendant la durée de votre compte.
     
-*   En règle générale, nous conservons pendant une période maximum de 18 mois les autres données personnellement identifiables que nous collectons lorsque vous utilisez nos produits et services.
+* En règle générale, nous conservons pendant une période maximum de 18 mois les autres données personnellement identifiables que nous collectons lorsque vous utilisez nos produits et services.
     
-*   Souvenez-vous que des contenus publics peuvent rester présents ailleurs, même après que vous les avez retirés de Twitter. Par exemple, des moteurs de recherche et d’autres tiers peuvent conserver plus longtemps des copies de vos Tweets sur la base de leurs propres politiques de confidentialité, même si vous les avez détruits ou s’ils ont expiré sur Twitter. Vous pouvez en savoir plus à propos de la visibilité dans les recherches en cliquant [ici](https://help.twitter.com/safety-and-security/remove-twitter-profile-from-google-search).
+* Souvenez-vous que des contenus publics peuvent rester présents ailleurs, même après que vous les avez retirés de Twitter. Par exemple, des moteurs de recherche et d’autres tiers peuvent conserver plus longtemps des copies de vos Tweets sur la base de leurs propres politiques de confidentialité, même si vous les avez détruits ou s’ils ont expiré sur Twitter. Vous pouvez en savoir plus à propos de la visibilité dans les recherches en cliquant [ici](https://help.twitter.com/safety-and-security/remove-twitter-profile-from-google-search).
     
-*   Lorsque vous violez nos Règles et que votre compte est suspendu, nous pouvons conserver les identifiants que vous avez utilisés pour créer le compte (à savoir votre adresse e-mail ou votre numéro de téléphone) sans limitation de durée afin d’éviter la création de nouveaux comptes par des récidivistes.
+* Lorsque vous violez nos Règles et que votre compte est suspendu, nous pouvons conserver les identifiants que vous avez utilisés pour créer le compte (à savoir votre adresse e-mail ou votre numéro de téléphone) sans limitation de durée afin d’éviter la création de nouveaux comptes par des récidivistes.
     
-*   Nous pouvons conserver certaines informations plus longtemps que nos politiques le prévoient afin de respecter des exigences légales et pour des raisons de sûreté et de sécurité.
+* Nous pouvons conserver certaines informations plus longtemps que nos politiques le prévoient afin de respecter des exigences légales et pour des raisons de sûreté et de sécurité.
     
 
 Comment puis-je contrôler mes données ?
@@ -270,11 +270,11 @@ Comment puis-je contrôler mes données ?
   
 Vous pouvez accéder aux informations que vous nous avez fournies, les rectifier ou les modifier en révisant votre profil et en ajustant les [paramètres](https://twitter.com/settings/account) de votre compte.
 
-*   Vous pouvez en savoir davantage sur les informations que nous avons obtenues ou déduites en ce qui vous concerne en consultant[Vos données Twitter](https://twitter.com/settings/your_twitter_data) et demander[ici](https://help.twitter.com/forms/privacy) à avoir accès à des informations supplémentaires.
+* Vous pouvez en savoir davantage sur les informations que nous avons obtenues ou déduites en ce qui vous concerne en consultant[Vos données Twitter](https://twitter.com/settings/your_twitter_data) et demander[ici](https://help.twitter.com/forms/privacy) à avoir accès à des informations supplémentaires.
     
-*   Vous pouvez télécharger une copie de vos informations, telles que vos Tweets, en suivant les instructions données [ici](https://help.twitter.com/managing-your-account/how-to-download-your-twitter-archive).
+* Vous pouvez télécharger une copie de vos informations, telles que vos Tweets, en suivant les instructions données [ici](https://help.twitter.com/managing-your-account/how-to-download-your-twitter-archive).
     
-*   Sur le site Internet Periscope, vous pouvez demander la rectification ou la modification de vos informations et télécharger les informations relatives à votre compte, en suivant les instructions données[ici](https://help.pscp.tv/customer/portal/articles/2932270).
+* Sur le site Internet Periscope, vous pouvez demander la rectification ou la modification de vos informations et télécharger les informations relatives à votre compte, en suivant les instructions données[ici](https://help.pscp.tv/customer/portal/articles/2932270).
     
 
 Afin de protéger votre vie privée et de maintenir la sécurité, nous prenons des mesures afin de vérifier votre identité avant de vous permettre d’accéder à vos informations personnelles ou de faire droit à une demande d’effacement, de portabilité ou autre demande similaire. Dans certains cas, nous pouvons rejeter votre demande d’accès, de rectification ou de portabilité. Par exemple, nous pouvons refuser une demande d’accès quand vous n’êtes pas en mesure de prouver votre identité.  
