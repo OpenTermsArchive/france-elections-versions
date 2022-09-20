@@ -6,7 +6,7 @@ Politique en matière de conduite haineuse
 **Imagerie et noms d'affichage haineux :** il est interdit d'utiliser des images ou symboles haineux dans votre image ou bannière de profil. Vous ne devez pas non plus utiliser votre nom d'utilisateur, votre nom d'affichage ou la biographie de votre profil pour vous livrer à des comportements inappropriés, tels que du harcèlement ciblé, ou pour exprimer de la haine envers une personne, un groupe ou une catégorie protégée.   
  
 
-### Logique sous‑jacente 
+### Logique sous‑jacente 
 
 La mission de Twitter est de donner à chacun le pouvoir de créer et de partager des idées et des informations, et d'exprimer ses opinions et ses croyances sans aucun obstacle. La liberté d'expression fait partie des droits de l'homme. Pour nous, chacun a une voix et le droit de la faire entendre. Notre rôle est d'être au service de la conversation publique, ce qui exige la représentation d'un large éventail de points de vue. 
 
@@ -17,7 +17,7 @@ Nous nous engageons à lutter contre les comportements inappropriés motivés pa
 Si vous voyez sur Twitter du contenu dont vous pensez qu'il enfreint notre politique en matière de conduite haineuse, veuillez [nous le signaler](https://help.twitter.com/forms/abusiveuser).  
  
 
-### Quand cela s'applique‑t‑il ? 
+### Quand cela s'applique‑t‑il ?  
 
 Nous passerons en revue les signalements de comptes qui ciblent une personne ou un groupe de personnes en recourant à un ou plusieurs des comportements ci‑dessous dans leurs Tweets ou Messages Privés, et nous prendrons les sanctions qui s'imposent envers ces comptes.   
  
@@ -33,28 +33,28 @@ Nous passerons en revue les signalements de comptes qui ciblent une personne ou 
   
 **Nous interdisons les contenus qui souhaitent la mort, des blessures corporelles graves ou une maladie mortelle à une catégorie protégée dans son ensemble et/ou à des personnes susceptibles d'appartenir à cette catégorie, ainsi que les contenus qui espèrent que cela se produise, expriment un tel désir ou incitent à ce type de comportement. Cela inclut les comportements suivants, mais sans s'y limiter : 
 
-*   Espérer qu'une catégorie protégée dans son ensemble et/ou des personnes susceptibles d'appartenir à cette catégorie décèdent d'une maladie grave. Exemple : « J'espère que tous les \[nationalité\] vont attraper le COVID et mourir. »
-*   Souhaiter qu'une personne soit victime d'un accident grave. Exemple : « J'espère que tu te feras écraser la prochaine fois que tu ouvriras ta gueule. »  
+* Espérer qu'une catégorie protégée dans son ensemble et/ou des personnes susceptibles d'appartenir à cette catégorie décèdent d'une maladie grave. Exemple : « J'espère que tous les \[nationalité\] vont attraper le COVID et mourir. »
+* Souhaiter qu'une personne soit victime d'un accident grave. Exemple : « J'espère que tu te feras écraser la prochaine fois que tu ouvriras ta gueule. »  
     
-*   Dire qu'un groupe de personnes mérite de subir des blessures corporelles graves. Exemple : « Si ce groupe de \[insulte\] poursuit son action, ces gens méritent qu'on leur tire dessus. »
-*   Encourager d'autres personnes à commettre des violences contre une personne ou un groupe en raison de son appartenance présumée à une catégorie protégée. Exemple : « J'ai envie de frapper un \[insulte à caractère raciste\], qui me suit ? »  
+* Dire qu'un groupe de personnes mérite de subir des blessures corporelles graves. Exemple : « Si ce groupe de \[insulte\] poursuit son action, ces gens méritent qu'on leur tire dessus. »
+* Encourager d'autres personnes à commettre des violences contre une personne ou un groupe en raison de son appartenance présumée à une catégorie protégée. Exemple : « J'ai envie de frapper un \[insulte à caractère raciste\], qui me suit ? »  
      
 
 **Références à des meurtres de masse, à des événements violents ou à des violences spécifiques dont des groupes protégés ont été les principales cibles ou victimes  
   
 **Nous interdisons le ciblage de personnes ou de groupes de personnes avec du contenu faisant référence à des formes de violence ou à des événements violents dont une catégorie protégée a été la cible ou victime principale, cela dans le but de les harceler. Cela inclut, mais sans s'y limiter, les médias ou les textes qui font référence ou décrivent :
 
-*   les génocides (par exemple, l'Holocauste) ;
-*   les lynchages.  
+* les génocides (par exemple, l'Holocauste) ;
+* les lynchages.  
      
 
-**Incitation à l'encontre de catégories protégées** 
+**Incitation à l'encontre de catégories protégées** 
 
 Nous interdisons les comportements d'incitation qui ciblent des personnes ou des groupes de personnes appartenant à des catégories protégées. Cela concerne les contenus ayant les buts suivants :
 
-*   Susciter la peur ou propager des stéréotypes effrayants au sujet d'une catégorie protégée, notamment en affirmant que les membres de cette catégorie sont plus susceptibles de participer à des activités dangereuses ou illégales. Exemple : « tous les \[groupe religieux\] sont terroristes ».
-*   Inciter d'autres personnes à harceler les membres d'une catégorie protégée, que ce soit sur la plateforme ou en dehors. Exemple : « J'en ai plus qu'assez de ces \[groupe religieux\] qui se croient meilleurs que nous. Si l'un d'entre vous croise quelqu'un portant un \[symbole religieux du groupe concerné\], arrachez-le lui et publiez des photos ! ».
-*   Inciter à la discrimination en refusant de soutenir l'entreprise d'une personne ou d'un groupe en raison de son appartenance présumée à une catégorie protégée. Exemple : « Quand vous vous rendez dans un magasin \[groupe religieux\], vous soutenez ces \[insulte\]. Arrêtons de donner notre argent à ces \[insulte à connotation religieuse\] ». Cela ne peut pas inclure les contenus à caractère politique, comme les commentaires politiques ou les contenus liés à des boycotts ou manifestations.
+* Susciter la peur ou propager des stéréotypes effrayants au sujet d'une catégorie protégée, notamment en affirmant que les membres de cette catégorie sont plus susceptibles de participer à des activités dangereuses ou illégales. Exemple : « tous les \[groupe religieux\] sont terroristes ».
+* Inciter d'autres personnes à harceler les membres d'une catégorie protégée, que ce soit sur la plateforme ou en dehors. Exemple : « J'en ai plus qu'assez de ces \[groupe religieux\] qui se croient meilleurs que nous. Si l'un d'entre vous croise quelqu'un portant un \[symbole religieux du groupe concerné\], arrachez-le lui et publiez des photos ! ».
+* Inciter à la discrimination en refusant de soutenir l'entreprise d'une personne ou d'un groupe en raison de son appartenance présumée à une catégorie protégée. Exemple : « Quand vous vous rendez dans un magasin \[groupe religieux\], vous soutenez ces \[insulte\]. Arrêtons de donner notre argent à ces \[insulte à connotation religieuse\] ». Cela ne peut pas inclure les contenus à caractère politique, comme les commentaires politiques ou les contenus liés à des boycotts ou manifestations.
 
 Notez que les contenus ayant pour but d'inciter à la violence à l'encontre d'une catégorie protégée sont interdits en vertu de la section **Souhaits de blessures graves visant une personne ou un groupe de personnes**.
 
@@ -73,14 +73,14 @@ Nous interdisons également la déshumanisation d'un groupe de personnes sur la 
 
 Les logos, symboles ou images dont le but est d'encourager l'hostilité et la méchanceté à l'encontre d'autres personnes sur la base de leur race, religion, handicap, orientation sexuelle, identité sexuelle ou origine ethnique/nationale sont considérés comme de l'imagerie haineuse. Voici une liste non exhaustive d'exemples d'imagerie haineuse :
 
-*   les symboles historiquement associés à des groupes haineux, comme la croix gammée
-*   les images représentant des personnes d'une manière qui nie leur humanité, ou modifiées pour inclure des symboles haineux, comme les images modifiées pour intégrer des caractéristiques animales ;
-*   ou les images modifiées pour inclure des symboles haineux ou des références à un meurtre de masse ciblant une catégorie protégée, comme les images manipulées incluant des étoiles jaunes, en référence à l'Holocauste
+* les symboles historiquement associés à des groupes haineux, comme la croix gammée
+* les images représentant des personnes d'une manière qui nie leur humanité, ou modifiées pour inclure des symboles haineux, comme les images modifiées pour intégrer des caractéristiques animales ;
+* ou les images modifiées pour inclure des symboles haineux ou des références à un meurtre de masse ciblant une catégorie protégée, comme les images manipulées incluant des étoiles jaunes, en référence à l'Holocauste
 
 Les médias représentant ou décrivant des images haineuses ne sont pas autorisés dans les vidéos en direct, les biographies de comptes, les profils ou les images de bannière. Toutes les autres instances doivent être marquées comme médias sensibles. En outre, envoyer des images haineuses non sollicitées à une personne constitue une infraction à notre [politique relative aux comportements inappropriés](https://help.twitter.com/rules-and-policies/abusive-behavior).   
  
 
-### Dois‑je être la cible de ce contenu pour signaler l'infraction aux Règles de Twitter ? 
+### Dois‑je être la cible de ce contenu pour signaler l'infraction aux Règles de Twitter ? 
 
 Certains Tweets peuvent sembler haineux hors contexte, mais ne le sont pas forcément au sein de la conversation dont ils sont tirés. Ainsi, les membres d'une catégorie protégée peuvent utiliser entre eux des termes généralement considérés comme des insultes. Lorsque cette utilisation est consentie, l'intention n'est pas inappropriée. Il s'agit alors d'un moyen de récupérer des termes historiquement utilisés pour rabaisser des individus.  
 
@@ -89,7 +89,7 @@ Lorsque nous examinons ce type de contenu, il peut être difficile de détermine
 **Remarque :** les personnes ne doivent pas nécessairement appartenir à une catégorie protégée spécifique pour que nous prenions des mesures. Nous ne demanderons jamais à qui que ce soit de prouver ou de réfuter son appartenance à une catégorie protégée, et nous n'enquêterons pas sur ce point.   
  
 
-### Conséquences 
+### Conséquences 
 
 En vertu de cette politique, nous prenons des mesures contre les comportements ciblant des personnes ou l'ensemble d'une catégorie protégée avec une conduite haineuse, comme décrit ci‑dessus. Ce ciblage peut prendre différentes formes, notamment des mentions, l'inclusion d'une photo d'une personne, le fait de s'y référer en utilisant son nom et son prénom, etc.
 
