@@ -20,11 +20,11 @@ Ce que ces règles impliquent pour vous
 
 Ne publiez pas de contenu sur YouTube s'il correspond à l'une des descriptions ci-dessous.
 
-*   Contenu qui fait la promotion ou renvoie vers des services tiers permettant d'augmenter artificiellement les métriques telles que le nombre de vues, de "J'aime" et d'abonnés
-*   Contenu qui fait la promotion ou renvoie vers des sites Web ou des services tiers proposant de tromper le système afin de fausser le nombre de vues ou d'abonnés
-*   Contenu dans lequel vous proposez à d'autres créateurs de vous abonner à leur chaîne uniquement si ceux-ci s'abonnent à la vôtre en retour (pratique connue sous le nom de "sub4sub")
-    *   **Remarque** : Vous avez le droit d'encourager vos spectateurs à s'abonner, à cliquer sur le bouton "J'aime", à partager votre vidéo ou à laisser un commentaire.
-*   Contenu dans lequel un créateur achète des vues auprès d'un service tiers dans le but de promouvoir ce service
+* Contenu qui fait la promotion ou renvoie vers des services tiers permettant d'augmenter artificiellement les métriques telles que le nombre de vues, de "J'aime" et d'abonnés
+* Contenu qui fait la promotion ou renvoie vers des sites Web ou des services tiers proposant de tromper le système afin de fausser le nombre de vues ou d'abonnés
+* Contenu dans lequel vous proposez à d'autres créateurs de vous abonner à leur chaîne uniquement si ceux-ci s'abonnent à la vôtre en retour (pratique connue sous le nom de "sub4sub")
+    * **Remarque** : Vous avez le droit d'encourager vos spectateurs à s'abonner, à cliquer sur le bouton "J'aime", à partager votre vidéo ou à laisser un commentaire.
+* Contenu dans lequel un créateur achète des vues auprès d'un service tiers dans le but de promouvoir ce service
 
 Ces règles s'appliquent aux vidéos, aux descriptions de vidéos, aux commentaires, aux diffusions en direct et à tout autre produit ou fonctionnalité de YouTube. Sachez que cette liste n'est pas exhaustive.
 
@@ -33,10 +33,10 @@ Comment nous mesurons l'engagement
 
 Le nombre d'abonnés affiché aux emplacements suivants est mis à jour en temps réel :
 
-*   Page d'accueil de votre chaîne
-*   Sélecteur de compte
-*   Page de lecture de la vidéo
-*   Applications et sites tiers utilisant l'[API YouTube Data](https://developers.google.com/youtube/v3/)
+* Page d'accueil de votre chaîne
+* Sélecteur de compte
+* Page de lecture de la vidéo
+* Applications et sites tiers utilisant l'[API YouTube Data](https://developers.google.com/youtube/v3/)
 
 Le nombre d'abonnés indiqué dans YouTube Analytics peut être différent de celui qui s'affiche sur votre chaîne YouTube. Les statistiques de YouTube Analytics sont différées d'environ 48 heures. Ce délai nous permet d'effectuer des vérifications supplémentaires et d'examiner les spams afin de fournir des chiffres exacts.
 
@@ -49,10 +49,10 @@ Exemples
 
 Voici quelques exemples de contenu non autorisé sur YouTube.
 
-*   Témoignage vidéo dans lequel un créateur achète du trafic artificiel pour sa chaîne auprès d'un service tiers
-*   Vidéo dans laquelle un créateur renvoie vers le site d'un fournisseur de trafic artificiel tiers dans le but de faire la promotion ou l'éloge du service (exemple : "J'ai obtenu 1 million d'abonnés en une journée grâce à cette vidéo, découvrez mon secret !")
-*   Vidéo dont l'objectif est d'obliger ou d'inciter les spectateurs à regarder une autre vidéo par des moyens trompeurs (une fiche info contenant des informations mensongères, par exemple)
-*   Chaînes dédiées à l'engagement artificiel pour générer du trafic sur une chaîne ou faisant la promotion d'entreprises qui existent à cette seule fin
+* Témoignage vidéo dans lequel un créateur achète du trafic artificiel pour sa chaîne auprès d'un service tiers
+* Vidéo dans laquelle un créateur renvoie vers le site d'un fournisseur de trafic artificiel tiers dans le but de faire la promotion ou l'éloge du service (exemple : "J'ai obtenu 1 million d'abonnés en une journée grâce à cette vidéo, découvrez mon secret !")
+* Vidéo dont l'objectif est d'obliger ou d'inciter les spectateurs à regarder une autre vidéo par des moyens trompeurs (une fiche info contenant des informations mensongères, par exemple)
+* Chaînes dédiées à l'engagement artificiel pour générer du trafic sur une chaîne ou faisant la promotion d'entreprises qui existent à cette seule fin
 
 Pour rappel, il ne s'agit que d'exemples. Ne publiez pas un contenu si vous pensez qu'il est susceptible d'enfreindre ce règlement.
 
