@@ -27,12 +27,12 @@ Remarque : de manière générale, c'est le photographe et NON le sujet d'une p
 
 Pour envoyer une notification relative à une violation présumée de droits d'auteur, vous devrez nous fournir les informations suivantes :
 
-1.  Une signature physique ou électronique du détenteur des droits d'auteur ou d'une personne autorisée à agir en son nom (taper le nom et le prénom suffit) ;
-2.  L'identification de l'œuvre dont les droits d'auteur sont supposés violés (avec par exemple un lien vers votre œuvre originale ou une description claire des contenus concernés) ;
-3.  L'identification du contenu concerné et des informations raisonnablement suffisantes pour permettre à Twitter de localiser le contenu sur son site Web ou ses services ;
-4.  Vos coordonnées, y compris votre adresse, votre numéro de téléphone et une adresse email ;
-5.  Une déclaration affirmant que vous estimez de bonne foi que l'utilisation du contenu de la manière indiquée n'est pas autorisée par le détenteur des droits d'auteur, par son mandataire ou par la loi ; et
-6.  Une déclaration sous serment stipulant que les informations contenues dans la réclamation sont exactes et que vous êtes autorisé à agir pour le compte du détenteur des droits d'auteur.  
+1. Une signature physique ou électronique du détenteur des droits d'auteur ou d'une personne autorisée à agir en son nom (taper le nom et le prénom suffit) ;
+2. L'identification de l'œuvre dont les droits d'auteur sont supposés violés (avec par exemple un lien vers votre œuvre originale ou une description claire des contenus concernés) ;
+3. L'identification du contenu concerné et des informations raisonnablement suffisantes pour permettre à Twitter de localiser le contenu sur son site Web ou ses services ;
+4. Vos coordonnées, y compris votre adresse, votre numéro de téléphone et une adresse email ;
+5. Une déclaration affirmant que vous estimez de bonne foi que l'utilisation du contenu de la manière indiquée n'est pas autorisée par le détenteur des droits d'auteur, par son mandataire ou par la loi ; et
+6. Une déclaration sous serment stipulant que les informations contenues dans la réclamation sont exactes et que vous êtes autorisé à agir pour le compte du détenteur des droits d'auteur.  
      
 
 Si votre notification porte sur le contenu d'un Tweet, merci de nous fournir un [lien direct](https://help.twitter.com/fr/using-twitter/tweet-and-moment-url.html) vers ce Tweet. Ou veuillez préciser si la violation présumée se trouve dans la bannière, l'avatar, ou autre. UN SIMPLE LIEN VERS UNE PAGE DE PROFIL NE SUFFIT PAS À TWITTER POUR IDENTIFIER LES CONTENUS CONCERNÉS.
@@ -67,9 +67,9 @@ Si vous n'avez pas encore reçu de copie de la réclamation relative au contenu 
 
 Dans un effort de transparence maximale concernant la suppression de contenu publié ou la restriction de l'accès à celui‑ci, nous marquons clairement les Tweets et médias bloqués afin que les utilisateurs sachent si l'accès à un contenu a été restreint (voir les exemples ci‑dessous). Nous envoyons également une copie de chaque réclamation relative à des droits d'auteur et de chaque avis de contestation que nous traitons à Lumen, qui les publie sur un site Web public (vos données personnelles ayant été supprimées).
 
- ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 530 86%22%3E%3C/svg%3E) 
+  ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 530 86%22%3E%3C/svg%3E)
 
- ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 161%22%3E%3C/svg%3E) 
+  ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 161%22%3E%3C/svg%3E)
 
 Mon contenu a été supprimé de Twitter
 =====================================
@@ -101,11 +101,11 @@ Conseil : le fait de republier un contenu supprimé suite à une réclamation 
 
 Pour envoyer un avis de contestation, vous devrez nous fournir les informations suivantes :
 
-1.  Une signature physique ou électronique (la saisie de votre nom et prénom suffit) ;
-2.  Votre nom et prénom, votre adresse (pays compris), votre numéro de téléphone et, à des fins de vérification, votre nom d'utilisateur Twitter et l'adresse email associée ;
-3.  L'identification du contenu ayant été supprimé ou auquel l'accès a été désactivé, et de l'emplacement où le contenu apparaissait avant la suppression ou la désactivation de l'accès (la description figurant dans l'avertissement sur les droits d'auteur suffit) ;
-4.  Une déclaration sous serment stipulant que vous croyez en toute bonne foi que le contenu a été supprimé ou désactivé par erreur ou en raison d'une identification erronée du contenu à supprimer ou à désactiver ; et
-5.  L'une des déclarations de consentement juridictionnel suivantes :
+1. Une signature physique ou électronique (la saisie de votre nom et prénom suffit) ;
+2. Votre nom et prénom, votre adresse (pays compris), votre numéro de téléphone et, à des fins de vérification, votre nom d'utilisateur Twitter et l'adresse email associée ;
+3. L'identification du contenu ayant été supprimé ou auquel l'accès a été désactivé, et de l'emplacement où le contenu apparaissait avant la suppression ou la désactivation de l'accès (la description figurant dans l'avertissement sur les droits d'auteur suffit) ;
+4. Une déclaration sous serment stipulant que vous croyez en toute bonne foi que le contenu a été supprimé ou désactivé par erreur ou en raison d'une identification erronée du contenu à supprimer ou à désactiver ; et
+5. L'une des déclarations de consentement juridictionnel suivantes :
 
 (Si votre adresse est américaine) 
 
