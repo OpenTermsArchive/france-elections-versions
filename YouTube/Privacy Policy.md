@@ -11,7 +11,7 @@ Vous souhaitez modifier vos paramètres de confidentialité ?
 
 [Faire un Check-up Confidentialité](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro&hl=fr)
 
-À compter du 10 février 2022 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf/20220210/8e0kln2a/google_privacy_policy_fr_eu.pdf)
+À compter du 10 février 2022 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf/20220210/8e0kln2a/google_privacy_policy_fr.pdf)
 
 Sommaire
 --------
@@ -374,52 +374,6 @@ Nous disposons de [serveurs aux quatre coins du monde](https://policies.google.
 
 Lorsque nous recevons une réclamation écrite officielle, nous y répondons en prenant contact avec l'utilisateur qui l'a formulée. Nous coopérons avec les autorités compétentes, y compris les autorités locales chargées de la protection des données, pour résoudre tout litige concernant le transfert de vos données que nous ne pouvons pas régler directement avec vous.
 
-Exigences européennes
----------------------
-
-Si la législation de l'Union européenne (UE) ou du Royaume-Uni s'applique au traitement de vos informations, nous mettons à votre disposition les outils décrits dans les présentes règles afin de vous permettre d'exercer votre droit de demande d'accès, de mise à jour, de suppression et de restriction du traitement de vos informations. Vous avez également le droit de vous opposer au traitement de vos informations ou d'exporter ces dernières vers un autre service.
-
-Sauf indication contraire dans un avis de confidentialité spécifique au service, le [responsable du traitement de vos informations](https://policies.google.com/privacy?hl=fr#footnote-data-controller) dépend de votre lieu de résidence :
-
-* Google Ireland Limited pour les utilisateurs de services Google basés dans l'Espace économique européen ou en Suisse
-* Google LLC pour les utilisateurs de services Google basés au Royaume-Uni
-
-Google LLC est responsable du traitement des informations indexées et affichées dans des services tels que la [Recherche Google](https://www.google.com/search/howsearchworks/crawling-indexing/?hl=fr) et Google Maps, indépendamment de votre position.
-
-Nous traitons vos informations aux fins décrites dans les présentes règles et conformément aux fondements juridiques suivants :
-
-### Avec votre consentement
-
-Nous vous demandons l'autorisation de traiter vos informations à des fins spécifiques, et vous êtes libre de revenir sur votre consentement à tout moment. Par exemple, nous demandons votre autorisation pour vous proposer des services personnalisés, tels que des annonces par centres d'intérêt. Nous vous demandons également l'autorisation de collecter les informations concernant votre activité audio et vocale pour améliorer la reconnaissance vocale. Vous pouvez gérer ces paramètres dans votre [compte Google](https://myaccount.google.com/?hl=fr).
-
-### Lorsque nous défendons des intérêts légitimes
-
-Nous traitons vos informations conformément à nos intérêts légitimes, ainsi qu'à ceux de [tiers](https://policies.google.com/privacy?hl=fr#footnote-third-parties), tout en appliquant des [mesures de protection appropriées](https://policies.google.com/privacy?hl=fr#footnote-safeguards) qui garantissent la confidentialité de vos données. Cela signifie que nous traitons vos informations notamment pour effectuer les opérations suivantes :
-
-* Proposer nos services, en assurer le fonctionnement et les améliorer pour répondre aux besoins de nos utilisateurs.
-* Développer de nouveaux produits et de nouvelles fonctionnalités utiles pour nos utilisateurs.
-* Comprendre la façon dont nos services sont utilisés afin [d'en assurer et d'en améliorer](https://policies.google.com/privacy?hl=fr#footnote-improve) les performances.
-* [Personnaliser nos services](https://policies.google.com/privacy?hl=fr#footnote-customizing) afin de vous offrir une meilleure expérience utilisateur (et, le cas échéant, l'adapter à l'âge)
-* Mener des actions de marketing en vue de faire connaître nos services auprès des utilisateurs.
-* Avoir recours à la publicité, ce qui nous permet de proposer sans frais beaucoup de nos services (et lorsque les annonces sont personnalisées, nous vous demandons votre autorisation)
-* Déceler, éviter ou traiter des activités frauduleuses, des abus, des atteintes à la sécurité ou tout problème d'ordre technique rencontré par nos services.
-* Nous nous prémunissons contre toute atteinte aux droits, aux biens ou à la sécurité de Google, ainsi qu'à ceux de nos utilisateurs ou du public, en application et dans le respect de la loi. Nous pouvons par exemple divulguer des informations aux organismes gouvernementaux.
-* Effectuer des recherches qui améliorent nos services pour nos utilisateurs et profitent au public.
-* Remplir des obligations envers nos partenaires (développeurs et détenteurs de droits, par exemple).
-* Faire respecter des décisions de justice, y compris pour constater d'éventuels cas de non-respect des conditions d'utilisation applicables.
-
-### Lorsque nous fournissons un service
-
-Nous traitons vos données afin de vous fournir un service que vous avez demandé et faisant l'objet d'un contrat. Par exemple, nous traitons vos informations de paiement lorsque vous achetez de l'espace de stockage supplémentaire pour Google Drive.
-
-### Lorsque nous nous conformons à des obligations légales
-
-Nous traitons vos données lorsque nous avons l'obligation légale de le faire, par exemple pour nous conformer à des [obligations judiciaires ou administratives](https://policies.google.com/privacy?hl=fr#footnote-legal).
-
-* * *
-
-Pour toute question, [vous pouvez contacter Google et notre bureau de protection des données](https://support.google.com/policies/troubleshooter/7575787?hl=fr). Si vous avez des questions relatives aux droits qui vous sont octroyés dans le cadre de votre législation locale, vous pouvez contacter votre autorité locale chargée de la protection des données.
-
 À propos des présentes règles
 =============================
 
@@ -451,7 +405,7 @@ Les avis de confidentialité suivants fournissent des informations supplémentai
 * [Fiber](https://fiber.google.com/legal/privacy.html)
 * [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
 * [Google Workspace for Education](https://workspace.google.com/terms/education_privacy.html)
-* [Read Along](https://readalong.google/intl/fr_GB/privacy)
+* [Read Along](https://readalong.google/intl/fr_IN/privacy)
 * [YouTube Kids](https://kids.youtube.com/privacynotice)
 * [Comptes Google gérés avec Family Link, pour les enfants de moins de 13 ans (ou l'âge légal de consentement dans votre pays)](https://families.google.com/familylink/privacy/child-policy/)
 * [Guide de confidentialité Family Link destiné aux enfants et aux adolescents](https://families.google.com/familylink/privacy/child-disclosure/?hl=fr)
@@ -628,10 +582,6 @@ Voici quelques exemples de la façon dont nous utilisons vos informations pour g
 
 Il se peut que votre appareil soit équipé de capteurs permettant de déterminer votre position géographique et de reconnaître vos mouvements. Par exemple, un accéléromètre permet de mesurer votre vitesse, et un gyroscope permet de connaître le sens dans lequel vous vous déplacez.
 
-### mesures de protection appropriées
-
-Par exemple, nous pouvons chiffrer les données ou les rendre anonymes pour garantir qu'aucun lien ne puisse être établi avec d'autres informations vous concernant. [En savoir plus](https://policies.google.com/technologies/anonymization?hl=fr)
-
 ### nous assurer que nos services fonctionnent correctement
 
 Par exemple, nous surveillons en permanence nos systèmes pour détecter d'éventuels problèmes. Si nous détectons un problème au niveau d'une fonctionnalité spécifique, l'analyse des informations relatives à votre activité, collectées avant l'apparition du problème, nous permet de le résoudre plus rapidement.
@@ -647,10 +597,6 @@ Comme d'autres entreprises spécialisées dans les technologies et les communica
 ### partenaires spécifiques
 
 Par exemple, nous permettons aux annonceurs et créateurs YouTube de collaborer avec des sociétés de mesure d'audience qui utilisent des cookies ou des technologies similaires pour en savoir plus sur les internautes qui regardent leurs annonces ou leurs vidéos YouTube. Autre exemple : les marchands utilisent des cookies sur nos pages de vente en ligne pour évaluer le nombre de personnes différentes qui consultent leurs fiches produit. Pour en savoir plus sur ces partenaires et la façon dont ils utilisent vos informations, [cliquez ici](https://policies.google.com/privacy/google-partners?hl=fr).
-
-### Personnaliser nos services
-
-Par exemple, nous pouvons afficher un doodle Google sur la page d'accueil de la recherche pour célébrer un événement propre à votre pays.
 
 ### personnes qui vous intéressent le plus sur le Web
 
@@ -677,10 +623,6 @@ Par exemple, les informations sur les atteintes à la sécurité peuvent nous pe
 ### reposent sur les cookies pour fonctionner correctement
 
 Par exemple, nous utilisons un cookie appelé "lbcs" qui vous permet d'ouvrir de nombreux fichiers Google Docs dans un seul navigateur. Le blocage de ce cookie empêche Google Docs de fonctionner correctement. [En savoir plus](https://policies.google.com/technologies/cookies?hl=fr#types-of-cookies)
-
-### responsable du traitement de vos informations
-
-Autrement dit, la société affiliée de Google qui est chargée de traiter vos informations et de respecter les lois applicables en matière de protection de la vie privée.
 
 ### résultats de recherche personnalisés
 
